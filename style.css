@@ -1,0 +1,131 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #1a1a2e;
+    background: #f5f5fa;
+    line-height: 1.5;
+    padding: 1.5rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header { margin-bottom: 1.5rem; }
+header h1 { font-size: 1.5rem; font-weight: 700; }
+header p { font-size: 0.85rem; color: #666; }
+
+/* Filters */
+#filters { margin-bottom: 1.5rem; }
+.filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    align-items: end;
+}
+.filter-row label {
+    display: flex;
+    flex-direction: column;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #555;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+.filter-row select,
+.filter-row input[type="date"] {
+    margin-top: 0.25rem;
+    padding: 0.4rem 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    background: #fff;
+    min-width: 140px;
+}
+
+/* Summary cards */
+#summary {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+.card {
+    background: #fff;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+.card-value { font-size: 1.8rem; font-weight: 700; color: #2d2d6b; }
+.card-label { font-size: 0.75rem; color: #888; text-transform: uppercase; letter-spacing: 0.05em; }
+
+/* Sections */
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.75rem;
+}
+.section-header h2 { font-size: 1.1rem; }
+.section-header button {
+    padding: 0.35rem 0.75rem;
+    font-size: 0.8rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: #fff;
+    cursor: pointer;
+    color: #333;
+}
+.section-header button:hover { background: #eee; }
+
+/* Tables */
+.table-wrap {
+    overflow-x: auto;
+    margin-bottom: 2rem;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+    background: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+thead { background: #f0f0f5; }
+th {
+    padding: 0.6rem 0.75rem;
+    text-align: left;
+    font-weight: 600;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #555;
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+}
+th:hover { color: #2d2d6b; }
+th.num, td.num { text-align: right; }
+th.sorted-asc::after { content: " ▲"; }
+th.sorted-desc::after { content: " ▼"; }
+td {
+    padding: 0.5rem 0.75rem;
+    border-top: 1px solid #eee;
+}
+tbody tr:hover { background: #fafaff; }
+.tag {
+    display: inline-block;
+    padding: 0.1rem 0.4rem;
+    border-radius: 3px;
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+.tag-league { background: #e8f0fe; color: #1a56db; }
+.tag-championship { background: #fef3e2; color: #b45309; }
+
+@media (max-width: 640px) {
+    body { padding: 1rem; }
+    .filter-row { flex-direction: column; }
+    .filter-row select, .filter-row input[type="date"] { width: 100%; }
+}

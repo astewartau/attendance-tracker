@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lorcana Attendance Tracker — ANZ</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Lorcana Attendance Tracker</h1>
+        <p id="last-updated">Loading...</p>
+    </header>
+
+    <section id="filters">
+        <div class="filter-row">
+            <label>
+                State
+                <select id="filter-state"><option value="">All</option></select>
+            </label>
+            <label>
+                Store
+                <select id="filter-store"><option value="">All</option></select>
+            </label>
+            <label>
+                Category
+                <select id="filter-category">
+                    <option value="">All</option>
+                    <option value="league">League</option>
+                    <option value="championship">Championship</option>
+                </select>
+            </label>
+            <label>
+                From
+                <input type="date" id="filter-from">
+            </label>
+            <label>
+                To
+                <input type="date" id="filter-to">
+            </label>
+        </div>
+    </section>
+
+    <section id="summary">
+        <div class="card">
+            <div class="card-value" id="total-events">—</div>
+            <div class="card-label">Events</div>
+        </div>
+        <div class="card">
+            <div class="card-value" id="avg-attendance">—</div>
+            <div class="card-label">Avg Attendance</div>
+        </div>
+        <div class="card">
+            <div class="card-value" id="unique-players">—</div>
+            <div class="card-label">Unique Players</div>
+        </div>
+        <div class="card">
+            <div class="card-value" id="total-stores">—</div>
+            <div class="card-label">Active Stores</div>
+        </div>
+    </section>
+
+    <section id="store-summary">
+        <div class="section-header">
+            <h2>Store Summary</h2>
+            <button id="download-stores-csv">Download CSV</button>
+        </div>
+        <div class="table-wrap">
+            <table id="store-table">
+                <thead>
+                    <tr>
+                        <th data-sort="name">Store</th>
+                        <th data-sort="state">State</th>
+                        <th data-sort="events" class="num">Events</th>
+                        <th data-sort="avg" class="num">Avg Att.</th>
+                        <th data-sort="players" class="num">Unique Players</th>
+                        <th data-sort="last">Last Event</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </section>
+
+    <section id="events-section">
+        <div class="section-header">
+            <h2>Events</h2>
+            <button id="download-events-csv">Download CSV</button>
+        </div>
+        <div class="table-wrap">
+            <table id="events-table">
+                <thead>
+                    <tr>
+                        <th data-sort="date">Date</th>
+                        <th data-sort="store">Store</th>
+                        <th data-sort="name">Event</th>
+                        <th data-sort="category">Type</th>
+                        <th data-sort="registered" class="num">Registered</th>
+                        <th data-sort="attended" class="num">Attended</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </section>
+
+    <script src="app.js"></script>
+</body>
+</html>
