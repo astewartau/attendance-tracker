@@ -2,6 +2,7 @@ let stores = [];
 let events = [];
 let registrations = {};  // keyed by state
 let loadedStates = new Set();
+let excludedStores = new Set();
 
 const storeMap = {};  // id -> store
 
@@ -88,6 +89,7 @@ function getFilteredEvents() {
     const state = document.getElementById("filter-state").value;
     const storeId = document.getElementById("filter-store").value;
     const category = document.getElementById("filter-category").value;
+    const status = document.getElementById("filter-status").value;
     const from = document.getElementById("filter-from").value;
     const to = document.getElementById("filter-to").value;
 
@@ -97,36 +99,39 @@ function getFilteredEvents() {
         if (state && store.state !== state) return false;
         if (storeId && e.store_id !== Number(storeId)) return false;
         if (category && e.category !== category) return false;
+        if (status === "finished" && e.event_status !== "EVENT_FINISHED") return false;
+        if (status === "scheduled" && e.event_status === "EVENT_FINISHED") return false;
         if (from && e.start_datetime < from) return false;
         if (to && e.start_datetime > to + "T23:59:59") return false;
         return true;
     });
 }
 
+function getFilteredEventsExcluded() {
+    return getFilteredEvents().filter(e => !excludedStores.has(e.store_id));
+}
+
 async function applyFilters() {
     const state = document.getElementById("filter-state").value;
     if (state) await loadRegistrations(state);
 
-    const filtered = getFilteredEvents();
-    updateSummary(filtered, state);
-    updateStoreTable(filtered, state);
-    updateEventsTable(filtered);
+    const allFiltered = getFilteredEvents();
+    const included = getFilteredEventsExcluded();
+    updateSummary(included, state);
+    updateStoreTable(allFiltered, state);
+    updateEventsTable(included);
 }
 
 // --- Summary Cards ---
 
 function updateSummary(filtered, state) {
-    const finishedEvents = filtered.filter(e => e.event_status === "EVENT_FINISHED");
+    document.getElementById("total-events").textContent = filtered.length;
 
-    document.getElementById("total-events").textContent = finishedEvents.length;
-
-    const totalAtt = finishedEvents.reduce((sum, e) => sum + (e.starting_player_count || 0), 0);
-    const avg = finishedEvents.length ? (totalAtt / finishedEvents.length).toFixed(1) : "—";
+    const totalAtt = filtered.reduce((sum, e) => sum + (e.starting_player_count || 0), 0);
+    const avg = filtered.length ? (totalAtt / filtered.length).toFixed(1) : "—";
     document.getElementById("avg-attendance").textContent = avg;
 
-    // Unique players from registrations
-    const storeIds = new Set(filtered.map(e => e.store_id));
-    const eventIds = new Set(finishedEvents.map(e => e.id));
+    const eventIds = new Set(filtered.map(e => e.id));
     let uniquePlayers = "—";
     if (state && registrations[state]) {
         const playerIds = new Set(
@@ -138,17 +143,16 @@ function updateSummary(filtered, state) {
     }
     document.getElementById("unique-players").textContent = uniquePlayers;
 
-    const activeStores = new Set(finishedEvents.map(e => e.store_id));
+    const activeStores = new Set(filtered.map(e => e.store_id));
     document.getElementById("total-stores").textContent = activeStores.size;
 }
 
 // --- Store Summary Table ---
 
 function updateStoreTable(filtered, state) {
-    const finishedEvents = filtered.filter(e => e.event_status === "EVENT_FINISHED");
     const byStore = {};
 
-    finishedEvents.forEach(e => {
+    filtered.forEach(e => {
         if (!byStore[e.store_id]) {
             byStore[e.store_id] = { events: [], totalAtt: 0 };
         }
@@ -157,13 +161,20 @@ function updateStoreTable(filtered, state) {
     });
 
     // Get unique players per store from registrations
+    const eventIdsByStore = {};
+    filtered.forEach(e => {
+        if (!eventIdsByStore[e.store_id]) eventIdsByStore[e.store_id] = new Set();
+        eventIdsByStore[e.store_id].add(e.id);
+    });
     const playersByStore = {};
     if (state && registrations[state]) {
         registrations[state].forEach(r => {
-            const event = finishedEvents.find(e => e.id === r.event_id);
-            if (event) {
-                if (!playersByStore[event.store_id]) playersByStore[event.store_id] = new Set();
-                playersByStore[event.store_id].add(r.user_id);
+            for (const [storeId, eventIds] of Object.entries(eventIdsByStore)) {
+                if (eventIds.has(r.event_id)) {
+                    if (!playersByStore[storeId]) playersByStore[storeId] = new Set();
+                    playersByStore[storeId].add(r.user_id);
+                    break;
+                }
             }
         });
     }
@@ -173,8 +184,9 @@ function updateStoreTable(filtered, state) {
         const avgAtt = data.events.length ? (data.totalAtt / data.events.length).toFixed(1) : 0;
         const dates = data.events.map(e => e.start_datetime).sort();
         const lastEvent = dates[dates.length - 1];
-        const uniquePlayers = playersByStore[Number(storeId)]?.size || "—";
+        const uniquePlayers = playersByStore[storeId]?.size || "—";
         return {
+            storeId: Number(storeId),
             name: store.name || "Unknown",
             state: store.state || "",
             events: data.events.length,
@@ -187,17 +199,7 @@ function updateStoreTable(filtered, state) {
     rows.sort((a, b) => b.events - a.events);
     window._storeRows = rows;
 
-    const tbody = document.querySelector("#store-table tbody");
-    tbody.innerHTML = rows.map(r => `
-        <tr>
-            <td>${esc(r.name)}</td>
-            <td>${esc(r.state)}</td>
-            <td class="num">${r.events}</td>
-            <td class="num">${r.avg}</td>
-            <td class="num">${r.players}</td>
-            <td>${r.last}</td>
-        </tr>
-    `).join("");
+    renderStoreRows(rows);
 }
 
 // --- Events Table ---
@@ -274,8 +276,12 @@ function getVal(row, key) {
 }
 
 function renderStoreRows(rows) {
-    document.querySelector("#store-table tbody").innerHTML = rows.map(r => `
-        <tr>
+    const tbody = document.querySelector("#store-table tbody");
+    tbody.innerHTML = rows.map(r => {
+        const checked = !excludedStores.has(r.storeId) ? "checked" : "";
+        return `
+        <tr class="${excludedStores.has(r.storeId) ? "excluded" : ""}">
+            <td class="check-col"><input type="checkbox" data-store-id="${r.storeId}" ${checked}></td>
             <td>${esc(r.name)}</td>
             <td>${esc(r.state)}</td>
             <td class="num">${r.events}</td>
@@ -283,7 +289,26 @@ function renderStoreRows(rows) {
             <td class="num">${r.players}</td>
             <td>${r.last}</td>
         </tr>
-    `).join("");
+        `;
+    }).join("");
+
+    // Attach checkbox listeners
+    tbody.querySelectorAll("input[type=checkbox]").forEach(cb => {
+        cb.addEventListener("change", () => {
+            const id = Number(cb.dataset.storeId);
+            if (cb.checked) {
+                excludedStores.delete(id);
+            } else {
+                excludedStores.add(id);
+            }
+            cb.closest("tr").classList.toggle("excluded", !cb.checked);
+            // Re-run summary and events without rebuilding store table
+            const state = document.getElementById("filter-state").value;
+            const included = getFilteredEventsExcluded();
+            updateSummary(included, state);
+            updateEventsTable(included);
+        });
+    });
 }
 
 function renderEventRows(rows) {
@@ -355,11 +380,30 @@ function esc(str) {
 // --- Event Listeners ---
 
 document.getElementById("filter-state").addEventListener("change", () => {
+    excludedStores.clear();
+    document.getElementById("store-select-all").checked = true;
     updateStoreDropdown();
     applyFilters();
 });
-["filter-store", "filter-category", "filter-from", "filter-to"].forEach(id => {
+["filter-store", "filter-category", "filter-status", "filter-from", "filter-to"].forEach(id => {
     document.getElementById(id).addEventListener("change", applyFilters);
+});
+
+document.getElementById("store-select-all").addEventListener("change", (e) => {
+    const checked = e.target.checked;
+    if (checked) {
+        excludedStores.clear();
+    } else {
+        (window._storeRows || []).forEach(r => excludedStores.add(r.storeId));
+    }
+    document.querySelectorAll("#store-table tbody input[type=checkbox]").forEach(cb => {
+        cb.checked = checked;
+        cb.closest("tr").classList.toggle("excluded", !checked);
+    });
+    const state = document.getElementById("filter-state").value;
+    const included = getFilteredEventsExcluded();
+    updateSummary(included, state);
+    updateEventsTable(included);
 });
 
 setupSorting();

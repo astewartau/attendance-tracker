@@ -124,6 +124,11 @@ tbody tr:hover { background: #fafaff; }
 .tag-league { background: #e8f0fe; color: #1a56db; }
 .tag-championship { background: #fef3e2; color: #b45309; }
 
+.check-col { width: 2rem; text-align: center; cursor: default; }
+.check-col input { cursor: pointer; }
+tr.excluded td { opacity: 0.4; }
+tr.excluded td.check-col { opacity: 1; }
+
 @media (max-width: 640px) {
     body { padding: 1rem; }
     .filter-row { flex-direction: column; }
