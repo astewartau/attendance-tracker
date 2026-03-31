@@ -60,12 +60,13 @@
         </div>
         <div class="card">
             <div class="card-value" id="unique-players">—</div>
-            <div class="card-label">Unique Players</div>
+            <div class="card-label" title="Deduplicated across all selected stores — a player attending multiple stores counts once">Unique Players *</div>
         </div>
         <div class="card">
             <div class="card-value" id="total-stores">—</div>
             <div class="card-label">Active Stores</div>
         </div>
+        <p class="footnote">* Unique Players in the summary is deduplicated across all selected stores. In the table below, unique players are per-store (a player at multiple stores counts at each).</p>
     </section>
 
     <section id="store-summary">
@@ -82,7 +83,7 @@
                         <th data-sort="state">State</th>
                         <th data-sort="events" class="num">Events</th>
                         <th data-sort="avg" class="num">Avg Att.</th>
-                        <th data-sort="players" class="num">Unique Players</th>
+                        <th data-sort="players" class="num" title="Unique players at this store — players attending multiple stores are counted at each">Unique Players</th>
                         <th data-sort="last">Last Event</th>
                     </tr>
                 </thead>

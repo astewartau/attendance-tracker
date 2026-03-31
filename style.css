@@ -124,6 +124,8 @@ tbody tr:hover { background: #fafaff; }
 .tag-league { background: #e8f0fe; color: #1a56db; }
 .tag-championship { background: #fef3e2; color: #b45309; }
 
+.footnote { font-size: 0.75rem; color: #888; margin-top: 0.5rem; }
+
 .check-col { width: 2rem; text-align: center; cursor: default; }
 .check-col input { cursor: pointer; }
 tr.excluded td { opacity: 0.4; }
