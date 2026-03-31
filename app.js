@@ -38,7 +38,7 @@ async function init() {
 }
 
 async function loadRegistrations(state) {
-    if (!state || loadedStates.has(state)) return;
+    if (loadedStates.has(state)) return;
     try {
         const data = await loadJSON(`data/registrations/${state}.json`);
         registrations[state] = data;
@@ -47,6 +47,11 @@ async function loadRegistrations(state) {
         registrations[state] = [];
         loadedStates.add(state);
     }
+}
+
+async function loadAllRegistrations() {
+    const states = [...new Set(stores.map(s => s.state))].filter(Boolean);
+    await Promise.all(states.map(s => loadRegistrations(s)));
 }
 
 // --- Filters ---
@@ -113,7 +118,11 @@ function getFilteredEventsExcluded() {
 
 async function applyFilters() {
     const state = document.getElementById("filter-state").value;
-    if (state) await loadRegistrations(state);
+    if (state) {
+        await loadRegistrations(state);
+    } else {
+        await loadAllRegistrations();
+    }
 
     const allFiltered = getFilteredEvents();
     const included = getFilteredEventsExcluded();
@@ -136,16 +145,13 @@ function updateSummary(filtered, state) {
     document.getElementById("avg-attendance").textContent = avg;
 
     const eventIds = new Set(withData.map(e => e.id));
-    let uniquePlayers = "—";
-    if (state && registrations[state]) {
-        const playerIds = new Set(
-            registrations[state]
-                .filter(r => eventIds.has(r.event_id))
-                .map(r => r.user_id)
-        );
-        uniquePlayers = playerIds.size;
-    }
-    document.getElementById("unique-players").textContent = uniquePlayers;
+    const allRegs = state ? (registrations[state] || []) : Object.values(registrations).flat();
+    const playerIds = new Set(
+        allRegs
+            .filter(r => eventIds.has(r.event_id))
+            .map(r => r.user_id)
+    );
+    document.getElementById("unique-players").textContent = playerIds.size;
 
     const activeStores = new Set(withData.map(e => e.store_id));
     document.getElementById("total-stores").textContent = activeStores.size;
@@ -173,8 +179,9 @@ function updateStoreTable(filtered, state) {
         eventIdsByStore[e.store_id].add(e.id);
     });
     const playersByStore = {};
-    if (state && registrations[state]) {
-        registrations[state].forEach(r => {
+    const allRegs = state ? (registrations[state] || []) : Object.values(registrations).flat();
+    if (allRegs.length) {
+        allRegs.forEach(r => {
             for (const [storeId, eventIds] of Object.entries(eventIdsByStore)) {
                 if (eventIds.has(r.event_id)) {
                     if (!playersByStore[storeId]) playersByStore[storeId] = new Set();
