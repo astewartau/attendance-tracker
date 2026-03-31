@@ -348,7 +348,6 @@ function renderEventRows(rows) {
 
 let chartAttendance = null;
 let chartStores = null;
-let chartCategory = null;
 
 const CHART_COLORS = {
     blue: "rgba(45, 45, 107, 0.85)",
@@ -378,7 +377,6 @@ function updateCharts(filtered) {
     const withData = filtered.filter(e => e.starting_player_count > 0);
     updateAttendanceChart(withData);
     updateStoreBarChart(withData);
-    updateCategoryChart(withData);
 }
 
 function updateAttendanceChart(withData) {
@@ -426,16 +424,19 @@ function updateAttendanceChart(withData) {
 }
 
 function updateStoreBarChart(withData) {
-    const storeAtt = {};
+    const storeData = {};
     withData.forEach(e => {
         const name = (storeMap[e.store_id] || {}).name || "Unknown";
-        storeAtt[name] = (storeAtt[name] || 0) + e.starting_player_count;
+        if (!storeData[name]) storeData[name] = { total: 0, count: 0 };
+        storeData[name].total += e.starting_player_count;
+        storeData[name].count++;
     });
-    const sorted = Object.entries(storeAtt)
+    const sorted = Object.entries(storeData)
+        .map(([name, d]) => [name, d.total / d.count])
         .sort((a, b) => b[1] - a[1])
         .slice(0, 15);
     const labels = sorted.map(s => s[0]);
-    const values = sorted.map(s => s[1]);
+    const values = sorted.map(s => parseFloat(s[1].toFixed(1)));
     const colors = labels.map((_, i) => CHART_COLORS.barColors[i % CHART_COLORS.barColors.length]);
 
     const ctx = document.getElementById("chart-stores").getContext("2d");
@@ -445,7 +446,7 @@ function updateStoreBarChart(withData) {
         data: {
             labels,
             datasets: [{
-                label: "Total Attendance",
+                label: "Avg Attendance",
                 data: values,
                 backgroundColor: colors,
                 borderRadius: 3,
@@ -459,43 +460,10 @@ function updateStoreBarChart(withData) {
             scales: {
                 x: {
                     beginAtZero: true,
-                    title: { display: true, text: "Total Attendance", font: { size: 11 } },
+                    title: { display: true, text: "Avg Attendance", font: { size: 11 } },
                 },
                 y: {
                     ticks: { font: { size: 10 } },
-                },
-            },
-        },
-    });
-}
-
-function updateCategoryChart(withData) {
-    let league = 0, championship = 0;
-    withData.forEach(e => {
-        if (e.category === "championship") championship++;
-        else league++;
-    });
-
-    const ctx = document.getElementById("chart-category").getContext("2d");
-    if (chartCategory) chartCategory.destroy();
-    chartCategory = new Chart(ctx, {
-        type: "doughnut",
-        data: {
-            labels: ["League", "Championship"],
-            datasets: [{
-                data: [league, championship],
-                backgroundColor: [CHART_COLORS.lightBlue, CHART_COLORS.purple],
-                borderWidth: 1,
-                borderColor: "#fff",
-            }],
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: true,
-            plugins: {
-                legend: {
-                    position: "bottom",
-                    labels: { font: { size: 11 }, padding: 12 },
                 },
             },
         },
