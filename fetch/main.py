@@ -73,9 +73,13 @@ def main():
         all_events.extend(event_records)
         print(f"  Found {len(event_records)} events")
 
-        # Step 3: Fetch registrations for finished events
+        # Step 3: Fetch registrations for events that have players
+        # Some stores don't properly close events, so also include past events
+        # with registered players regardless of lifecycle status
         archived = [e for e in raw_events
-                     if e.get("settings", {}).get("event_lifecycle_status") == "EVENT_FINISHED"]
+                     if e.get("settings", {}).get("event_lifecycle_status") == "EVENT_FINISHED"
+                     or (e.get("registered_user_count", 0) > 0
+                         and e.get("start_datetime", "9999") < datetime.now(timezone.utc).isoformat())]
         for event in archived:
             try:
                 raw_regs = get_registrations(session, event["id"])

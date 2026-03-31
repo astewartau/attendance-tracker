@@ -125,13 +125,17 @@ async function applyFilters() {
 // --- Summary Cards ---
 
 function updateSummary(filtered, state) {
-    document.getElementById("total-events").textContent = filtered.length;
+    // Exclude events with 0 attendance from summaries — stores that
+    // don't record players through PlayHub would skew the numbers
+    const withData = filtered.filter(e => e.starting_player_count > 0);
 
-    const totalAtt = filtered.reduce((sum, e) => sum + (e.starting_player_count || 0), 0);
-    const avg = filtered.length ? (totalAtt / filtered.length).toFixed(1) : "—";
+    document.getElementById("total-events").textContent = withData.length;
+
+    const totalAtt = withData.reduce((sum, e) => sum + e.starting_player_count, 0);
+    const avg = withData.length ? (totalAtt / withData.length).toFixed(1) : "—";
     document.getElementById("avg-attendance").textContent = avg;
 
-    const eventIds = new Set(filtered.map(e => e.id));
+    const eventIds = new Set(withData.map(e => e.id));
     let uniquePlayers = "—";
     if (state && registrations[state]) {
         const playerIds = new Set(
@@ -143,26 +147,28 @@ function updateSummary(filtered, state) {
     }
     document.getElementById("unique-players").textContent = uniquePlayers;
 
-    const activeStores = new Set(filtered.map(e => e.store_id));
+    const activeStores = new Set(withData.map(e => e.store_id));
     document.getElementById("total-stores").textContent = activeStores.size;
 }
 
 // --- Store Summary Table ---
 
 function updateStoreTable(filtered, state) {
+    // Only count events with actual attendance data
+    const withData = filtered.filter(e => e.starting_player_count > 0);
     const byStore = {};
 
-    filtered.forEach(e => {
+    withData.forEach(e => {
         if (!byStore[e.store_id]) {
             byStore[e.store_id] = { events: [], totalAtt: 0 };
         }
         byStore[e.store_id].events.push(e);
-        byStore[e.store_id].totalAtt += e.starting_player_count || 0;
+        byStore[e.store_id].totalAtt += e.starting_player_count;
     });
 
     // Get unique players per store from registrations
     const eventIdsByStore = {};
-    filtered.forEach(e => {
+    withData.forEach(e => {
         if (!eventIdsByStore[e.store_id]) eventIdsByStore[e.store_id] = new Set();
         eventIdsByStore[e.store_id].add(e.id);
     });

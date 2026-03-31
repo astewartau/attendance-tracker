@@ -59,13 +59,26 @@ def build_store_record(store):
 
 def build_event_record(event, store_id):
     """Build a slim event record for JSON output."""
+    from datetime import datetime, timezone
+    lifecycle = event.get("settings", {}).get("event_lifecycle_status", "")
+    start = event.get("start_datetime", "")
+    has_players = event.get("registered_user_count", 0) > 0
+    past = start < datetime.now(timezone.utc).isoformat() if start else False
+
+    # Treat past events with players as finished even if the store
+    # didn't properly close them out on PlayHub
+    if lifecycle != "EVENT_FINISHED" and past and has_players:
+        status = "EVENT_FINISHED"
+    else:
+        status = lifecycle
+
     return {
         "id": event["id"],
         "store_id": store_id,
         "name": event.get("name", ""),
         "category": classify_event(event),
-        "event_status": event.get("settings", {}).get("event_lifecycle_status", ""),
-        "start_datetime": event.get("start_datetime", ""),
+        "event_status": status,
+        "start_datetime": start,
         "registered_user_count": event.get("registered_user_count", 0),
         "starting_player_count": event.get("starting_player_count", 0),
     }
