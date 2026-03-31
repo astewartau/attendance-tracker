@@ -129,6 +129,7 @@ async function applyFilters() {
     updateSummary(included, state);
     updateStoreTable(allFiltered, state);
     updateEventsTable(included);
+    updateCharts(included);
 }
 
 // --- Summary Cards ---
@@ -315,11 +316,12 @@ function renderStoreRows(rows) {
                 excludedStores.add(id);
             }
             cb.closest("tr").classList.toggle("excluded", !cb.checked);
-            // Re-run summary and events without rebuilding store table
+            // Re-run summary, events, and charts without rebuilding store table
             const state = document.getElementById("filter-state").value;
             const included = getFilteredEventsExcluded();
             updateSummary(included, state);
             updateEventsTable(included);
+            updateCharts(included);
         });
     });
 }
@@ -340,6 +342,164 @@ function renderEventRows(rows) {
             </tr>
         `;
     }).join("");
+}
+
+// --- Charts ---
+
+let chartAttendance = null;
+let chartStores = null;
+let chartCategory = null;
+
+const CHART_COLORS = {
+    blue: "rgba(45, 45, 107, 0.85)",
+    purple: "rgba(109, 76, 161, 0.85)",
+    lightBlue: "rgba(74, 134, 232, 0.85)",
+    lightPurple: "rgba(155, 120, 200, 0.85)",
+    blueFill: "rgba(74, 134, 232, 0.15)",
+    barColors: [
+        "#2d2d6b","#4a86e8","#6d4ca1","#3b7dd8","#9b78c8",
+        "#2563eb","#7c3aed","#4f8fea","#6b4fa0","#5b9fe8",
+        "#8b5cf6","#3d5afe","#7e57c2","#448aff","#651fff",
+    ],
+};
+
+function getISOWeekKey(dateStr) {
+    const d = new Date(dateStr);
+    // Adjust to Monday-based ISO week
+    const day = d.getUTCDay() || 7;
+    d.setUTCDate(d.getUTCDate() + 4 - day);
+    const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
+    const weekNo = Math.ceil(((d - yearStart) / 86400000 + 1) / 7);
+    const year = d.getUTCFullYear();
+    return `${year}-W${String(weekNo).padStart(2, "0")}`;
+}
+
+function updateCharts(filtered) {
+    const withData = filtered.filter(e => e.starting_player_count > 0);
+    updateAttendanceChart(withData);
+    updateStoreBarChart(withData);
+    updateCategoryChart(withData);
+}
+
+function updateAttendanceChart(withData) {
+    const weekMap = {};
+    withData.forEach(e => {
+        const week = getISOWeekKey(e.start_datetime);
+        weekMap[week] = (weekMap[week] || 0) + e.starting_player_count;
+    });
+    const weeks = Object.keys(weekMap).sort();
+    const values = weeks.map(w => weekMap[w]);
+
+    const ctx = document.getElementById("chart-attendance").getContext("2d");
+    if (chartAttendance) chartAttendance.destroy();
+    chartAttendance = new Chart(ctx, {
+        type: "line",
+        data: {
+            labels: weeks,
+            datasets: [{
+                label: "Total Attendance",
+                data: values,
+                borderColor: CHART_COLORS.blue,
+                backgroundColor: CHART_COLORS.blueFill,
+                fill: true,
+                tension: 0.3,
+                pointRadius: weeks.length > 30 ? 1 : 3,
+                pointHoverRadius: 5,
+            }],
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            plugins: { legend: { display: false } },
+            scales: {
+                x: {
+                    title: { display: true, text: "Week", font: { size: 11 } },
+                    ticks: { maxRotation: 45, font: { size: 10 }, maxTicksLimit: 20 },
+                },
+                y: {
+                    title: { display: true, text: "Attendance", font: { size: 11 } },
+                    beginAtZero: true,
+                },
+            },
+        },
+    });
+}
+
+function updateStoreBarChart(withData) {
+    const storeAtt = {};
+    withData.forEach(e => {
+        const name = (storeMap[e.store_id] || {}).name || "Unknown";
+        storeAtt[name] = (storeAtt[name] || 0) + e.starting_player_count;
+    });
+    const sorted = Object.entries(storeAtt)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 15);
+    const labels = sorted.map(s => s[0]);
+    const values = sorted.map(s => s[1]);
+    const colors = labels.map((_, i) => CHART_COLORS.barColors[i % CHART_COLORS.barColors.length]);
+
+    const ctx = document.getElementById("chart-stores").getContext("2d");
+    if (chartStores) chartStores.destroy();
+    chartStores = new Chart(ctx, {
+        type: "bar",
+        data: {
+            labels,
+            datasets: [{
+                label: "Total Attendance",
+                data: values,
+                backgroundColor: colors,
+                borderRadius: 3,
+            }],
+        },
+        options: {
+            indexAxis: "y",
+            responsive: true,
+            maintainAspectRatio: true,
+            plugins: { legend: { display: false } },
+            scales: {
+                x: {
+                    beginAtZero: true,
+                    title: { display: true, text: "Total Attendance", font: { size: 11 } },
+                },
+                y: {
+                    ticks: { font: { size: 10 } },
+                },
+            },
+        },
+    });
+}
+
+function updateCategoryChart(withData) {
+    let league = 0, championship = 0;
+    withData.forEach(e => {
+        if (e.category === "championship") championship++;
+        else league++;
+    });
+
+    const ctx = document.getElementById("chart-category").getContext("2d");
+    if (chartCategory) chartCategory.destroy();
+    chartCategory = new Chart(ctx, {
+        type: "doughnut",
+        data: {
+            labels: ["League", "Championship"],
+            datasets: [{
+                data: [league, championship],
+                backgroundColor: [CHART_COLORS.lightBlue, CHART_COLORS.purple],
+                borderWidth: 1,
+                borderColor: "#fff",
+            }],
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            plugins: {
+                legend: {
+                    position: "bottom",
+                    labels: { font: { size: 11 }, padding: 12 },
+                },
+            },
+        },
+    });
 }
 
 // --- CSV Export ---
@@ -417,6 +577,7 @@ document.getElementById("store-select-all").addEventListener("change", (e) => {
     const included = getFilteredEventsExcluded();
     updateSummary(included, state);
     updateEventsTable(included);
+    updateCharts(included);
 });
 
 setupSorting();

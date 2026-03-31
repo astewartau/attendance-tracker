@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lorcana Attendance Tracker — AU/NZ</title>
     <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
     <header>
@@ -67,6 +68,24 @@
             <div class="card-label">Active Stores</div>
         </div>
         <p class="footnote">* Unique Players in the summary is deduplicated across all selected stores. In the table below, unique players are per-store (a player at multiple stores counts at each).</p>
+    </section>
+
+    <section id="charts">
+        <h2>Charts</h2>
+        <div class="charts-grid">
+            <div class="chart-card chart-card-wide">
+                <h3>Attendance Over Time</h3>
+                <canvas id="chart-attendance"></canvas>
+            </div>
+            <div class="chart-card">
+                <h3>Top Stores by Attendance</h3>
+                <canvas id="chart-stores"></canvas>
+            </div>
+            <div class="chart-card chart-card-small">
+                <h3>Event Category Breakdown</h3>
+                <canvas id="chart-category"></canvas>
+            </div>
+        </div>
     </section>
 
     <section id="store-summary">

@@ -131,6 +131,35 @@ tbody tr:hover { background: #fafaff; }
 tr.excluded td { opacity: 0.4; }
 tr.excluded td.check-col { opacity: 1; }
 
+/* Charts */
+#charts { margin-bottom: 2rem; }
+#charts > h2 { font-size: 1.1rem; margin-bottom: 0.75rem; }
+.charts-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+.chart-card {
+    background: #fff;
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+.chart-card h3 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #555;
+    margin-bottom: 0.5rem;
+}
+.chart-card-wide { grid-column: 1 / -1; }
+.chart-card-small { max-width: 320px; }
+
+@media (max-width: 768px) {
+    .charts-grid { grid-template-columns: 1fr; }
+    .chart-card-small { max-width: none; }
+}
+
 @media (max-width: 640px) {
     body { padding: 1rem; }
     .filter-row { flex-direction: column; }
