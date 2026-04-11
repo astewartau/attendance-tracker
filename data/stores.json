@@ -432,15 +432,6 @@
     "longitude": 174.7725961
   },
   {
-    "id": 39768,
-    "name": "Card Merchant Tauranga",
-    "country": "NZ",
-    "state": "NZ",
-    "full_address": "223 Fraser Street, Tauranga South, Tauranga 3112, New Zealand",
-    "latitude": -37.710821599999996,
-    "longitude": 176.15203209999999
-  },
-  {
     "id": 40366,
     "name": "Card Merchant Tauranga",
     "country": "NZ",
@@ -448,6 +439,15 @@
     "full_address": "112 Devonport Road, Tauranga, Bay of Plenty, 3110, NZ",
     "latitude": -37.6871639,
     "longitude": 176.1693693
+  },
+  {
+    "id": 39768,
+    "name": "Card Merchant Tauranga",
+    "country": "NZ",
+    "state": "NZ",
+    "full_address": "223 Fraser Street, Tauranga South, Tauranga 3112, New Zealand",
+    "latitude": -37.710821599999996,
+    "longitude": 176.15203209999999
   },
   {
     "id": 35377,
@@ -1116,20 +1116,20 @@
     "longitude": 145.4067144
   },
   {
-    "id": 14575,
-    "name": "Games Portal",
-    "country": "AU",
-    "state": "VIC",
-    "full_address": "1-5 Station St, Mitcham VIC 3132, Australia",
-    "latitude": -37.817342,
-    "longitude": 145.192702
-  },
-  {
     "id": 2005,
     "name": "Games Portal",
     "country": "AU",
     "state": "VIC",
     "full_address": "1-5 Station St, Mitcham, VIC, 3132, AU",
+    "latitude": -37.817342,
+    "longitude": 145.192702
+  },
+  {
+    "id": 14575,
+    "name": "Games Portal",
+    "country": "AU",
+    "state": "VIC",
+    "full_address": "1-5 Station St, Mitcham VIC 3132, Australia",
     "latitude": -37.817342,
     "longitude": 145.192702
   },
