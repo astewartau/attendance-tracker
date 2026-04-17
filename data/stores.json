@@ -432,13 +432,13 @@
     "longitude": 174.7725961
   },
   {
-    "id": 35377,
+    "id": 40366,
     "name": "Card Merchant Tauranga",
     "country": "NZ",
     "state": "NZ",
-    "full_address": "219-261 Fraser Street, Tauranga South, Tauranga 3112, New Zealand",
-    "latitude": -37.7120003,
-    "longitude": 176.1512507
+    "full_address": "112 Devonport Road, Tauranga, Bay of Plenty, 3110, NZ",
+    "latitude": -37.6871639,
+    "longitude": 176.1693693
   },
   {
     "id": 39768,
@@ -450,13 +450,13 @@
     "longitude": 176.15203209999999
   },
   {
-    "id": 40366,
+    "id": 35377,
     "name": "Card Merchant Tauranga",
     "country": "NZ",
     "state": "NZ",
-    "full_address": "112 Devonport Road, Tauranga, Bay of Plenty, 3110, NZ",
-    "latitude": -37.6871639,
-    "longitude": 176.1693693
+    "full_address": "219-261 Fraser Street, Tauranga South, Tauranga 3112, New Zealand",
+    "latitude": -37.7120003,
+    "longitude": 176.1512507
   },
   {
     "id": 18139,
@@ -630,15 +630,6 @@
     "longitude": 149.1205705
   },
   {
-    "id": 47297,
-    "name": "Collectors Guild",
-    "country": "NZ",
-    "state": "NZ",
-    "full_address": "45 Carr Road, Three Kings, Auckland 1042, New Zealand",
-    "latitude": -36.913790999999996,
-    "longitude": 174.75360770000003
-  },
-  {
     "id": 17310,
     "name": "Collectors Guild",
     "country": "NZ",
@@ -646,6 +637,15 @@
     "full_address": "21A Queen Street, Waiuku 2123, New Zealand",
     "latitude": -37.2489734,
     "longitude": 174.7302043
+  },
+  {
+    "id": 47297,
+    "name": "Collectors Guild",
+    "country": "NZ",
+    "state": "NZ",
+    "full_address": "45 Carr Road, Three Kings, Auckland 1042, New Zealand",
+    "latitude": -36.913790999999996,
+    "longitude": 174.75360770000003
   },
   {
     "id": 17675,
@@ -1116,20 +1116,20 @@
     "longitude": 145.4067144
   },
   {
-    "id": 2005,
-    "name": "Games Portal",
-    "country": "AU",
-    "state": "VIC",
-    "full_address": "1-5 Station St, Mitcham, VIC, 3132, AU",
-    "latitude": -37.817342,
-    "longitude": 145.192702
-  },
-  {
     "id": 14575,
     "name": "Games Portal",
     "country": "AU",
     "state": "VIC",
     "full_address": "1-5 Station St, Mitcham VIC 3132, Australia",
+    "latitude": -37.817342,
+    "longitude": 145.192702
+  },
+  {
+    "id": 2005,
+    "name": "Games Portal",
+    "country": "AU",
+    "state": "VIC",
+    "full_address": "1-5 Station St, Mitcham, VIC, 3132, AU",
     "latitude": -37.817342,
     "longitude": 145.192702
   },
@@ -1710,15 +1710,6 @@
     "longitude": 144.65232882996247
   },
   {
-    "id": 18138,
-    "name": "HBT Collectables",
-    "country": "AU",
-    "state": "VIC",
-    "full_address": "1/1 Tegwen Street, Belmont, VIC, 3216, AU",
-    "latitude": -38.1822221,
-    "longitude": 144.3525699
-  },
-  {
     "id": 34269,
     "name": "HBT Collectables",
     "country": "AU",
@@ -1726,6 +1717,15 @@
     "full_address": "1, 1, Tegwen St, Belmont, VIC, 3216, AU",
     "latitude": -38.1822304,
     "longitude": 144.3526395
+  },
+  {
+    "id": 18138,
+    "name": "HBT Collectables",
+    "country": "AU",
+    "state": "VIC",
+    "full_address": "1/1 Tegwen Street, Belmont, VIC, 3216, AU",
+    "latitude": -38.1822221,
+    "longitude": 144.3525699
   },
   {
     "id": 2400,
@@ -1827,15 +1827,6 @@
     "longitude": 174.7771829
   },
   {
-    "id": 2463,
-    "name": "Hobby Lords Palmerston North",
-    "country": "NZ",
-    "state": "NZ",
-    "full_address": "235 Main street, Palmerston North, 4410, NZ",
-    "latitude": -40.3593456,
-    "longitude": 175.6035847
-  },
-  {
     "id": 23397,
     "name": "Hobby Lords Palmerston North",
     "country": "NZ",
@@ -1843,6 +1834,15 @@
     "full_address": "Palmerston North, New Zealand",
     "latitude": -40.3544628,
     "longitude": 175.60974779999998
+  },
+  {
+    "id": 2463,
+    "name": "Hobby Lords Palmerston North",
+    "country": "NZ",
+    "state": "NZ",
+    "full_address": "235 Main street, Palmerston North, 4410, NZ",
+    "latitude": -40.3593456,
+    "longitude": 175.6035847
   },
   {
     "id": 18259,
@@ -3024,15 +3024,6 @@
     "longitude": 153.0054444
   },
   {
-    "id": 4357,
-    "name": "Sovereign Cards",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "14/47 Cook Ct, North Lakes QLD 4509, Australia",
-    "latitude": -27.2125803,
-    "longitude": 152.9937153
-  },
-  {
     "id": 24077,
     "name": "Sovereign Cards",
     "country": "AU",
@@ -3040,6 +3031,15 @@
     "full_address": "Brisbane QLD, Australia",
     "latitude": -27.4704528,
     "longitude": 153.0260341
+  },
+  {
+    "id": 4357,
+    "name": "Sovereign Cards",
+    "country": "AU",
+    "state": "QLD",
+    "full_address": "14/47 Cook Ct, North Lakes QLD 4509, Australia",
+    "latitude": -27.2125803,
+    "longitude": 152.9937153
   },
   {
     "id": 36621,
@@ -3492,15 +3492,6 @@
     "longitude": 174.99167129999998
   },
   {
-    "id": 19528,
-    "name": "The Wicked Goblin",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "58 Lake St, Cairns City QLD 4870, Australia",
-    "latitude": -16.922744899999998,
-    "longitude": 145.7771636
-  },
-  {
     "id": 24281,
     "name": "The Wicked Goblin",
     "country": "AU",
@@ -3508,6 +3499,15 @@
     "full_address": "58 Lake St, Cairns City QLD 4870, Australia",
     "latitude": -16.9227296,
     "longitude": 145.7772164
+  },
+  {
+    "id": 19528,
+    "name": "The Wicked Goblin",
+    "country": "AU",
+    "state": "QLD",
+    "full_address": "58 Lake St, Cairns City QLD 4870, Australia",
+    "latitude": -16.922744899999998,
+    "longitude": 145.7771636
   },
   {
     "id": 16907,
@@ -3636,15 +3636,6 @@
     "longitude": 141.4659089
   },
   {
-    "id": 13801,
-    "name": "Unplugged Games",
-    "country": "AU",
-    "state": "NSW",
-    "full_address": "35 Kyogle St, Colebee NSW 2761, Australia",
-    "latitude": -33.72070859999999,
-    "longitude": 150.8500674
-  },
-  {
     "id": 5220,
     "name": "Unplugged Games",
     "country": "AU",
@@ -3652,6 +3643,15 @@
     "full_address": "shop 3/132 Dawson St, Lismore NSW 2480, Australia",
     "latitude": -28.8135811,
     "longitude": 153.2785563
+  },
+  {
+    "id": 13801,
+    "name": "Unplugged Games",
+    "country": "AU",
+    "state": "NSW",
+    "full_address": "35 Kyogle St, Colebee NSW 2761, Australia",
+    "latitude": -33.72070859999999,
+    "longitude": 150.8500674
   },
   {
     "id": 24046,
