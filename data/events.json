@@ -694,10 +694,10 @@
     "store_id": 108,
     "name": "Sunday Morning Winterspell - Set Championship",
     "category": "championship",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-19T01:00:00+00:00",
-    "registered_user_count": 12,
-    "starting_player_count": 12
+    "registered_user_count": 1,
+    "starting_player_count": 18
   },
   {
     "id": 448388,
@@ -1440,16 +1440,6 @@
     "starting_player_count": 14
   },
   {
-    "id": 172813,
-    "store_id": 13895,
-    "name": "Sunday Morning Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-08-03T01:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 5
-  },
-  {
     "id": 168228,
     "store_id": 13895,
     "name": "Area52 Lorcana Weekly Constructed",
@@ -1457,6 +1447,16 @@
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2025-08-03T01:00:00+00:00",
     "registered_user_count": 5,
+    "starting_player_count": 5
+  },
+  {
+    "id": 172813,
+    "store_id": 13895,
+    "name": "Sunday Morning Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-08-03T01:00:00+00:00",
+    "registered_user_count": 0,
     "starting_player_count": 5
   },
   {
@@ -1480,16 +1480,6 @@
     "starting_player_count": 7
   },
   {
-    "id": 168231,
-    "store_id": 13895,
-    "name": "Area52 Lorcana Weekly Constructed",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-08-24T01:00:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
-  },
-  {
     "id": 180281,
     "store_id": 13895,
     "name": "Sunday Morning Weekly Play (Constructed)",
@@ -1498,6 +1488,16 @@
     "start_datetime": "2025-08-24T01:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 168231,
+    "store_id": 13895,
+    "name": "Area52 Lorcana Weekly Constructed",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-08-24T01:00:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 181964,
@@ -1750,36 +1750,6 @@
     "starting_player_count": 7
   },
   {
-    "id": 399812,
-    "store_id": 13895,
-    "name": "Area52 Lorcana Weekly Constructed",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-02-22T00:00:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
-  },
-  {
-    "id": 399816,
-    "store_id": 13895,
-    "name": "Area52 Lorcana Weekly Constructed",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-03-01T00:00:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
-  },
-  {
-    "id": 399817,
-    "store_id": 13895,
-    "name": "Area52 Lorcana Weekly Constructed",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-03-08T00:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 399824,
     "store_id": 13895,
     "name": "Area52 Lorcana Weekly Constructed",
@@ -1788,26 +1758,6 @@
     "start_datetime": "2026-03-15T00:00:00+00:00",
     "registered_user_count": 6,
     "starting_player_count": 6
-  },
-  {
-    "id": 399827,
-    "store_id": 13895,
-    "name": "Area52 Lorcana Weekly Constructed",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-03-22T00:00:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
-  },
-  {
-    "id": 399830,
-    "store_id": 13895,
-    "name": "Area52 Lorcana Weekly Constructed",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-03-29T00:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
   },
   {
     "id": 485142,
@@ -1824,10 +1774,10 @@
     "store_id": 13895,
     "name": "Lorcana Winterspell Set Championship Area52",
     "category": "championship",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-19T01:00:00+00:00",
-    "registered_user_count": 7,
-    "starting_player_count": 7
+    "registered_user_count": 1,
+    "starting_player_count": 13
   },
   {
     "id": 175567,
@@ -3396,8 +3346,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-04-22T08:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 468963,
@@ -3406,6 +3356,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-04-29T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 510473,
+    "store_id": 393,
+    "name": "Flashback Sealed",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-05-03T02:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -6330,16 +6290,6 @@
     "starting_player_count": 7
   },
   {
-    "id": 316074,
-    "store_id": 689,
-    "name": "CMH Sunday Weekly Hobby",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-02-14T21:30:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
-  },
-  {
     "id": 393060,
     "store_id": 689,
     "name": "Card Merchant Hamilton Winterspell Pre-Release #2",
@@ -6348,6 +6298,16 @@
     "start_datetime": "2026-02-14T21:30:00+00:00",
     "registered_user_count": 12,
     "starting_player_count": 12
+  },
+  {
+    "id": 316074,
+    "store_id": 689,
+    "name": "CMH Sunday Weekly Hobby",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-02-14T21:30:00+00:00",
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 316066,
@@ -6380,7 +6340,7 @@
     "starting_player_count": 0
   },
   {
-    "id": 424528,
+    "id": 424478,
     "store_id": 689,
     "name": "CMH Sunday Weekly Hobby",
     "category": "league",
@@ -6390,7 +6350,7 @@
     "starting_player_count": 0
   },
   {
-    "id": 424478,
+    "id": 424528,
     "store_id": 689,
     "name": "CMH Sunday Weekly Hobby",
     "category": "league",
@@ -6450,16 +6410,6 @@
     "starting_player_count": 0
   },
   {
-    "id": 488817,
-    "store_id": 689,
-    "name": "CMH Wednesday Weekly Hobby",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-04-08T06:30:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
-  },
-  {
     "id": 488816,
     "store_id": 689,
     "name": "CMH Wednesday Weekly Hobby",
@@ -6468,6 +6418,16 @@
     "start_datetime": "2026-04-08T06:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 488817,
+    "store_id": 689,
+    "name": "CMH Wednesday Weekly Hobby",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-04-08T06:30:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 488831,
@@ -6494,10 +6454,10 @@
     "store_id": 689,
     "name": "CMH Sunday Weekly Hobby",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-18T22:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 8,
+    "starting_player_count": 9
   },
   {
     "id": 488819,
@@ -6510,20 +6470,20 @@
     "starting_player_count": 0
   },
   {
-    "id": 418703,
+    "id": 488833,
     "store_id": 689,
-    "name": "Card Merchant Hamilton Winterspell Set Champs",
-    "category": "championship",
+    "name": "CMH Sunday Weekly Hobby",
+    "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-04-25T22:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
   {
-    "id": 488833,
+    "id": 418703,
     "store_id": 689,
-    "name": "CMH Sunday Weekly Hobby",
-    "category": "league",
+    "name": "Card Merchant Hamilton Winterspell Set Champs",
+    "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-04-25T22:30:00+00:00",
     "registered_user_count": 0,
@@ -6994,10 +6954,10 @@
     "store_id": 690,
     "name": "Winterspell Set Champs",
     "category": "championship",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-19T00:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 16
   },
   {
     "id": 156570,
@@ -8304,10 +8264,10 @@
     "store_id": 17675,
     "name": "Sunday Morning Weekly Play (Constructed) (Copy)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-19T00:00:00+00:00",
-    "registered_user_count": 3,
-    "starting_player_count": 3
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 458449,
@@ -11014,10 +10974,10 @@
     "store_id": 1862,
     "name": "Sunday Morning Winterspell - Set Championship",
     "category": "championship",
-    "event_status": "REGISTRATION_CLOSED",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-19T00:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 8,
+    "starting_player_count": 8
   },
   {
     "id": 461809,
@@ -11624,10 +11584,10 @@
     "store_id": 16736,
     "name": "Saturday Afternoon Winterspell - Set Championship",
     "category": "championship",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-18T15:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 12
   },
   {
     "id": 425013,
@@ -11638,6 +11598,16 @@
     "start_datetime": "2026-05-09T15:00:00+00:00",
     "registered_user_count": 1,
     "starting_player_count": 1
+  },
+  {
+    "id": 510299,
+    "store_id": 16736,
+    "name": "Sunday Afternoon Wilds Unknown Set Championship",
+    "category": "championship",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-07-05T03:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 499263,
@@ -15180,16 +15150,6 @@
     "starting_player_count": 10
   },
   {
-    "id": 400353,
-    "store_id": 2224,
-    "name": "GGB Lorcana DLC 17/02/26",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-02-17T08:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 400344,
     "store_id": 2224,
     "name": "Lorcana Sealed 17/02/26",
@@ -15744,10 +15704,10 @@
     "store_id": 2227,
     "name": "Winterspell - Set Championship @Good Games Box Hill",
     "category": "championship",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-19T01:30:00+00:00",
-    "registered_user_count": 17,
-    "starting_player_count": 17
+    "registered_user_count": 1,
+    "starting_player_count": 16
   },
   {
     "id": 458527,
@@ -16926,8 +16886,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-04-23T07:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 379955,
@@ -16956,8 +16916,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-05-10T00:30:00+00:00",
-    "registered_user_count": 5,
-    "starting_player_count": 5
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 188819,
@@ -19074,10 +19034,10 @@
     "store_id": 2245,
     "name": "Lorcana Winterspell Set Championship @ Good Games Rockingham",
     "category": "championship",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-19T02:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 8,
+    "starting_player_count": 8
   },
   {
     "id": 488914,
@@ -19596,8 +19556,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-04-26T00:30:00+00:00",
-    "registered_user_count": 18,
-    "starting_player_count": 18
+    "registered_user_count": 19,
+    "starting_player_count": 19
   },
   {
     "id": 439684,
@@ -19606,8 +19566,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-05-08T08:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 156255,
@@ -20164,10 +20124,10 @@
     "store_id": 2247,
     "name": "Lorcana - Constructed - Winterspell Store Champs",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-19T01:00:00+00:00",
-    "registered_user_count": 20,
-    "starting_player_count": 20
+    "registered_user_count": 1,
+    "starting_player_count": 23
   },
   {
     "id": 210106,
@@ -21804,10 +21764,10 @@
     "store_id": 2400,
     "name": "Sunday Afternoon Weekly Play (Constructed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-19T05:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 485212,
@@ -21836,6 +21796,36 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-05-08T08:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 510349,
+    "store_id": 2400,
+    "name": "Sunday Afternoon Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-05-10T05:02:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 510350,
+    "store_id": 2400,
+    "name": "Sunday Afternoon Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-05-17T05:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 510351,
+    "store_id": 2400,
+    "name": "Sunday Afternoon Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-05-24T05:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -22900,16 +22890,6 @@
     "starting_player_count": 9
   },
   {
-    "id": 256356,
-    "store_id": 2461,
-    "name": "Lorcana Prerelease 9/11/25",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-11-09T01:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 256360,
     "store_id": 2461,
     "name": "Lorcana Pack Rush 9/11/25",
@@ -22918,6 +22898,16 @@
     "start_datetime": "2025-11-09T01:00:00+00:00",
     "registered_user_count": 5,
     "starting_player_count": 5
+  },
+  {
+    "id": 256356,
+    "store_id": 2461,
+    "name": "Lorcana Prerelease 9/11/25",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-11-09T01:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 265483,
@@ -23028,6 +23018,16 @@
     "start_datetime": "2026-03-21T22:00:00+00:00",
     "registered_user_count": 5,
     "starting_player_count": 5
+  },
+  {
+    "id": 510197,
+    "store_id": 2461,
+    "name": "Disney Lorcana League!",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-04-18T23:30:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 455539,
@@ -23446,8 +23446,8 @@
     "category": "championship",
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-11T23:30:00+00:00",
-    "registered_user_count": 5,
-    "starting_player_count": 5
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 502485,
@@ -24244,10 +24244,20 @@
     "store_id": 18259,
     "name": "Winterspell - Set Championship @Hobby Lords Takapuna",
     "category": "championship",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-18T23:00:00+00:00",
-    "registered_user_count": 13,
-    "starting_player_count": 13
+    "registered_user_count": 1,
+    "starting_player_count": 11
+  },
+  {
+    "id": 510316,
+    "store_id": 18259,
+    "name": "Sunday Afternoon Wilds Unknown Prerelease (Sealed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-05-10T00:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 477620,
@@ -24288,6 +24298,16 @@
     "start_datetime": "2026-04-14T07:00:00+00:00",
     "registered_user_count": 4,
     "starting_player_count": 4
+  },
+  {
+    "id": 510319,
+    "store_id": 36136,
+    "name": "Tuesday Evening Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-04-21T06:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 505191,
@@ -25320,16 +25340,6 @@
     "starting_player_count": 4
   },
   {
-    "id": 398447,
-    "store_id": 2617,
-    "name": "Winterspell - Pack Rush 16 Feb",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-02-16T06:30:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
-  },
-  {
     "id": 155354,
     "store_id": 2681,
     "name": "Monday locals",
@@ -26206,8 +26216,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-05-08T08:30:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 155024,
@@ -29424,10 +29434,10 @@
     "store_id": 24232,
     "name": "Learn-to-play & Free Play Sunday @ More Than Meeples",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-19T00:30:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 4,
+    "starting_player_count": 6
   },
   {
     "id": 491982,
@@ -31734,10 +31744,10 @@
     "store_id": 15918,
     "name": "RC Winterspell Set Championship",
     "category": "championship",
-    "event_status": "REGISTRATION_CLOSED",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-18T23:00:00+00:00",
-    "registered_user_count": 20,
-    "starting_player_count": 20
+    "registered_user_count": 1,
+    "starting_player_count": 21
   },
   {
     "id": 475777,
@@ -33624,10 +33634,10 @@
     "store_id": 4262,
     "name": "Sunday Morning Winterspell - Set Championship",
     "category": "championship",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-18T23:00:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
+    "registered_user_count": 8,
+    "starting_player_count": 8
   },
   {
     "id": 486609,
@@ -35850,6 +35860,96 @@
     "starting_player_count": 2
   },
   {
+    "id": 510635,
+    "store_id": 18709,
+    "name": "SPELLROO GAMING April 28, 2026 Disney Lorcana TCG Weekly League (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-04-28T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 510636,
+    "store_id": 18709,
+    "name": "SPELLROO GAMING May 05, 2026 Disney Lorcana TCG Weekly League (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-05-05T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 510638,
+    "store_id": 18709,
+    "name": "SPELLROO GAMING May 12, 2026 Disney Lorcana TCG Weekly League (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-05-12T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 510639,
+    "store_id": 18709,
+    "name": "SPELLROO GAMING May 19, 2026 Disney Lorcana TCG Weekly League (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-05-19T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 510640,
+    "store_id": 18709,
+    "name": "SPELLROO GAMING May 26, 2026 Disney Lorcana TCG Weekly League (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-05-26T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 510643,
+    "store_id": 18709,
+    "name": "SPELLROO GAMING June 02, 2026 Disney Lorcana TCG Weekly League (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-02T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 510644,
+    "store_id": 18709,
+    "name": "SPELLROO GAMING June 09, 2026 Disney Lorcana TCG Weekly League (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-09T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 510649,
+    "store_id": 18709,
+    "name": "SPELLROO GAMING June 16, 2026 Disney Lorcana TCG Weekly League (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-16T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 510650,
+    "store_id": 18709,
+    "name": "SPELLROO GAMING June 23, 2026 Disney Lorcana TCG Weekly League (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-23T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 145600,
     "store_id": 4425,
     "name": "Saturday Morning Weekly Play (Constructed)",
@@ -36000,16 +36100,6 @@
     "starting_player_count": 18
   },
   {
-    "id": 227654,
-    "store_id": 4525,
-    "name": "TTW Adelaide Whispers in the Well - Prerelease (Sealed)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-11-07T08:00:00+00:00",
-    "registered_user_count": 7,
-    "starting_player_count": 7
-  },
-  {
     "id": 227660,
     "store_id": 4525,
     "name": "TTW Adelaide Whispers in the Well - Prerelease (Pack Rush)",
@@ -36018,6 +36108,16 @@
     "start_datetime": "2025-11-07T08:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 227654,
+    "store_id": 4525,
+    "name": "TTW Adelaide Whispers in the Well - Prerelease (Sealed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-11-07T08:00:00+00:00",
+    "registered_user_count": 7,
+    "starting_player_count": 7
   },
   {
     "id": 254271,
@@ -36164,10 +36264,10 @@
     "store_id": 4525,
     "name": "[ADELAIDE] Lorcana - Winterspell: Set Championship",
     "category": "championship",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-19T00:30:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
+    "registered_user_count": 2,
+    "starting_player_count": 18
   },
   {
     "id": 507774,
@@ -37186,16 +37286,6 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-05-08T09:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
-    "id": 398352,
-    "store_id": 23441,
-    "name": "Test Event",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-02-16T04:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -39694,10 +39784,10 @@
     "store_id": 4778,
     "name": "Sunday Morning Winterspell - Set Championship",
     "category": "championship",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-19T01:00:00+00:00",
-    "registered_user_count": 24,
-    "starting_player_count": 24
+    "registered_user_count": 1,
+    "starting_player_count": 21
   },
   {
     "id": 458496,
@@ -45316,8 +45406,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-04-25T01:30:00+00:00",
-    "registered_user_count": 19,
-    "starting_player_count": 19
+    "registered_user_count": 21,
+    "starting_player_count": 21
   },
   {
     "id": 467077,
