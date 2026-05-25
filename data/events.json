@@ -250,7 +250,7 @@
     "starting_player_count": 0
   },
   {
-    "id": 598288,
+    "id": 623569,
     "store_id": 17966,
     "name": "Thursday Night Lorcana",
     "category": "league",
@@ -262,30 +262,30 @@
   {
     "id": 549538,
     "store_id": 17966,
-    "name": "Thursday Night Lorcana",
+    "name": "Lorcana League @2S",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-06-04T21:00:00+00:00",
+    "start_datetime": "2026-06-04T22:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
   {
     "id": 549539,
     "store_id": 17966,
-    "name": "Thursday Night Lorcana",
+    "name": "Lorcana League @2S",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-06-11T21:00:00+00:00",
+    "start_datetime": "2026-06-11T22:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
   {
     "id": 549540,
     "store_id": 17966,
-    "name": "Thursday Night Lorcana",
+    "name": "Lorcana League @2S",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-06-18T21:00:00+00:00",
+    "start_datetime": "2026-06-18T22:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -296,26 +296,26 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-06-20T01:00:00+00:00",
-    "registered_user_count": 9,
-    "starting_player_count": 9
+    "registered_user_count": 12,
+    "starting_player_count": 12
   },
   {
     "id": 549541,
     "store_id": 17966,
-    "name": "Thursday Night Lorcana",
+    "name": "Lorcana League @2S",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-06-25T21:00:00+00:00",
+    "start_datetime": "2026-06-25T22:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
   {
     "id": 549542,
     "store_id": 17966,
-    "name": "Thursday Night Lorcana",
+    "name": "Lorcana League @2S",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-07-02T21:00:00+00:00",
+    "start_datetime": "2026-07-02T22:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -886,8 +886,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-06-14T01:00:00+00:00",
-    "registered_user_count": 3,
-    "starting_player_count": 3
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 555757,
@@ -8500,16 +8500,6 @@
     "starting_player_count": 11
   },
   {
-    "id": 488768,
-    "store_id": 691,
-    "name": "Card Merchant Ponsonby Thursday Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-05-21T06:30:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
-  },
-  {
     "id": 611901,
     "store_id": 691,
     "name": "Thursday Night Hobby",
@@ -10260,6 +10250,16 @@
     "starting_player_count": 0
   },
   {
+    "id": 623697,
+    "store_id": 1038,
+    "name": "CTC Friday Casual Play",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-05-29T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 554826,
     "store_id": 1038,
     "name": "CTC Weekly Lorcana Play",
@@ -10270,9 +10270,9 @@
     "starting_player_count": 0
   },
   {
-    "id": 616179,
+    "id": 554827,
     "store_id": 1038,
-    "name": "CTC Friday Weekly Casual Play",
+    "name": "CTC Weekly Lorcana Play",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-06-05T09:00:00+00:00",
@@ -10280,9 +10280,9 @@
     "starting_player_count": 0
   },
   {
-    "id": 554827,
+    "id": 616179,
     "store_id": 1038,
-    "name": "CTC Weekly Lorcana Play",
+    "name": "CTC Friday Weekly Casual Play",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-06-05T09:00:00+00:00",
@@ -10298,6 +10298,16 @@
     "start_datetime": "2026-06-06T02:30:00+00:00",
     "registered_user_count": 5,
     "starting_player_count": 5
+  },
+  {
+    "id": 623698,
+    "store_id": 1038,
+    "name": "CTC Friday Casual Play",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-12T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 554828,
@@ -10330,6 +10340,16 @@
     "starting_player_count": 0
   },
   {
+    "id": 623699,
+    "store_id": 1038,
+    "name": "CTC Friday Casual Play",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-26T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 554830,
     "store_id": 1038,
     "name": "CTC Weekly Lorcana Play",
@@ -10346,6 +10366,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-03T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623700,
+    "store_id": 1038,
+    "name": "CTC Friday Casual Play",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-07-10T09:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -11940,9 +11970,9 @@
     "starting_player_count": 10
   },
   {
-    "id": 517247,
+    "id": 582711,
     "store_id": 1785,
-    "name": "Game Corner x Wilds Unknown Prerelease (Sealed)",
+    "name": "Game Corner x Lorcana Infinity (Constructed)",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-05-12T06:30:00+00:00",
@@ -11950,9 +11980,9 @@
     "starting_player_count": 0
   },
   {
-    "id": 582711,
+    "id": 517247,
     "store_id": 1785,
-    "name": "Game Corner x Lorcana Infinity (Constructed)",
+    "name": "Game Corner x Wilds Unknown Prerelease (Sealed)",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-05-12T06:30:00+00:00",
@@ -11966,6 +11996,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-05-26T06:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623399,
+    "store_id": 1785,
+    "name": "Game Corner x Wilds Unknown Set Championship",
+    "category": "championship",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-26T23:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -16460,6 +16500,16 @@
     "starting_player_count": 8
   },
   {
+    "id": 624780,
+    "store_id": 2140,
+    "name": "Monday Evening Weekly Play (Constructed) (Copy)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-04-27T08:45:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 531369,
     "store_id": 2140,
     "name": "General Games Chirnside Monday Locals - 04/05/26",
@@ -16514,10 +16564,10 @@
     "store_id": 2140,
     "name": "General Games Chirnside Monday Locals - 25/05/26",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-05-25T08:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 160940,
@@ -16690,16 +16740,6 @@
     "starting_player_count": 8
   },
   {
-    "id": 183689,
-    "store_id": 2222,
-    "name": "Fabled PreRelease",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-08-31T02:30:00+00:00",
-    "registered_user_count": 8,
-    "starting_player_count": 8
-  },
-  {
     "id": 177163,
     "store_id": 2222,
     "name": "Good Games Adelaide Prerelease (Sealed)",
@@ -16708,6 +16748,16 @@
     "start_datetime": "2025-08-31T02:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 183689,
+    "store_id": 2222,
+    "name": "Fabled PreRelease",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-08-31T02:30:00+00:00",
+    "registered_user_count": 8,
+    "starting_player_count": 8
   },
   {
     "id": 192619,
@@ -16948,6 +16998,16 @@
     "start_datetime": "2026-05-24T04:30:00+00:00",
     "registered_user_count": 7,
     "starting_player_count": 7
+  },
+  {
+    "id": 624764,
+    "store_id": 2222,
+    "name": "GGA - Wilds Uknown Set Championship",
+    "category": "championship",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-21T02:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 189378,
@@ -17476,8 +17536,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-06-20T00:30:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
+    "registered_user_count": 3,
+    "starting_player_count": 3
   },
   {
     "id": 157883,
@@ -18068,6 +18128,16 @@
     "start_datetime": "2026-04-11T01:00:00+00:00",
     "registered_user_count": 1,
     "starting_player_count": 11
+  },
+  {
+    "id": 623465,
+    "store_id": 2229,
+    "name": "Good Games Canberra City Wilds Unknown Set Championship",
+    "category": "championship",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-21T01:00:00+00:00",
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 141425,
@@ -19176,6 +19246,106 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-05-29T07:30:00+00:00",
+    "registered_user_count": 1,
+    "starting_player_count": 1
+  },
+  {
+    "id": 623343,
+    "store_id": 2235,
+    "name": "Thursday Lorcana Locals",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-04T07:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623344,
+    "store_id": 2235,
+    "name": "Thursday Lorcana Locals",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-11T07:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623345,
+    "store_id": 2235,
+    "name": "Thursday Lorcana Locals",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-18T07:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623346,
+    "store_id": 2235,
+    "name": "Thursday Lorcana Locals",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-25T07:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623397,
+    "store_id": 2235,
+    "name": "Good Games Gungahlin Wilds Unknown Set Championship",
+    "category": "championship",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-28T00:30:00+00:00",
+    "registered_user_count": 1,
+    "starting_player_count": 1
+  },
+  {
+    "id": 623347,
+    "store_id": 2235,
+    "name": "Thursday Lorcana Locals",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-07-02T07:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623348,
+    "store_id": 2235,
+    "name": "Thursday Lorcana Locals",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-07-09T07:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623349,
+    "store_id": 2235,
+    "name": "Thursday Lorcana Locals",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-07-16T07:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623350,
+    "store_id": 2235,
+    "name": "Thursday Lorcana Locals",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-07-23T07:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623351,
+    "store_id": 2235,
+    "name": "Thursday Lorcana Locals",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-07-30T07:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -19540,6 +19710,16 @@
     "starting_player_count": 0
   },
   {
+    "id": 624896,
+    "store_id": 2236,
+    "name": "Disney Lorcana - Core Constructed -Wilds Unknown Set Championship",
+    "category": "championship",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-13T01:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 155979,
     "store_id": 2241,
     "name": "GGM Disney Lorcana Weekly",
@@ -19890,16 +20070,6 @@
     "starting_player_count": 16
   },
   {
-    "id": 292288,
-    "store_id": 2241,
-    "name": "GGM Disney Lorcana Weekly - Dec 17",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-12-17T08:00:00+00:00",
-    "registered_user_count": 5,
-    "starting_player_count": 5
-  },
-  {
     "id": 309614,
     "store_id": 2241,
     "name": "Wednesday Evening Weekly Play (Constructed)",
@@ -19908,6 +20078,16 @@
     "start_datetime": "2025-12-17T08:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 292288,
+    "store_id": 2241,
+    "name": "GGM Disney Lorcana Weekly - Dec 17",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-12-17T08:00:00+00:00",
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 302347,
@@ -20108,6 +20288,16 @@
     "start_datetime": "2026-05-13T09:00:00+00:00",
     "registered_user_count": 17,
     "starting_player_count": 18
+  },
+  {
+    "id": 624788,
+    "store_id": 2241,
+    "name": "GGM - Wilds Unknown Set Championship",
+    "category": "championship",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-27T03:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 166153,
@@ -21550,6 +21740,16 @@
     "starting_player_count": 5
   },
   {
+    "id": 624869,
+    "store_id": 2245,
+    "name": "Weekly Lorcana Tournament @ GG Rockingham",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-05-25T10:30:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
+  },
+  {
     "id": 610273,
     "store_id": 2245,
     "name": "Disney Lorcana Wilds Unknown Set Championship @ Good Games Rockingham",
@@ -22076,8 +22276,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-06-28T00:30:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
+    "registered_user_count": 3,
+    "starting_player_count": 3
   },
   {
     "id": 156255,
@@ -22776,8 +22976,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-04T01:00:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
+    "registered_user_count": 7,
+    "starting_player_count": 7
   },
   {
     "id": 588144,
@@ -23696,8 +23896,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-06-06T01:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 572122,
@@ -24276,8 +24476,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-06-07T01:30:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 306897,
@@ -24760,6 +24960,66 @@
     "starting_player_count": 1
   },
   {
+    "id": 623418,
+    "store_id": 2400,
+    "name": "Sunday Afternoon Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-05-31T05:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623419,
+    "store_id": 2400,
+    "name": "Sunday Afternoon Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-07T05:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623381,
+    "store_id": 2400,
+    "name": "Sunday Morning Wilds Unknown Set Championship",
+    "category": "championship",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-14T00:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623420,
+    "store_id": 2400,
+    "name": "Sunday Afternoon Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-21T05:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623421,
+    "store_id": 2400,
+    "name": "Sunday Afternoon Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-06-28T05:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623423,
+    "store_id": 2400,
+    "name": "Sunday Afternoon Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-07-05T05:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 154312,
     "store_id": 2424,
     "name": "Disney Lorcana TCG Weekly Core Constructed",
@@ -25178,16 +25438,6 @@
     "start_datetime": "2026-04-11T01:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 12
-  },
-  {
-    "id": 502545,
-    "store_id": 2424,
-    "name": "Weekly Core Constructed at Hero Stash",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-04-18T01:30:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
   },
   {
     "id": 502547,
@@ -29670,16 +29920,6 @@
     "starting_player_count": 8
   },
   {
-    "id": 502576,
-    "store_id": 2686,
-    "name": "Wednesday Evening Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-04-15T07:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 448546,
     "store_id": 2686,
     "name": "Jolt Games - Winterspell - Set Championship",
@@ -32560,16 +32800,6 @@
     "starting_player_count": 0
   },
   {
-    "id": 487274,
-    "store_id": 30398,
-    "name": "Mighty Cool Games - Thursday Night Constructed Comp",
-    "category": "league",
-    "event_status": "REGISTRATION_CLOSED",
-    "start_datetime": "2026-05-21T08:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 557563,
     "store_id": 30398,
     "name": "Mighty Cool Games - Thursday Night Constructed Comp Template",
@@ -33596,8 +33826,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-06-27T00:00:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
+    "registered_user_count": 3,
+    "starting_player_count": 3
   },
   {
     "id": 155746,
@@ -40060,6 +40290,16 @@
     "starting_player_count": 0
   },
   {
+    "id": 623415,
+    "store_id": 4357,
+    "name": "Sovereign Cards Wilds Unknown Set Champs",
+    "category": "championship",
+    "event_status": "REGISTRATION_CLOSED",
+    "start_datetime": "2026-06-21T00:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 157485,
     "store_id": 4381,
     "name": "Thursday Evening Weekly Play (Constructed)",
@@ -40946,8 +41186,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-05-26T09:00:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 510643,
@@ -41860,16 +42100,6 @@
     "starting_player_count": 10
   },
   {
-    "id": 371045,
-    "store_id": 4526,
-    "name": "Monday Evening Weekly Play (Casual))",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-02-02T07:00:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
-  },
-  {
     "id": 371046,
     "store_id": 4526,
     "name": "Monday Evening Weekly Play (Competitve))",
@@ -41878,6 +42108,16 @@
     "start_datetime": "2026-02-02T07:00:00+00:00",
     "registered_user_count": 10,
     "starting_player_count": 10
+  },
+  {
+    "id": 371045,
+    "store_id": 4526,
+    "name": "Monday Evening Weekly Play (Casual))",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-02-02T07:00:00+00:00",
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 384721,
@@ -42054,10 +42294,10 @@
     "store_id": 4526,
     "name": "[GAWLER] Lorcana - Weekly Core Constructed",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-05-25T09:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 12,
+    "starting_player_count": 12
   },
   {
     "id": 554736,
@@ -42136,6 +42376,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-13T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 623722,
+    "store_id": 4526,
+    "name": "[GAWLER] Lorcana - Weekly Core Constructed",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-07-20T09:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -44556,8 +44806,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-06-20T00:00:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
+    "registered_user_count": 3,
+    "starting_player_count": 3
   },
   {
     "id": 155978,
@@ -46295,7 +46545,7 @@
     "name": "Topdeck Gaming Weekly",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-06-06T05:30:00+00:00",
+    "start_datetime": "2026-05-30T05:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -47336,8 +47586,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-06-27T00:00:00+00:00",
-    "registered_user_count": 5,
-    "starting_player_count": 5
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 168967,
@@ -47916,8 +48166,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-06-13T04:00:00+00:00",
-    "registered_user_count": 5,
-    "starting_player_count": 5
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 531198,
@@ -48428,16 +48678,6 @@
     "start_datetime": "2026-04-03T23:30:00+00:00",
     "registered_user_count": 3,
     "starting_player_count": 3
-  },
-  {
-    "id": 498692,
-    "store_id": 5220,
-    "name": "Lorcana Saturday Morning Unstructured / Player List Only",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-04-18T00:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
   },
   {
     "id": 529332,
@@ -51234,10 +51474,10 @@
     "store_id": 5355,
     "name": "Monday Evening Weekly Play",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-05-25T08:15:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 9,
+    "starting_player_count": 9
   },
   {
     "id": 567214,
@@ -51316,6 +51556,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-13T08:15:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 624072,
+    "store_id": 5355,
+    "name": "Monday Evening Weekly Play",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-07-20T08:15:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -51764,10 +52014,10 @@
     "store_id": 17154,
     "name": "Locana Locals @ Zen (Franchise Infinity)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-05-25T08:30:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 8,
+    "starting_player_count": 9
   },
   {
     "id": 512995,
