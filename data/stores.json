@@ -45,20 +45,20 @@
     "longitude": 152.0299928
   },
   {
-    "id": 16633,
-    "name": "AKIKAMBARA",
-    "country": "AU",
-    "state": "ACT",
-    "full_address": "191 Anketell Street, Greenway, ACT, 2900, AU",
-    "latitude": -35.4163716,
-    "longitude": 149.0664344
-  },
-  {
     "id": 108,
     "name": "AKIKAMBARA",
     "country": "AU",
     "state": "ACT",
     "full_address": "191 Anketell Street, Canberra, ACT, 2900, AU",
+    "latitude": -35.4163716,
+    "longitude": 149.0664344
+  },
+  {
+    "id": 16633,
+    "name": "AKIKAMBARA",
+    "country": "AU",
+    "state": "ACT",
+    "full_address": "191 Anketell Street, Greenway, ACT, 2900, AU",
     "latitude": -35.4163716,
     "longitude": 149.0664344
   },
@@ -549,15 +549,6 @@
     "longitude": 176.1693693
   },
   {
-    "id": 39768,
-    "name": "Card Merchant Tauranga",
-    "country": "NZ",
-    "state": "NZ",
-    "full_address": "223 Fraser Street, Tauranga South, Tauranga 3112, New Zealand",
-    "latitude": -37.710821599999996,
-    "longitude": 176.15203209999999
-  },
-  {
     "id": 35377,
     "name": "Card Merchant Tauranga",
     "country": "NZ",
@@ -565,6 +556,15 @@
     "full_address": "219-261 Fraser Street, Tauranga South, Tauranga 3112, New Zealand",
     "latitude": -37.7120003,
     "longitude": 176.1512507
+  },
+  {
+    "id": 39768,
+    "name": "Card Merchant Tauranga",
+    "country": "NZ",
+    "state": "NZ",
+    "full_address": "223 Fraser Street, Tauranga South, Tauranga 3112, New Zealand",
+    "latitude": -37.710821599999996,
+    "longitude": 176.15203209999999
   },
   {
     "id": 18139,
@@ -675,15 +675,6 @@
     "longitude": 174.7760253
   },
   {
-    "id": 54469,
-    "name": "Cherry Collectables",
-    "country": "AU",
-    "state": "VIC",
-    "full_address": "115 Batman St, West Melbourne VIC 3003, Australia",
-    "latitude": -37.811544399999995,
-    "longitude": 144.94928030000003
-  },
-  {
     "id": 41738,
     "name": "Cherry Collectables",
     "country": "AU",
@@ -691,6 +682,15 @@
     "full_address": "Unknown Legacy Address",
     "latitude": -37.81267807214255,
     "longitude": 144.9473061941726
+  },
+  {
+    "id": 54469,
+    "name": "Cherry Collectables",
+    "country": "AU",
+    "state": "VIC",
+    "full_address": "115 Batman St, West Melbourne VIC 3003, Australia",
+    "latitude": -37.811544399999995,
+    "longitude": 144.94928030000003
   },
   {
     "id": 24446,
@@ -1426,9 +1426,9 @@
     "name": "General Games Frankston",
     "country": "AU",
     "state": "VIC",
-    "full_address": "27-29 Keys St, Frankston VIC 3199, Australia",
-    "latitude": -38.141519,
-    "longitude": 145.122751
+    "full_address": "24 Beach St, Frankston VIC 3199, Australia",
+    "latitude": -38.140914099999996,
+    "longitude": 145.1240561
   },
   {
     "id": 22310,
@@ -1899,15 +1899,6 @@
     "longitude": 144.65232882996247
   },
   {
-    "id": 18138,
-    "name": "HBT Collectables",
-    "country": "AU",
-    "state": "VIC",
-    "full_address": "1/1 Tegwen Street, Belmont, VIC, 3216, AU",
-    "latitude": -38.1822221,
-    "longitude": 144.3525699
-  },
-  {
     "id": 34269,
     "name": "HBT Collectables",
     "country": "AU",
@@ -1915,6 +1906,15 @@
     "full_address": "1, 1, Tegwen St, Belmont, VIC, 3216, AU",
     "latitude": -38.1822304,
     "longitude": 144.3526395
+  },
+  {
+    "id": 18138,
+    "name": "HBT Collectables",
+    "country": "AU",
+    "state": "VIC",
+    "full_address": "1/1 Tegwen Street, Belmont, VIC, 3216, AU",
+    "latitude": -38.1822221,
+    "longitude": 144.3525699
   },
   {
     "id": 2400,
@@ -2043,15 +2043,6 @@
     "longitude": 174.0738471
   },
   {
-    "id": 23397,
-    "name": "Hobby Lords Palmerston North",
-    "country": "NZ",
-    "state": "NZ",
-    "full_address": "Palmerston North, New Zealand",
-    "latitude": -40.3544628,
-    "longitude": 175.60974779999998
-  },
-  {
     "id": 2463,
     "name": "Hobby Lords Palmerston North",
     "country": "NZ",
@@ -2059,6 +2050,15 @@
     "full_address": "135 Cuba Street, Palmerston North, Manawat\u016b-Whanganui, 4410, NZ",
     "latitude": -40.3593456,
     "longitude": 175.6035847
+  },
+  {
+    "id": 23397,
+    "name": "Hobby Lords Palmerston North",
+    "country": "NZ",
+    "state": "NZ",
+    "full_address": "Palmerston North, New Zealand",
+    "latitude": -40.3544628,
+    "longitude": 175.60974779999998
   },
   {
     "id": 18259,
@@ -2686,9 +2686,9 @@
     "name": "More Than Meeples",
     "country": "AU",
     "state": "QLD",
-    "full_address": "17, Brunswick St, Fortitude Valley, QLD, 4006, AU",
-    "latitude": -27.4607234,
-    "longitude": 153.0369387
+    "full_address": "17c/455 Brunswick St, Fortitude Valley QLD 4006, Australia",
+    "latitude": -27.4604493,
+    "longitude": 153.03731299999998
   },
   {
     "id": 38087,
@@ -3366,15 +3366,6 @@
     "longitude": 153.0054444
   },
   {
-    "id": 4357,
-    "name": "Sovereign Cards",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "88 Flinders Parade, 3, North Lakes, QLD, 4509, AU",
-    "latitude": -27.2125803,
-    "longitude": 152.9937153
-  },
-  {
     "id": 24077,
     "name": "Sovereign Cards",
     "country": "AU",
@@ -3382,6 +3373,15 @@
     "full_address": "Brisbane QLD, Australia",
     "latitude": -27.4704528,
     "longitude": 153.0260341
+  },
+  {
+    "id": 4357,
+    "name": "Sovereign Cards",
+    "country": "AU",
+    "state": "QLD",
+    "full_address": "88 Flinders Parade, 3, North Lakes, QLD, 4509, AU",
+    "latitude": -27.2125803,
+    "longitude": 152.9937153
   },
   {
     "id": 36621,
@@ -3825,20 +3825,20 @@
     "longitude": 151.4847125
   },
   {
-    "id": 42606,
-    "name": "The Training Room - Bundaberg",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "11/1 Mary Street, Bundaberg East, QLD, 4670, AU",
-    "latitude": 1.0,
-    "longitude": -2.0
-  },
-  {
     "id": 58519,
     "name": "The Training Room - Bundaberg",
     "country": "AU",
     "state": "QLD",
     "full_address": "1 Mary St, Shop 11, Bundaberg East, QLD, 4670, AU",
+    "latitude": 1.0,
+    "longitude": -2.0
+  },
+  {
+    "id": 42606,
+    "name": "The Training Room - Bundaberg",
+    "country": "AU",
+    "state": "QLD",
+    "full_address": "11/1 Mary Street, Bundaberg East, QLD, 4670, AU",
     "latitude": 1.0,
     "longitude": -2.0
   },
