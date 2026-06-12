@@ -45,20 +45,20 @@
     "longitude": 152.0299928
   },
   {
-    "id": 108,
-    "name": "AKIKAMBARA",
-    "country": "AU",
-    "state": "ACT",
-    "full_address": "191 Anketell Street, Canberra, ACT, 2900, AU",
-    "latitude": -35.4163716,
-    "longitude": 149.0664344
-  },
-  {
     "id": 16633,
     "name": "AKIKAMBARA",
     "country": "AU",
     "state": "ACT",
     "full_address": "191 Anketell Street, Greenway, ACT, 2900, AU",
+    "latitude": -35.4163716,
+    "longitude": 149.0664344
+  },
+  {
+    "id": 108,
+    "name": "AKIKAMBARA",
+    "country": "AU",
+    "state": "ACT",
+    "full_address": "191 Anketell Street, Canberra, ACT, 2900, AU",
     "latitude": -35.4163716,
     "longitude": 149.0664344
   },
@@ -490,9 +490,9 @@
     "name": "Card Merchant Nelson",
     "country": "NZ",
     "state": "NZ",
-    "full_address": "129 Hardy Street, Nelson, Nelson, 7010, NZ",
-    "latitude": -41.2741596,
-    "longitude": 173.282205
+    "full_address": "131 Hardy Street, Nelson, 7010, NZ",
+    "latitude": -41.2739893,
+    "longitude": 173.2822704
   },
   {
     "id": 56667,
@@ -2178,15 +2178,6 @@
     "longitude": 172.5996917
   },
   {
-    "id": 16338,
-    "name": "Irresistible Force",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "2 Grevillea Street, SHOP 17, Tanah Merah, QLD, 4128, AU",
-    "latitude": -27.66274959999999,
-    "longitude": 153.1703824
-  },
-  {
     "id": 36982,
     "name": "Irresistible Force",
     "country": "AU",
@@ -2194,6 +2185,15 @@
     "full_address": "2 Grevillea Street, SHOP 17, Tanah Merah, QLD, 4128, AU",
     "latitude": -27.6626982,
     "longitude": 153.1703521
+  },
+  {
+    "id": 16338,
+    "name": "Irresistible Force",
+    "country": "AU",
+    "state": "QLD",
+    "full_address": "2 Grevillea Street, SHOP 17, Tanah Merah, QLD, 4128, AU",
+    "latitude": -27.66274959999999,
+    "longitude": 153.1703824
   },
   {
     "id": 14356,
@@ -2374,6 +2374,15 @@
     "full_address": "Shop 4/20 Archibald Ave, Waterloo NSW 2017, Waterloo, NSW, 2017, AU",
     "latitude": -33.9020651,
     "longitude": 151.2133698
+  },
+  {
+    "id": 59896,
+    "name": "Light of Cards - Zetland",
+    "country": "AU",
+    "state": "NSW",
+    "full_address": "shop 21/305 Botany Rd, Zetland NSW 2017, Australia",
+    "latitude": -33.905702399999996,
+    "longitude": 151.2037718
   },
   {
     "id": 54020,
@@ -3825,20 +3834,20 @@
     "longitude": 151.4847125
   },
   {
-    "id": 58519,
-    "name": "The Training Room - Bundaberg",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "1 Mary St, Shop 11, Bundaberg East, QLD, 4670, AU",
-    "latitude": 1.0,
-    "longitude": -2.0
-  },
-  {
     "id": 42606,
     "name": "The Training Room - Bundaberg",
     "country": "AU",
     "state": "QLD",
     "full_address": "11/1 Mary Street, Bundaberg East, QLD, 4670, AU",
+    "latitude": 1.0,
+    "longitude": -2.0
+  },
+  {
+    "id": 58519,
+    "name": "The Training Room - Bundaberg",
+    "country": "AU",
+    "state": "QLD",
+    "full_address": "1 Mary St, Shop 11, Bundaberg East, QLD, 4670, AU",
     "latitude": 1.0,
     "longitude": -2.0
   },
