@@ -675,15 +675,6 @@
     "longitude": 174.7760253
   },
   {
-    "id": 41738,
-    "name": "Cherry Collectables",
-    "country": "AU",
-    "state": "Unknown",
-    "full_address": "Unknown Legacy Address",
-    "latitude": -37.81267807214255,
-    "longitude": 144.9473061941726
-  },
-  {
     "id": 54469,
     "name": "Cherry Collectables",
     "country": "AU",
@@ -691,6 +682,15 @@
     "full_address": "115 Batman St, West Melbourne VIC 3003, Australia",
     "latitude": -37.811544399999995,
     "longitude": 144.94928030000003
+  },
+  {
+    "id": 41738,
+    "name": "Cherry Collectables",
+    "country": "AU",
+    "state": "Unknown",
+    "full_address": "Unknown Legacy Address",
+    "latitude": -37.81267807214255,
+    "longitude": 144.9473061941726
   },
   {
     "id": 24446,
@@ -1615,9 +1615,9 @@
     "name": "Good Games Castle Hill",
     "country": "AU",
     "state": "NSW",
-    "full_address": "Level 3, Shop 476, Castle Towers, Castle Hill, NSW, 2154, AU",
-    "latitude": -33.732069,
-    "longitude": 151.0054796
+    "full_address": "Castle Towers, Shop 1217, Level 1/6 - 14 Castle St, Castle Hill NSW 2154, Castle Hill, NSW, 2154, AU",
+    "latitude": -33.7302756,
+    "longitude": 151.0060212
   },
   {
     "id": 2231,
@@ -2178,15 +2178,6 @@
     "longitude": 172.5996917
   },
   {
-    "id": 36982,
-    "name": "Irresistible Force",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "2 Grevillea Street, SHOP 17, Tanah Merah, QLD, 4128, AU",
-    "latitude": -27.6626982,
-    "longitude": 153.1703521
-  },
-  {
     "id": 16338,
     "name": "Irresistible Force",
     "country": "AU",
@@ -2194,6 +2185,15 @@
     "full_address": "2 Grevillea Street, SHOP 17, Tanah Merah, QLD, 4128, AU",
     "latitude": -27.66274959999999,
     "longitude": 153.1703824
+  },
+  {
+    "id": 36982,
+    "name": "Irresistible Force",
+    "country": "AU",
+    "state": "QLD",
+    "full_address": "2 Grevillea Street, SHOP 17, Tanah Merah, QLD, 4128, AU",
+    "latitude": -27.6626982,
+    "longitude": 153.1703521
   },
   {
     "id": 14356,
@@ -2385,13 +2385,13 @@
     "longitude": 151.2037718
   },
   {
-    "id": 54020,
+    "id": 24544,
     "name": "Lion's Den Collectibles Bonnyrigg",
     "country": "AU",
     "state": "NSW",
-    "full_address": "100 Bonnyrigg Ave, Bonnyrigg NSW 2177, Australia",
-    "latitude": -33.8864267,
-    "longitude": 150.8886943
+    "full_address": "Shop 11B 100 Bonnyrigg Ave, Bonnyrigg, NSW, 2177, AU",
+    "latitude": -33.8862992,
+    "longitude": 150.8886218
   },
   {
     "id": 24546,
@@ -2403,13 +2403,13 @@
     "longitude": 150.8868969
   },
   {
-    "id": 24544,
+    "id": 54020,
     "name": "Lion's Den Collectibles Bonnyrigg",
     "country": "AU",
     "state": "NSW",
-    "full_address": "Shop 11B 100 Bonnyrigg Ave, Bonnyrigg, NSW, 2177, AU",
-    "latitude": -33.8862992,
-    "longitude": 150.8886218
+    "full_address": "100 Bonnyrigg Ave, Bonnyrigg NSW 2177, Australia",
+    "latitude": -33.8864267,
+    "longitude": 150.8886943
   },
   {
     "id": 24548,
@@ -3834,20 +3834,20 @@
     "longitude": 151.4847125
   },
   {
-    "id": 42606,
-    "name": "The Training Room - Bundaberg",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "11/1 Mary Street, Bundaberg East, QLD, 4670, AU",
-    "latitude": 1.0,
-    "longitude": -2.0
-  },
-  {
     "id": 58519,
     "name": "The Training Room - Bundaberg",
     "country": "AU",
     "state": "QLD",
     "full_address": "1 Mary St, Shop 11, Bundaberg East, QLD, 4670, AU",
+    "latitude": 1.0,
+    "longitude": -2.0
+  },
+  {
+    "id": 42606,
+    "name": "The Training Room - Bundaberg",
+    "country": "AU",
+    "state": "QLD",
+    "full_address": "11/1 Mary Street, Bundaberg East, QLD, 4670, AU",
     "latitude": 1.0,
     "longitude": -2.0
   },
