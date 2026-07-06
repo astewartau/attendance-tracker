@@ -14379,7 +14379,7 @@
     "matches_won": 2,
     "matches_lost": 2,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 4
   },
   {
     "event_id": 646577,
@@ -14388,7 +14388,7 @@
     "matches_won": 1,
     "matches_lost": 1,
     "matches_drawn": 1,
-    "final_place": null
+    "final_place": 5
   },
   {
     "event_id": 646577,
@@ -14397,7 +14397,7 @@
     "matches_won": 0,
     "matches_lost": 0,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 12
   },
   {
     "event_id": 646577,
@@ -14406,7 +14406,7 @@
     "matches_won": 0,
     "matches_lost": 3,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 10
   },
   {
     "event_id": 646577,
@@ -14415,7 +14415,7 @@
     "matches_won": 1,
     "matches_lost": 2,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 8
   },
   {
     "event_id": 646577,
@@ -14423,8 +14423,8 @@
     "user_name": "Chauber",
     "matches_won": 3,
     "matches_lost": 0,
-    "matches_drawn": 1,
-    "final_place": null
+    "matches_drawn": 2,
+    "final_place": 2
   },
   {
     "event_id": 646577,
@@ -14433,7 +14433,7 @@
     "matches_won": 1,
     "matches_lost": 2,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 7
   },
   {
     "event_id": 646577,
@@ -14442,7 +14442,7 @@
     "matches_won": 1,
     "matches_lost": 2,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 6
   },
   {
     "event_id": 646577,
@@ -14451,7 +14451,7 @@
     "matches_won": 0,
     "matches_lost": 2,
     "matches_drawn": 1,
-    "final_place": null
+    "final_place": 9
   },
   {
     "event_id": 646577,
@@ -14460,7 +14460,7 @@
     "matches_won": 2,
     "matches_lost": 1,
     "matches_drawn": 1,
-    "final_place": null
+    "final_place": 3
   },
   {
     "event_id": 646577,
@@ -14469,7 +14469,7 @@
     "matches_won": 0,
     "matches_lost": 0,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 11
   },
   {
     "event_id": 646577,
@@ -14477,8 +14477,8 @@
     "user_name": "1raz",
     "matches_won": 4,
     "matches_lost": 0,
-    "matches_drawn": 0,
-    "final_place": null
+    "matches_drawn": 1,
+    "final_place": 1
   },
   {
     "event_id": 154292,
@@ -18084,6 +18084,15 @@
     "event_id": 745712,
     "user_id": 13406,
     "user_name": "Monacomatt",
+    "matches_won": 0,
+    "matches_lost": 0,
+    "matches_drawn": 0,
+    "final_place": null
+  },
+  {
+    "event_id": 710149,
+    "user_id": 404787,
+    "user_name": "EmTran",
     "matches_won": 0,
     "matches_lost": 0,
     "matches_drawn": 0,
@@ -38808,24 +38817,6 @@
     "final_place": null
   },
   {
-    "event_id": 154442,
-    "user_id": 13400,
-    "user_name": "User13400",
-    "matches_won": 2,
-    "matches_lost": 0,
-    "matches_drawn": 0,
-    "final_place": 1
-  },
-  {
-    "event_id": 154442,
-    "user_id": 13733,
-    "user_name": "The Games Cube",
-    "matches_won": 1,
-    "matches_lost": 1,
-    "matches_drawn": 0,
-    "final_place": 2
-  },
-  {
     "event_id": 154343,
     "user_id": 13400,
     "user_name": "User13400",
@@ -38902,6 +38893,24 @@
     "user_id": 13401,
     "user_name": "Wesley Gerritsma",
     "matches_won": 0,
+    "matches_lost": 1,
+    "matches_drawn": 0,
+    "final_place": 2
+  },
+  {
+    "event_id": 154442,
+    "user_id": 13400,
+    "user_name": "User13400",
+    "matches_won": 2,
+    "matches_lost": 0,
+    "matches_drawn": 0,
+    "final_place": 1
+  },
+  {
+    "event_id": 154442,
+    "user_id": 13733,
+    "user_name": "The Games Cube",
+    "matches_won": 1,
     "matches_lost": 1,
     "matches_drawn": 0,
     "final_place": 2
