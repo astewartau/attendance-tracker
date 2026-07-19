@@ -354,10 +354,10 @@
     "store_id": 17966,
     "name": "Pre Release - Attack of the vine!",
     "category": "league",
-    "event_status": "REGISTRATION_CLOSED",
+    "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-23T08:00:00+00:00",
-    "registered_user_count": 24,
-    "starting_player_count": 24
+    "registered_user_count": 23,
+    "starting_player_count": 23
   },
   {
     "id": 634207,
@@ -1016,8 +1016,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-21T08:00:00+00:00",
-    "registered_user_count": 9,
-    "starting_player_count": 9
+    "registered_user_count": 11,
+    "starting_player_count": 11
   },
   {
     "id": 627057,
@@ -1950,16 +1950,6 @@
     "starting_player_count": 7
   },
   {
-    "id": 180281,
-    "store_id": 13895,
-    "name": "Sunday Morning Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-08-24T01:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 168231,
     "store_id": 13895,
     "name": "Area52 Lorcana Weekly Constructed",
@@ -1968,6 +1958,16 @@
     "start_datetime": "2025-08-24T01:00:00+00:00",
     "registered_user_count": 4,
     "starting_player_count": 4
+  },
+  {
+    "id": 180281,
+    "store_id": 13895,
+    "name": "Sunday Morning Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-08-24T01:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 181964,
@@ -2000,16 +2000,6 @@
     "starting_player_count": 5
   },
   {
-    "id": 182453,
-    "store_id": 13895,
-    "name": "Lorcana Weekly Constructed - Standard Area52",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-09-14T01:00:00+00:00",
-    "registered_user_count": 7,
-    "starting_player_count": 7
-  },
-  {
     "id": 192581,
     "store_id": 13895,
     "name": "Sunday Morning Weekly Play (Constructed)",
@@ -2018,6 +2008,16 @@
     "start_datetime": "2025-09-14T01:00:00+00:00",
     "registered_user_count": 1,
     "starting_player_count": 1
+  },
+  {
+    "id": 182453,
+    "store_id": 13895,
+    "name": "Lorcana Weekly Constructed - Standard Area52",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-09-14T01:00:00+00:00",
+    "registered_user_count": 7,
+    "starting_player_count": 7
   },
   {
     "id": 190635,
@@ -2334,7 +2334,7 @@
     "store_id": 13895,
     "name": "Toy Story School Holiday Pack Rush Lorcana Area52",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T01:00:00+00:00",
     "registered_user_count": 2,
     "starting_player_count": 2
@@ -2344,10 +2344,20 @@
     "store_id": 13895,
     "name": "Attack of the Vine Lorcana Pre-release Area52",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T01:00:00+00:00",
-    "registered_user_count": 5,
+    "registered_user_count": 3,
     "starting_player_count": 5
+  },
+  {
+    "id": 781508,
+    "store_id": 13895,
+    "name": "Lorcana Encore Prereleas",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-07-19T02:30:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 668430,
@@ -2356,8 +2366,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-23T02:30:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
+    "registered_user_count": 3,
+    "starting_player_count": 3
   },
   {
     "id": 740570,
@@ -4564,7 +4574,7 @@
     "store_id": 408,
     "name": "Beyond Odyssey Toy Story School Holiday Pack Rush",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T03:00:00+00:00",
     "registered_user_count": 3,
     "starting_player_count": 3
@@ -4574,10 +4584,10 @@
     "store_id": 408,
     "name": "Beyond Odyssey Attack of the Vine! Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T03:00:00+00:00",
-    "registered_user_count": 9,
-    "starting_player_count": 9
+    "registered_user_count": 22,
+    "starting_player_count": 22
   },
   {
     "id": 201847,
@@ -5090,16 +5100,6 @@
     "starting_player_count": 18
   },
   {
-    "id": 745703,
-    "store_id": 17384,
-    "name": "Sunday Afternoon Weekly Play (Draft)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-07-05T04:00:00+00:00",
-    "registered_user_count": 5,
-    "starting_player_count": 5
-  },
-  {
     "id": 745752,
     "store_id": 17384,
     "name": "Sunday Afternoon Weekly Play (Draft)",
@@ -5108,6 +5108,16 @@
     "start_datetime": "2026-07-05T04:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 745703,
+    "store_id": 17384,
+    "name": "Sunday Afternoon Weekly Play (Draft)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-07-05T04:00:00+00:00",
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 687027,
@@ -5134,10 +5144,10 @@
     "store_id": 17384,
     "name": "Sunday Morning Attack of the Vine! Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T01:00:00+00:00",
-    "registered_user_count": 11,
-    "starting_player_count": 11
+    "registered_user_count": 16,
+    "starting_player_count": 16
   },
   {
     "id": 760475,
@@ -5964,10 +5974,10 @@
     "store_id": 616,
     "name": "Attack of the Vine! Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T00:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 10,
+    "starting_player_count": 11
   },
   {
     "id": 628870,
@@ -8420,9 +8430,9 @@
     "starting_player_count": 24
   },
   {
-    "id": 678604,
+    "id": 678621,
     "store_id": 689,
-    "name": "Card Merchant Hamilton Toy Story School Holiday Pack Rush",
+    "name": "Card Merchant Hamilton Toy Story School Holiday Learn to Play",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-08T23:00:00+00:00",
@@ -8430,9 +8440,9 @@
     "starting_player_count": 0
   },
   {
-    "id": 678621,
+    "id": 678604,
     "store_id": 689,
-    "name": "Card Merchant Hamilton Toy Story School Holiday Learn to Play",
+    "name": "Card Merchant Hamilton Toy Story School Holiday Pack Rush",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-08T23:00:00+00:00",
@@ -8468,6 +8478,16 @@
     "start_datetime": "2026-07-18T22:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 781310,
+    "store_id": 689,
+    "name": "Sunday Morning Attack of the Vine! Prerelease (Sealed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-07-18T23:00:00+00:00",
+    "registered_user_count": 16,
+    "starting_player_count": 16
   },
   {
     "id": 629945,
@@ -8626,6 +8646,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-09-09T06:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 781989,
+    "store_id": 689,
+    "name": "CMH Sunday Weekly Hobby",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-09-12T22:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -9000,16 +9030,6 @@
     "starting_player_count": 10
   },
   {
-    "id": 671173,
-    "store_id": 690,
-    "name": "Sunday Afternoon Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-06-07T01:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 689279,
     "store_id": 690,
     "name": "Lorcana Hobby",
@@ -9074,10 +9094,10 @@
     "store_id": 690,
     "name": "Set 13 Attack on the Vine Pre Release",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T00:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 14,
+    "starting_player_count": 14
   },
   {
     "id": 712676,
@@ -9250,16 +9270,6 @@
     "starting_player_count": 13
   },
   {
-    "id": 197888,
-    "store_id": 691,
-    "name": "Thursday Evening Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-09-18T07:00:00+00:00",
-    "registered_user_count": 13,
-    "starting_player_count": 13
-  },
-  {
     "id": 197887,
     "store_id": 691,
     "name": "Thursday Evening Weekly Play (Constructed)",
@@ -9268,6 +9278,16 @@
     "start_datetime": "2025-09-18T07:00:00+00:00",
     "registered_user_count": 12,
     "starting_player_count": 12
+  },
+  {
+    "id": 197888,
+    "store_id": 691,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-09-18T07:00:00+00:00",
+    "registered_user_count": 13,
+    "starting_player_count": 13
   },
   {
     "id": 203218,
@@ -9660,16 +9680,6 @@
     "starting_player_count": 8
   },
   {
-    "id": 611232,
-    "store_id": 691,
-    "name": "Card Merchant Ponsonby Thursday Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-07-16T06:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 707823,
     "store_id": 691,
     "name": "Monday Evening Attack of the Vine! Prerelease (Sealed)",
@@ -9790,16 +9800,6 @@
     "starting_player_count": 16
   },
   {
-    "id": 741310,
-    "store_id": 54948,
-    "name": "Disney Lorcana Weekly Hobby",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-07-04T23:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 725639,
     "store_id": 54948,
     "name": "Disney Lorcana Weekly Hobby",
@@ -9810,12 +9810,12 @@
     "starting_player_count": 0
   },
   {
-    "id": 681249,
+    "id": 741310,
     "store_id": 54948,
-    "name": "CARD MERCHANT SILVERDALE - TOY STORY SCHOOL HOLIDAY LEARN TO PLAY",
+    "name": "Disney Lorcana Weekly Hobby",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-07-08T23:00:00+00:00",
+    "start_datetime": "2026-07-04T23:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -9823,6 +9823,16 @@
     "id": 681214,
     "store_id": 54948,
     "name": "CARD MERCHANT SILVERDALE - TOY STORY SCHOOL HOLIDAY PACK RUSH",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-07-08T23:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 681249,
+    "store_id": 54948,
+    "name": "CARD MERCHANT SILVERDALE - TOY STORY SCHOOL HOLIDAY LEARN TO PLAY",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-08T23:00:00+00:00",
@@ -9868,6 +9878,16 @@
     "start_datetime": "2026-07-18T02:00:00+00:00",
     "registered_user_count": 5,
     "starting_player_count": 5
+  },
+  {
+    "id": 781289,
+    "store_id": 54948,
+    "name": "Sunday Morning Attack of the Vine! Prerelease (Sealed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-07-18T22:30:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 725643,
@@ -9946,6 +9966,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-09-05T23:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 782128,
+    "store_id": 54948,
+    "name": "Disney Lorcana Weekly Hobby",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-09-12T23:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -10500,16 +10530,6 @@
     "starting_player_count": 11
   },
   {
-    "id": 610766,
-    "store_id": 836,
-    "name": "Weekly Casual Play",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-07-16T07:30:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
-  },
-  {
     "id": 753164,
     "store_id": 836,
     "name": "Attack of the Vine Pre-Release",
@@ -10914,10 +10934,10 @@
     "store_id": 17675,
     "name": "Sunday Morning Attack of the Vine! Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T01:00:00+00:00",
-    "registered_user_count": 9,
-    "starting_player_count": 9
+    "registered_user_count": 6,
+    "starting_player_count": 8
   },
   {
     "id": 677301,
@@ -12044,10 +12064,10 @@
     "store_id": 1089,
     "name": "Attack of the Vines Pre Release",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T01:00:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
+    "registered_user_count": 8,
+    "starting_player_count": 8
   },
   {
     "id": 303204,
@@ -12774,7 +12794,7 @@
     "store_id": 24716,
     "name": "Sunday Morning Attack of the Vine! Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_CLOSED",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T01:00:00+00:00",
     "registered_user_count": 12,
     "starting_player_count": 12
@@ -12868,6 +12888,16 @@
     "start_datetime": "2026-09-11T08:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 781555,
+    "store_id": 24716,
+    "name": "Lorcana Attack of the Vine! Set Championship at Evo Games",
+    "category": "championship",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-09-19T01:00:00+00:00",
+    "registered_user_count": 15,
+    "starting_player_count": 15
   },
   {
     "id": 154324,
@@ -13130,16 +13160,6 @@
     "starting_player_count": 16
   },
   {
-    "id": 745691,
-    "store_id": 1691,
-    "name": "Disney Lorcana Locals",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-07-05T01:00:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
-  },
-  {
     "id": 707900,
     "store_id": 1691,
     "name": "Disney Lorcana Sundays (Please purchase a ticket via our website or in-store to secure your spot)",
@@ -13148,6 +13168,16 @@
     "start_datetime": "2026-07-05T01:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 745691,
+    "store_id": 1691,
+    "name": "Disney Lorcana Locals",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-07-05T01:00:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 693539,
@@ -13184,10 +13214,10 @@
     "store_id": 1691,
     "name": "Attack of the Vine! Prerelease (Sealed) (Please Purchase a ticket via our website or in-store to secure your spot)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T01:00:00+00:00",
-    "registered_user_count": 10,
-    "starting_player_count": 10
+    "registered_user_count": 6,
+    "starting_player_count": 12
   },
   {
     "id": 707904,
@@ -14364,10 +14394,10 @@
     "store_id": 1862,
     "name": "Gameology Brunswick Attack of the Vine! Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_CLOSED",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T01:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 20,
+    "starting_player_count": 24
   },
   {
     "id": 737421,
@@ -14884,10 +14914,10 @@
     "store_id": 1863,
     "name": "Gameology Clayton Attack of the Vine! Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_CLOSED",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T03:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 22,
+    "starting_player_count": 23
   },
   {
     "id": 737486,
@@ -15144,10 +15174,10 @@
     "store_id": 16736,
     "name": "Sunday Afternoon Attack of the Vine! Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T03:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 8,
+    "starting_player_count": 8
   },
   {
     "id": 767344,
@@ -19444,9 +19474,9 @@
     "store_id": 2222,
     "name": "GGA Attack of the Vine Pre Release",
     "category": "league",
-    "event_status": "REGISTRATION_CLOSED",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T03:00:00+00:00",
-    "registered_user_count": 12,
+    "registered_user_count": 6,
     "starting_player_count": 12
   },
   {
@@ -20736,8 +20766,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-08-29T02:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 762232,
@@ -21756,8 +21786,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-20T08:30:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
+    "registered_user_count": 12,
+    "starting_player_count": 12
   },
   {
     "id": 308654,
@@ -22126,16 +22156,6 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-16T05:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
-    "id": 623349,
-    "store_id": 2235,
-    "name": "Thursday Lorcana Locals",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-07-16T07:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -23746,8 +23766,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-21T09:00:00+00:00",
-    "registered_user_count": 11,
-    "starting_player_count": 11
+    "registered_user_count": 14,
+    "starting_player_count": 14
   },
   {
     "id": 626918,
@@ -25554,7 +25574,7 @@
     "store_id": 13765,
     "name": "Good Games Top Ryde - Lorcana - Attack of the Vines Pre-Release Pack Rush",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T02:30:00+00:00",
     "registered_user_count": 6,
     "starting_player_count": 6
@@ -25564,10 +25584,10 @@
     "store_id": 13765,
     "name": "Good Games Top Ryde - Lorcana - Attack of the Vines Sunday Pre-Release",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T04:00:00+00:00",
-    "registered_user_count": 23,
-    "starting_player_count": 23
+    "registered_user_count": 9,
+    "starting_player_count": 20
   },
   {
     "id": 156255,
@@ -26296,8 +26316,8 @@
     "category": "league",
     "event_status": "REGISTRATION_CLOSED",
     "start_datetime": "2026-07-23T08:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 661546,
@@ -26630,16 +26650,6 @@
     "starting_player_count": 4
   },
   {
-    "id": 718316,
-    "store_id": 19269,
-    "name": "Sunday Toy Story 5 Pack Rush Event",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-07-19T00:00:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
-  },
-  {
     "id": 621934,
     "store_id": 19269,
     "name": "Sunday Morning Weekly Casual Play (Constructed)",
@@ -26650,14 +26660,24 @@
     "starting_player_count": 0
   },
   {
+    "id": 718316,
+    "store_id": 19269,
+    "name": "Sunday Toy Story 5 Pack Rush Event",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-07-19T00:00:00+00:00",
+    "registered_user_count": 7,
+    "starting_player_count": 7
+  },
+  {
     "id": 761736,
     "store_id": 19269,
     "name": "Attack Of The Vine! Casual Prerelease",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T00:30:00+00:00",
-    "registered_user_count": 13,
-    "starting_player_count": 13
+    "registered_user_count": 20,
+    "starting_player_count": 21
   },
   {
     "id": 643466,
@@ -26736,6 +26756,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-09-06T00:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 781874,
+    "store_id": 19269,
+    "name": "Sunday Morning Weekly Casual Play (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-09-13T00:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -27954,10 +27984,10 @@
     "store_id": 2333,
     "name": "Sunday Afternoon Attack of the Vine! Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T04:00:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 6,
+    "starting_player_count": 8
   },
   {
     "id": 306897,
@@ -28474,10 +28504,10 @@
     "store_id": 2400,
     "name": "Sunday Afternoon Weekly Play (Constructed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T05:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 761800,
@@ -29404,10 +29434,10 @@
     "store_id": 24261,
     "name": "Disney Lorcana - Attack of the vine - Pre release @ HL CHCH",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-18T23:30:00+00:00",
-    "registered_user_count": 7,
-    "starting_player_count": 7
+    "registered_user_count": 21,
+    "starting_player_count": 22
   },
   {
     "id": 621811,
@@ -29566,6 +29596,26 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-09-06T16:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 782057,
+    "store_id": 24261,
+    "name": "Sunday Lorcana @ Hobby Lords",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-09-13T02:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 782055,
+    "store_id": 24261,
+    "name": "Hobby Lords CHCH Lorcana Sunday",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-09-13T16:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -30000,16 +30050,6 @@
     "starting_player_count": 4
   },
   {
-    "id": 671172,
-    "store_id": 2461,
-    "name": "Hobby League!",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-06-06T23:00:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
-  },
-  {
     "id": 689211,
     "store_id": 2461,
     "name": "Hobby league!",
@@ -30064,10 +30104,10 @@
     "store_id": 2461,
     "name": "Attack of the Vine! Prerelease Day 2 @ HL Dunedin",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-18T23:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 614688,
@@ -30120,16 +30160,6 @@
     "starting_player_count": 19
   },
   {
-    "id": 710073,
-    "store_id": 54041,
-    "name": "Hobby Lords Hamilton Friday Evening Toy Story 5 Pack Rush",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-07-10T06:30:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
-  },
-  {
     "id": 759012,
     "store_id": 54041,
     "name": "Friday Evening Unstructured / Player List Only",
@@ -30138,6 +30168,16 @@
     "start_datetime": "2026-07-10T06:30:00+00:00",
     "registered_user_count": 2,
     "starting_player_count": 2
+  },
+  {
+    "id": 710073,
+    "store_id": 54041,
+    "name": "Hobby Lords Hamilton Friday Evening Toy Story 5 Pack Rush",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-07-10T06:30:00+00:00",
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 664801,
@@ -30154,7 +30194,7 @@
     "store_id": 54041,
     "name": "Hobby Lords Hamilton Sunday Afternoon Attack of the Vine! Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_CLOSED",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T02:00:00+00:00",
     "registered_user_count": 12,
     "starting_player_count": 12
@@ -30614,10 +30654,10 @@
     "store_id": 2462,
     "name": "Sunday Afternoon Attack of the Vine! Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T02:00:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
+    "registered_user_count": 8,
+    "starting_player_count": 8
   },
   {
     "id": 721166,
@@ -31200,16 +31240,6 @@
     "starting_player_count": 2
   },
   {
-    "id": 611656,
-    "store_id": 2463,
-    "name": "Friday Night - Lorcana League",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-07-16T16:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 719773,
     "store_id": 2463,
     "name": "Attack of the Vines Pre-release",
@@ -31584,10 +31614,10 @@
     "store_id": 18259,
     "name": "Attack of The Vine Pre-Release @Hobby Lords Takapuna",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T01:30:00+00:00",
-    "registered_user_count": 5,
-    "starting_player_count": 5
+    "registered_user_count": 6,
+    "starting_player_count": 11
   },
   {
     "id": 477620,
@@ -33096,8 +33126,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-25T04:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 155354,
@@ -34416,8 +34446,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-08-29T06:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 762777,
@@ -35402,7 +35432,7 @@
   {
     "id": 766053,
     "store_id": 57480,
-    "name": "Friday Night Learn How to Play Lorcana (Unstructured) at Kanto Corner NP",
+    "name": "Friday Night Learn How to Play Lorcana (Unstructured) and Pack Rush at Kanto Corner NP",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-24T07:00:00+00:00",
@@ -36664,10 +36694,10 @@
     "store_id": 3292,
     "name": "Sunday Morning Attack of the Vine! Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T02:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 154348,
@@ -39076,8 +39106,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-21T10:30:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
+    "registered_user_count": 3,
+    "starting_player_count": 3
   },
   {
     "id": 164411,
@@ -39754,10 +39784,10 @@
     "store_id": 5399,
     "name": "Toy Story School Holiday Pack Rush",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T03:00:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 673644,
@@ -42174,7 +42204,7 @@
     "store_id": 4128,
     "name": "Attack of the Vine! Prerelease (Sealed) - Sunday 19th July 2PM",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T04:00:00+00:00",
     "registered_user_count": 4,
     "starting_player_count": 4
@@ -44354,10 +44384,10 @@
     "store_id": 4265,
     "name": "[Shuffled Daw Park] Attack of the Vine Pre-Release (Revenge of the Vine)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T02:00:00+00:00",
-    "registered_user_count": 3,
-    "starting_player_count": 3
+    "registered_user_count": 12,
+    "starting_player_count": 12
   },
   {
     "id": 636835,
@@ -45490,16 +45520,6 @@
     "starting_player_count": 6
   },
   {
-    "id": 616386,
-    "store_id": 4357,
-    "name": "Lorcana at Sovereign Cards (Copy)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-05-22T08:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 548794,
     "store_id": 4357,
     "name": "Lorcana at Sovereign Cards",
@@ -45510,22 +45530,12 @@
     "starting_player_count": 9
   },
   {
-    "id": 616097,
+    "id": 616386,
     "store_id": 4357,
-    "name": "Infinity Night at Sovereign Cards",
+    "name": "Lorcana at Sovereign Cards (Copy)",
     "category": "league",
     "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-05-29T08:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
-    "id": 638452,
-    "store_id": 4357,
-    "name": "Infinity Night at Sovereign Cards (Copy)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-05-29T08:30:00+00:00",
+    "start_datetime": "2026-05-22T08:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -45538,6 +45548,26 @@
     "start_datetime": "2026-05-29T08:30:00+00:00",
     "registered_user_count": 6,
     "starting_player_count": 10
+  },
+  {
+    "id": 638452,
+    "store_id": 4357,
+    "name": "Infinity Night at Sovereign Cards (Copy)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-05-29T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 616097,
+    "store_id": 4357,
+    "name": "Infinity Night at Sovereign Cards",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-05-29T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 648528,
@@ -45610,6 +45640,16 @@
     "starting_player_count": 23
   },
   {
+    "id": 648531,
+    "store_id": 4357,
+    "name": "Lorcana at Sovereign Cards",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-06-26T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 648518,
     "store_id": 4357,
     "name": "Infinity Night at Sovereign Cards",
@@ -45620,12 +45660,12 @@
     "starting_player_count": 0
   },
   {
-    "id": 648531,
+    "id": 648532,
     "store_id": 4357,
     "name": "Lorcana at Sovereign Cards",
     "category": "league",
     "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-06-26T08:30:00+00:00",
+    "start_datetime": "2026-07-03T08:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -45638,16 +45678,6 @@
     "start_datetime": "2026-07-03T08:30:00+00:00",
     "registered_user_count": 8,
     "starting_player_count": 8
-  },
-  {
-    "id": 648532,
-    "store_id": 4357,
-    "name": "Lorcana at Sovereign Cards",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-07-03T08:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
   },
   {
     "id": 648533,
@@ -45696,6 +45726,36 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-31T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 781492,
+    "store_id": 4357,
+    "name": "Lorcana at Sovereign Cards",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-08-07T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 781494,
+    "store_id": 4357,
+    "name": "Lorcana at Sovereign Cards",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-08-14T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 781499,
+    "store_id": 4357,
+    "name": "Lorcana at Sovereign Cards",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-08-21T08:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -47150,22 +47210,22 @@
     "starting_player_count": 8
   },
   {
-    "id": 611520,
-    "store_id": 4525,
-    "name": "[ADELAIDE] Lorcana - Weekly Core Constructed",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-07-16T09:00:00+00:00",
-    "registered_user_count": 5,
-    "starting_player_count": 5
-  },
-  {
     "id": 685632,
     "store_id": 4525,
     "name": "TTW Adelaide Toy Story School Holiday Learn To Play",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-16T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 687779,
+    "store_id": 4525,
+    "name": "[ADELAIDE] Lorcana - Weekly Core Constructed",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-07-23T09:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -47178,16 +47238,6 @@
     "start_datetime": "2026-07-23T09:00:00+00:00",
     "registered_user_count": 6,
     "starting_player_count": 6
-  },
-  {
-    "id": 687779,
-    "store_id": 4525,
-    "name": "[ADELAIDE] Lorcana - Weekly Core Constructed",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-07-23T09:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
   },
   {
     "id": 661694,
@@ -47670,16 +47720,6 @@
     "starting_player_count": 10
   },
   {
-    "id": 371045,
-    "store_id": 4526,
-    "name": "Monday Evening Weekly Play (Casual))",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-02-02T07:00:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
-  },
-  {
     "id": 371046,
     "store_id": 4526,
     "name": "Monday Evening Weekly Play (Competitve))",
@@ -47688,6 +47728,16 @@
     "start_datetime": "2026-02-02T07:00:00+00:00",
     "registered_user_count": 10,
     "starting_player_count": 10
+  },
+  {
+    "id": 371045,
+    "store_id": 4526,
+    "name": "Monday Evening Weekly Play (Casual))",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-02-02T07:00:00+00:00",
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 384721,
@@ -47920,16 +47970,6 @@
     "starting_player_count": 10
   },
   {
-    "id": 652515,
-    "store_id": 4526,
-    "name": "Monday Evening Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-06-29T09:00:00+00:00",
-    "registered_user_count": 9,
-    "starting_player_count": 9
-  },
-  {
     "id": 554740,
     "store_id": 4526,
     "name": "[GAWLER] Lorcana - Weekly Core Constructed",
@@ -47938,6 +47978,16 @@
     "start_datetime": "2026-06-29T09:00:00+00:00",
     "registered_user_count": 12,
     "starting_player_count": 12
+  },
+  {
+    "id": 652515,
+    "store_id": 4526,
+    "name": "Monday Evening Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-06-29T09:00:00+00:00",
+    "registered_user_count": 9,
+    "starting_player_count": 9
   },
   {
     "id": 679993,
@@ -47984,10 +48034,10 @@
     "store_id": 4526,
     "name": "[GAWLER] Lorcana - Prerelease : Attack of the Vine! (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T01:00:00+00:00",
-    "registered_user_count": 7,
-    "starting_player_count": 7
+    "registered_user_count": 16,
+    "starting_player_count": 23
   },
   {
     "id": 623722,
@@ -49380,9 +49430,9 @@
     "starting_player_count": 0
   },
   {
-    "id": 681298,
+    "id": 743270,
     "store_id": 4665,
-    "name": "Saturday Morning Attack of the Vine! Prerelease (Pack Rush)",
+    "name": "Saturday Morning Attack of the Vine! Prerelease (Sealed)",
     "category": "league",
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-18T01:00:00+00:00",
@@ -49390,9 +49440,9 @@
     "starting_player_count": 1
   },
   {
-    "id": 743270,
+    "id": 681298,
     "store_id": 4665,
-    "name": "Saturday Morning Attack of the Vine! Prerelease (Sealed)",
+    "name": "Saturday Morning Attack of the Vine! Prerelease (Pack Rush)",
     "category": "league",
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-18T01:00:00+00:00",
@@ -49414,10 +49464,10 @@
     "store_id": 4665,
     "name": "Saturday Afternoon Attack of the Vine! Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T01:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 11,
+    "starting_player_count": 13
   },
   {
     "id": 743276,
@@ -50126,6 +50176,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-09-06T01:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 781957,
+    "store_id": 4684,
+    "name": "Sunday Morning Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-09-13T01:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -52184,10 +52244,10 @@
     "store_id": 4817,
     "name": "Lorcana: Attack of the Vine! Prerelease",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T01:00:00+00:00",
-    "registered_user_count": 19,
-    "starting_player_count": 19
+    "registered_user_count": 9,
+    "starting_player_count": 14
   },
   {
     "id": 774850,
@@ -52708,16 +52768,6 @@
     "start_datetime": "2026-07-11T05:30:00+00:00",
     "registered_user_count": 2,
     "starting_player_count": 5
-  },
-  {
-    "id": 751676,
-    "store_id": 39739,
-    "name": "Lorcana Weekly",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-07-18T05:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
   },
   {
     "id": 751677,
@@ -53846,8 +53896,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-20T09:00:00+00:00",
-    "registered_user_count": 3,
-    "starting_player_count": 3
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 729678,
@@ -53866,8 +53916,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-30T09:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 729680,
@@ -53876,8 +53926,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-08-06T09:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 729681,
@@ -53886,8 +53936,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-08-13T09:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 729682,
@@ -53896,8 +53946,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-08-20T09:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 738293,
@@ -53906,8 +53956,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-08-27T09:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 757196,
@@ -53916,8 +53966,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-09-03T09:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 774290,
@@ -56894,20 +56944,20 @@
     "store_id": 5251,
     "name": "Lorcana: Attack of the Vine! Pack Rush @ Vault Games Brisbane City",
     "category": "league",
-    "event_status": "REGISTRATION_CLOSED",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T00:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 28,
+    "starting_player_count": 28
   },
   {
     "id": 747914,
     "store_id": 5251,
     "name": "Lorcana: Attack of the Vine! Prerelease @ Vault Games Brisbane City",
     "category": "league",
-    "event_status": "REGISTRATION_CLOSED",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T02:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 21,
+    "starting_player_count": 38
   },
   {
     "id": 155960,
@@ -57486,8 +57536,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-24T08:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 770873,
@@ -58614,7 +58664,7 @@
     "store_id": 5355,
     "name": "Toy Story School Holiday Pack Rush",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-19T02:00:00+00:00",
     "registered_user_count": 1,
     "starting_player_count": 1
@@ -59266,7 +59316,7 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-07-20T04:30:00+00:00",
-    "registered_user_count": 20,
-    "starting_player_count": 20
+    "registered_user_count": 19,
+    "starting_player_count": 19
   }
 ]
