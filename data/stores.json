@@ -2304,15 +2304,6 @@
     "longitude": 153.03731299999998
   },
   {
-    "id": 24192,
-    "name": "Mr Tofu Card Store",
-    "country": "NZ",
-    "state": "NZ",
-    "full_address": "30/90A Hobsonville Road, Auckland, 0618, NZ",
-    "latitude": -36.8107131,
-    "longitude": 174.6323212
-  },
-  {
     "id": 24605,
     "name": "Mr Tofu Card Store",
     "country": "NZ",
@@ -2320,6 +2311,15 @@
     "full_address": "90 Hobsonville Rd, Hobsonville, Auckland, 0618, West Harbour, Auckland, 0618, NZ",
     "latitude": -36.8128906,
     "longitude": 174.6324972
+  },
+  {
+    "id": 24192,
+    "name": "Mr Tofu Card Store",
+    "country": "NZ",
+    "state": "NZ",
+    "full_address": "30/90A Hobsonville Road, Auckland, 0618, NZ",
+    "latitude": -36.8107131,
+    "longitude": 174.6323212
   },
   {
     "id": 29734,
@@ -2484,20 +2484,20 @@
     "longitude": 145.2406148
   },
   {
-    "id": 57936,
-    "name": "Paper or Plastic",
-    "country": "AU",
-    "state": "SA",
-    "full_address": "11, Graves St, Kadina, SA, 5554, AU",
-    "latitude": -33.963788,
-    "longitude": 137.712241
-  },
-  {
     "id": 27457,
     "name": "Paper or Plastic",
     "country": "AU",
     "state": "SA",
     "full_address": "11 Graves St, Kadina SA 5554, Australia",
+    "latitude": -33.963788,
+    "longitude": 137.712241
+  },
+  {
+    "id": 57936,
+    "name": "Paper or Plastic",
+    "country": "AU",
+    "state": "SA",
+    "full_address": "11, Graves St, Kadina, SA, 5554, AU",
     "latitude": -33.963788,
     "longitude": 137.712241
   },
@@ -2614,9 +2614,9 @@
     "name": "Raptor Games",
     "country": "AU",
     "state": "QLD",
-    "full_address": "2/105 Bay Terrace, Wynnum QLD 4178, Australia",
-    "latitude": -27.444031799999998,
-    "longitude": 153.1736587
+    "full_address": "74 Florence Street, Wynnum, QLD, 4178, AU",
+    "latitude": -27.4438985,
+    "longitude": 153.1737398
   },
   {
     "id": 18260,
@@ -3342,8 +3342,8 @@
     "id": 19270,
     "name": "Underground Games",
     "country": "AU",
-    "state": "Unknown",
-    "full_address": "Shop 12 Exchange Arcade , Broken Hill, NS, 2880, AU",
+    "state": "NSW",
+    "full_address": "48 Darling St, Wentworth NSW 2648, Australia",
     "latitude": -34.107372999999995,
     "longitude": 141.91892909999999
   },
