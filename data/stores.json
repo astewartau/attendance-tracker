@@ -405,7 +405,7 @@
     "longitude": 173.9566787
   },
   {
-    "id": 16574,
+    "id": 687,
     "name": "Card Merchant Christchurch",
     "country": "NZ",
     "state": "NZ",
@@ -414,7 +414,7 @@
     "longitude": 172.6121556
   },
   {
-    "id": 687,
+    "id": 16574,
     "name": "Card Merchant Christchurch",
     "country": "NZ",
     "state": "NZ",
@@ -1048,9 +1048,9 @@
     "name": "Gamer's Resort",
     "country": "AU",
     "state": "VIC",
-    "full_address": "135 Maude Street, Shepparton, VIC, 3630, AU",
-    "latitude": -36.377842,
-    "longitude": 145.4018734
+    "full_address": "20 Edward St, Shepparton VIC 3630, Australia",
+    "latitude": -36.3786291,
+    "longitude": 145.40336159999998
   },
   {
     "id": 16736,
@@ -2367,15 +2367,6 @@
     "longitude": 153.03731299999998
   },
   {
-    "id": 24605,
-    "name": "Mr Tofu Card Store",
-    "country": "NZ",
-    "state": "NZ",
-    "full_address": "90 Hobsonville Rd, Hobsonville, Auckland, 0618, West Harbour, Auckland, 0618, NZ",
-    "latitude": -36.8128906,
-    "longitude": 174.6324972
-  },
-  {
     "id": 24192,
     "name": "Mr Tofu Card Store",
     "country": "NZ",
@@ -2383,6 +2374,15 @@
     "full_address": "30/90A Hobsonville Road, Auckland, 0618, NZ",
     "latitude": -36.8107131,
     "longitude": 174.6323212
+  },
+  {
+    "id": 24605,
+    "name": "Mr Tofu Card Store",
+    "country": "NZ",
+    "state": "NZ",
+    "full_address": "90 Hobsonville Rd, Hobsonville, Auckland, 0618, West Harbour, Auckland, 0618, NZ",
+    "latitude": -36.8128906,
+    "longitude": 174.6324972
   },
   {
     "id": 29734,
@@ -2565,15 +2565,6 @@
     "longitude": 137.712241
   },
   {
-    "id": 27457,
-    "name": "Paper or Plastic",
-    "country": "AU",
-    "state": "SA",
-    "full_address": "11 Graves St, Kadina SA 5554, Australia",
-    "latitude": -33.963788,
-    "longitude": 137.712241
-  },
-  {
     "id": 3874,
     "name": "Play Back Gympie",
     "country": "AU",
@@ -2713,9 +2704,9 @@
     "name": "Realms of Magic and Miniatures",
     "country": "AU",
     "state": "QLD",
-    "full_address": "3 Tavern Street, Townsville, QLD, 4817, AU",
-    "latitude": -19.3020353,
-    "longitude": 146.7346863
+    "full_address": "7 Castlemaine Street, KIRWAN, Townsville, QLD, 4817, AU",
+    "latitude": -19.300358,
+    "longitude": 146.7350218
   },
   {
     "id": 18934,
@@ -3303,20 +3294,20 @@
     "longitude": 138.4840417
   },
   {
-    "id": 58519,
-    "name": "The Training Room - Bundaberg",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "1 Mary St, Shop 11, Bundaberg East, QLD, 4670, AU",
-    "latitude": 1.0,
-    "longitude": -2.0
-  },
-  {
     "id": 42606,
     "name": "The Training Room - Bundaberg",
     "country": "AU",
     "state": "QLD",
     "full_address": "11/1 Mary Street, Bundaberg East, QLD, 4670, AU",
+    "latitude": 1.0,
+    "longitude": -2.0
+  },
+  {
+    "id": 58519,
+    "name": "The Training Room - Bundaberg",
+    "country": "AU",
+    "state": "QLD",
+    "full_address": "1 Mary St, Shop 11, Bundaberg East, QLD, 4670, AU",
     "latitude": 1.0,
     "longitude": -2.0
   },
@@ -3330,15 +3321,6 @@
     "longitude": 145.7771636
   },
   {
-    "id": 17854,
-    "name": "T One Australia (Keon Park Station Store)",
-    "country": "AU",
-    "state": "VIC",
-    "full_address": "U57/7 Dalton Rd, Thomastown, VIC, 3074, AU",
-    "latitude": -37.6967294,
-    "longitude": 145.0123301
-  },
-  {
     "id": 16907,
     "name": "T One Australia (Keon Park Station Store)",
     "country": "AU",
@@ -3346,6 +3328,15 @@
     "full_address": "23 Johnson St, Reservoir VIC 3073, Australia",
     "latitude": -37.696729399999995,
     "longitude": 145.01233009999999
+  },
+  {
+    "id": 17854,
+    "name": "T One Australia (Keon Park Station Store)",
+    "country": "AU",
+    "state": "VIC",
+    "full_address": "U57/7 Dalton Rd, Thomastown, VIC, 3074, AU",
+    "latitude": -37.6967294,
+    "longitude": 145.0123301
   },
   {
     "id": 5042,
@@ -3441,8 +3432,8 @@
     "id": 19270,
     "name": "Underground Games",
     "country": "AU",
-    "state": "NSW",
-    "full_address": "48 Darling St, Wentworth NSW 2648, Australia",
+    "state": "Unknown",
+    "full_address": "Shop 12 Exchange Arcade , Broken Hill, NS, 2880, AU",
     "latitude": -34.107372999999995,
     "longitude": 141.91892909999999
   },
