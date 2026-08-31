@@ -513,15 +513,6 @@
     "longitude": 176.07185859999998
   },
   {
-    "id": 39768,
-    "name": "Card Merchant Tauranga",
-    "country": "NZ",
-    "state": "NZ",
-    "full_address": "223 Fraser Street, Tauranga South, Tauranga 3112, New Zealand",
-    "latitude": -37.710821599999996,
-    "longitude": 176.15203209999999
-  },
-  {
     "id": 40366,
     "name": "Card Merchant Tauranga",
     "country": "NZ",
@@ -529,6 +520,15 @@
     "full_address": "223 Fraser St, Tauranga South, Bay of Plenty Region, 3112, NZ",
     "latitude": -37.6871639,
     "longitude": 176.1693693
+  },
+  {
+    "id": 39768,
+    "name": "Card Merchant Tauranga",
+    "country": "NZ",
+    "state": "NZ",
+    "full_address": "223 Fraser Street, Tauranga South, Tauranga 3112, New Zealand",
+    "latitude": -37.710821599999996,
+    "longitude": 176.15203209999999
   },
   {
     "id": 18139,
@@ -751,9 +751,9 @@
     "name": "CTC Games",
     "country": "AU",
     "state": "QLD",
-    "full_address": "9/49 Jijaws Street, Sumner, QLD, 4074, AU",
-    "latitude": -27.5624381,
-    "longitude": 152.9396391
+    "full_address": "45 Jijaws Street, Sumner, QLD, 4074, AU",
+    "latitude": -27.5626376,
+    "longitude": 152.9399739
   },
   {
     "id": 1049,
@@ -1057,9 +1057,9 @@
     "name": "Gamer's Resort",
     "country": "AU",
     "state": "VIC",
-    "full_address": "20 Edward St, Shepparton VIC 3630, Australia",
-    "latitude": -36.3786291,
-    "longitude": 145.40336159999998
+    "full_address": "135 Maude Street, Shepparton, VIC, 3630, AU",
+    "latitude": -36.377842,
+    "longitude": 145.4018734
   },
   {
     "id": 16736,
@@ -2097,15 +2097,6 @@
     "longitude": 151.2037718
   },
   {
-    "id": 54020,
-    "name": "Lion's Den Collectibles Bonnyrigg",
-    "country": "AU",
-    "state": "NSW",
-    "full_address": "100 Bonnyrigg Ave, Bonnyrigg NSW 2177, Australia",
-    "latitude": -33.8864267,
-    "longitude": 150.8886943
-  },
-  {
     "id": 24546,
     "name": "Lion's Den Collectibles Bonnyrigg",
     "country": "AU",
@@ -2113,6 +2104,15 @@
     "full_address": "100 Bonnyrigg Ave, shop 11b, Bonnyrigg, NSW, 2177, AU",
     "latitude": -33.8876529,
     "longitude": 150.8868969
+  },
+  {
+    "id": 54020,
+    "name": "Lion's Den Collectibles Bonnyrigg",
+    "country": "AU",
+    "state": "NSW",
+    "full_address": "100 Bonnyrigg Ave, Bonnyrigg NSW 2177, Australia",
+    "latitude": -33.8864267,
+    "longitude": 150.8886943
   },
   {
     "id": 24548,
@@ -2686,9 +2686,9 @@
     "name": "Raptor Games",
     "country": "AU",
     "state": "QLD",
-    "full_address": "2/105 Bay Terrace, Wynnum QLD 4178, Australia",
-    "latitude": -27.444031799999998,
-    "longitude": 153.1736587
+    "full_address": "74 Florence Street, Wynnum, QLD, 4178, AU",
+    "latitude": -27.4438985,
+    "longitude": 153.1737398
   },
   {
     "id": 18260,
@@ -2713,9 +2713,9 @@
     "name": "Realms of Magic and Miniatures",
     "country": "AU",
     "state": "QLD",
-    "full_address": "3 Tavern Street, Townsville, QLD, 4817, AU",
-    "latitude": -19.3020353,
-    "longitude": 146.7346863
+    "full_address": "7 Castlemaine Street, KIRWAN, Townsville, QLD, 4817, AU",
+    "latitude": -19.300358,
+    "longitude": 146.7350218
   },
   {
     "id": 18934,
@@ -3303,20 +3303,20 @@
     "longitude": 138.4840417
   },
   {
-    "id": 42606,
-    "name": "The Training Room - Bundaberg",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "11/1 Mary Street, Bundaberg East, QLD, 4670, AU",
-    "latitude": 1.0,
-    "longitude": -2.0
-  },
-  {
     "id": 58519,
     "name": "The Training Room - Bundaberg",
     "country": "AU",
     "state": "QLD",
     "full_address": "1 Mary St, Shop 11, Bundaberg East, QLD, 4670, AU",
+    "latitude": 1.0,
+    "longitude": -2.0
+  },
+  {
+    "id": 42606,
+    "name": "The Training Room - Bundaberg",
+    "country": "AU",
+    "state": "QLD",
+    "full_address": "11/1 Mary Street, Bundaberg East, QLD, 4670, AU",
     "latitude": 1.0,
     "longitude": -2.0
   },
