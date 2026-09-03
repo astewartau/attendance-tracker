@@ -2565,20 +2565,20 @@
     "longitude": 145.2406148
   },
   {
-    "id": 27457,
-    "name": "Paper or Plastic",
-    "country": "AU",
-    "state": "SA",
-    "full_address": "11 Graves St, Kadina SA 5554, Australia",
-    "latitude": -33.963788,
-    "longitude": 137.712241
-  },
-  {
     "id": 57936,
     "name": "Paper or Plastic",
     "country": "AU",
     "state": "SA",
     "full_address": "11, Graves St, Kadina, SA, 5554, AU",
+    "latitude": -33.963788,
+    "longitude": 137.712241
+  },
+  {
+    "id": 27457,
+    "name": "Paper or Plastic",
+    "country": "AU",
+    "state": "SA",
+    "full_address": "11 Graves St, Kadina SA 5554, Australia",
     "latitude": -33.963788,
     "longitude": 137.712241
   },
@@ -3339,15 +3339,6 @@
     "longitude": 145.7771636
   },
   {
-    "id": 17854,
-    "name": "T One Australia (Keon Park Station Store)",
-    "country": "AU",
-    "state": "VIC",
-    "full_address": "U57/7 Dalton Rd, Thomastown, VIC, 3074, AU",
-    "latitude": -37.6967294,
-    "longitude": 145.0123301
-  },
-  {
     "id": 16907,
     "name": "T One Australia (Keon Park Station Store)",
     "country": "AU",
@@ -3355,6 +3346,15 @@
     "full_address": "23 Johnson St, Reservoir VIC 3073, Australia",
     "latitude": -37.696729399999995,
     "longitude": 145.01233009999999
+  },
+  {
+    "id": 17854,
+    "name": "T One Australia (Keon Park Station Store)",
+    "country": "AU",
+    "state": "VIC",
+    "full_address": "U57/7 Dalton Rd, Thomastown, VIC, 3074, AU",
+    "latitude": -37.6967294,
+    "longitude": 145.0123301
   },
   {
     "id": 5042,
@@ -3450,8 +3450,8 @@
     "id": 19270,
     "name": "Underground Games",
     "country": "AU",
-    "state": "NSW",
-    "full_address": "48 Darling St, Wentworth NSW 2648, Australia",
+    "state": "Unknown",
+    "full_address": "Shop 12 Exchange Arcade , Broken Hill, NS, 2880, AU",
     "latitude": -34.107372999999995,
     "longitude": 141.91892909999999
   },
