@@ -396,7 +396,7 @@
     "longitude": 173.9566787
   },
   {
-    "id": 687,
+    "id": 16574,
     "name": "Card Merchant Christchurch",
     "country": "NZ",
     "state": "NZ",
@@ -405,7 +405,7 @@
     "longitude": 172.6121556
   },
   {
-    "id": 16574,
+    "id": 687,
     "name": "Card Merchant Christchurch",
     "country": "NZ",
     "state": "NZ",
@@ -1021,9 +1021,9 @@
     "name": "Gamer's Resort",
     "country": "AU",
     "state": "VIC",
-    "full_address": "20 Edward St, Shepparton VIC 3630, Australia",
-    "latitude": -36.3786291,
-    "longitude": 145.40336159999998
+    "full_address": "135 Maude Street, Shepparton, VIC, 3630, AU",
+    "latitude": -36.377842,
+    "longitude": 145.4018734
   },
   {
     "id": 16736,
@@ -1822,9 +1822,9 @@
     "name": "Hobby Lords Wellington",
     "country": "NZ",
     "state": "NZ",
-    "full_address": "174 High Street, Lower Hutt, Wellington, 5010, NZ",
-    "latitude": -41.2095849,
-    "longitude": 174.9027793
+    "full_address": "191 High Street, Hutt Central, 6035, NZ",
+    "latitude": -41.2090851,
+    "longitude": 174.902965
   },
   {
     "id": 2465,
@@ -2538,20 +2538,20 @@
     "longitude": 145.2406148
   },
   {
-    "id": 57936,
-    "name": "Paper or Plastic",
-    "country": "AU",
-    "state": "SA",
-    "full_address": "11, Graves St, Kadina, SA, 5554, AU",
-    "latitude": -33.963788,
-    "longitude": 137.712241
-  },
-  {
     "id": 27457,
     "name": "Paper or Plastic",
     "country": "AU",
     "state": "SA",
     "full_address": "11 Graves St, Kadina SA 5554, Australia",
+    "latitude": -33.963788,
+    "longitude": 137.712241
+  },
+  {
+    "id": 57936,
+    "name": "Paper or Plastic",
+    "country": "AU",
+    "state": "SA",
+    "full_address": "11, Graves St, Kadina, SA, 5554, AU",
     "latitude": -33.963788,
     "longitude": 137.712241
   },
@@ -2713,9 +2713,9 @@
     "name": "Relic Games",
     "country": "AU",
     "state": "NSW",
-    "full_address": "54 Cobra St, Dubbo, NSW, 2830, AU",
-    "latitude": -32.2533828,
-    "longitude": 148.6048544
+    "full_address": "34B Victoria Street, Dubbo, NSW, 2830, AU",
+    "latitude": -32.253542583050105,
+    "longitude": 148.6048364523441
   },
   {
     "id": 17017,
@@ -3244,9 +3244,9 @@
     "name": "The Games District",
     "country": "AU",
     "state": "VIC",
-    "full_address": "unit 4/7-11 Lindon Ct, Tullamarine VIC 3043, Australia",
-    "latitude": -37.7108023,
-    "longitude": 144.8509798
+    "full_address": "55 Parer Road, Unit 2, Airport West, VIC, 3042, AU",
+    "latitude": -37.7202801,
+    "longitude": 144.8860288
   },
   {
     "id": 24923,
@@ -3285,20 +3285,20 @@
     "longitude": 138.4840417
   },
   {
-    "id": 42606,
-    "name": "The Training Room - Bundaberg",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "11/1 Mary Street, Bundaberg East, QLD, 4670, AU",
-    "latitude": 1.0,
-    "longitude": -2.0
-  },
-  {
     "id": 58519,
     "name": "The Training Room - Bundaberg",
     "country": "AU",
     "state": "QLD",
     "full_address": "1 Mary St, Shop 11, Bundaberg East, QLD, 4670, AU",
+    "latitude": 1.0,
+    "longitude": -2.0
+  },
+  {
+    "id": 42606,
+    "name": "The Training Room - Bundaberg",
+    "country": "AU",
+    "state": "QLD",
+    "full_address": "11/1 Mary Street, Bundaberg East, QLD, 4670, AU",
     "latitude": 1.0,
     "longitude": -2.0
   },
@@ -3312,15 +3312,6 @@
     "longitude": 145.7771636
   },
   {
-    "id": 17854,
-    "name": "T One Australia (Keon Park Station Store)",
-    "country": "AU",
-    "state": "VIC",
-    "full_address": "U57/7 Dalton Rd, Thomastown, VIC, 3074, AU",
-    "latitude": -37.6967294,
-    "longitude": 145.0123301
-  },
-  {
     "id": 16907,
     "name": "T One Australia (Keon Park Station Store)",
     "country": "AU",
@@ -3328,6 +3319,15 @@
     "full_address": "23 Johnson St, Reservoir VIC 3073, Australia",
     "latitude": -37.696729399999995,
     "longitude": 145.01233009999999
+  },
+  {
+    "id": 17854,
+    "name": "T One Australia (Keon Park Station Store)",
+    "country": "AU",
+    "state": "VIC",
+    "full_address": "U57/7 Dalton Rd, Thomastown, VIC, 3074, AU",
+    "latitude": -37.6967294,
+    "longitude": 145.0123301
   },
   {
     "id": 5042,
@@ -3414,8 +3414,8 @@
     "id": 19270,
     "name": "Underground Games",
     "country": "AU",
-    "state": "Unknown",
-    "full_address": "Shop 12 Exchange Arcade , Broken Hill, NS, 2880, AU",
+    "state": "NSW",
+    "full_address": "48 Darling St, Wentworth NSW 2648, Australia",
     "latitude": -34.107372999999995,
     "longitude": 141.91892909999999
   },
