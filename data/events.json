@@ -516,8 +516,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-17T02:00:00+00:00",
-    "registered_user_count": 19,
-    "starting_player_count": 19
+    "registered_user_count": 22,
+    "starting_player_count": 22
   },
   {
     "id": 1034061,
@@ -526,8 +526,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-22T08:00:00+00:00",
-    "registered_user_count": 14,
-    "starting_player_count": 14
+    "registered_user_count": 16,
+    "starting_player_count": 16
   },
   {
     "id": 891156,
@@ -1236,8 +1236,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-20T07:30:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
+    "registered_user_count": 3,
+    "starting_player_count": 3
   },
   {
     "id": 904530,
@@ -2244,10 +2244,10 @@
     "store_id": 162,
     "name": "Saturday Morning Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "REGISTRATION_CLOSED",
     "start_datetime": "2026-10-17T00:00:00+00:00",
-    "registered_user_count": 10,
-    "starting_player_count": 10
+    "registered_user_count": 12,
+    "starting_player_count": 12
   },
   {
     "id": 953576,
@@ -3744,10 +3744,10 @@
     "store_id": 347,
     "name": "Friday Evening Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T08:00:00+00:00",
-    "registered_user_count": 16,
-    "starting_player_count": 16
+    "registered_user_count": 15,
+    "starting_player_count": 19
   },
   {
     "id": 875802,
@@ -5484,10 +5484,10 @@
     "store_id": 393,
     "name": "Friday Evening Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T07:30:00+00:00",
     "registered_user_count": 0,
-    "starting_player_count": 0
+    "starting_player_count": 15
   },
   {
     "id": 1035498,
@@ -5496,8 +5496,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-17T01:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 12,
+    "starting_player_count": 12
   },
   {
     "id": 1035494,
@@ -6570,24 +6570,24 @@
     "starting_player_count": 6
   },
   {
-    "id": 1025633,
-    "store_id": 17384,
-    "name": "Sunday Morning Hyperia City Prerelease (Sealed)",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-10-16T07:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 1025630,
     "store_id": 17384,
     "name": "Friday Evening Hyperia City Prerelease (Pack Rush)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T07:30:00+00:00",
-    "registered_user_count": 8,
-    "starting_player_count": 8
+    "registered_user_count": 10,
+    "starting_player_count": 10
+  },
+  {
+    "id": 1025633,
+    "store_id": 17384,
+    "name": "Sunday Morning Hyperia City Prerelease (Sealed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-16T07:30:00+00:00",
+    "registered_user_count": 10,
+    "starting_player_count": 10
   },
   {
     "id": 156339,
@@ -7866,8 +7866,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-17T03:00:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
+    "registered_user_count": 11,
+    "starting_player_count": 11
   },
   {
     "id": 165533,
@@ -10500,16 +10500,6 @@
     "starting_player_count": 16
   },
   {
-    "id": 1055364,
-    "store_id": 689,
-    "name": "Sunday Hobby",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-10-03T21:30:00+00:00",
-    "registered_user_count": 9,
-    "starting_player_count": 9
-  },
-  {
     "id": 935391,
     "store_id": 689,
     "name": "Card Merchant Hamilton The Great Hunny Rescue Celebration",
@@ -10518,6 +10508,16 @@
     "start_datetime": "2026-10-03T21:30:00+00:00",
     "registered_user_count": 8,
     "starting_player_count": 8
+  },
+  {
+    "id": 1055364,
+    "store_id": 689,
+    "name": "Sunday Hobby",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-03T21:30:00+00:00",
+    "registered_user_count": 9,
+    "starting_player_count": 9
   },
   {
     "id": 860975,
@@ -10548,6 +10548,16 @@
     "start_datetime": "2026-10-14T05:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 1191614,
+    "store_id": 689,
+    "name": "Card Merchant Hamilton Hyperia City Pre-Release #1",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-16T05:30:00+00:00",
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 879926,
@@ -11284,10 +11294,10 @@
     "store_id": 56667,
     "name": "Friday Evening Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T05:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 156570,
@@ -12130,16 +12140,6 @@
     "starting_player_count": 11
   },
   {
-    "id": 865339,
-    "store_id": 64204,
-    "name": "Tuesday recurring",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-10-13T05:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 883950,
     "store_id": 64204,
     "name": "Tuesday recurring",
@@ -12714,10 +12714,10 @@
     "store_id": 16835,
     "name": "CM Westcity - Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T05:45:00+00:00",
-    "registered_user_count": 8,
-    "starting_player_count": 8
+    "registered_user_count": 22,
+    "starting_player_count": 23
   },
   {
     "id": 928849,
@@ -13766,6 +13766,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-04T07:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1196716,
+    "store_id": 17675,
+    "name": "Locana Friday Night.",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-11T07:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -15056,8 +15066,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-19T10:00:00+00:00",
-    "registered_user_count": 3,
-    "starting_player_count": 3
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 889978,
@@ -15130,9 +15140,9 @@
     "starting_player_count": 0
   },
   {
-    "id": 788918,
+    "id": 788929,
     "store_id": 46467,
-    "name": "Thursday Organised Play",
+    "name": "Lorcana Organised Play",
     "category": "league",
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-23T07:30:00+00:00",
@@ -15140,9 +15150,9 @@
     "starting_player_count": 0
   },
   {
-    "id": 788929,
+    "id": 788918,
     "store_id": 46467,
-    "name": "Lorcana Organised Play",
+    "name": "Thursday Organised Play",
     "category": "league",
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-23T07:30:00+00:00",
@@ -15254,10 +15264,10 @@
     "store_id": 46467,
     "name": "Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-10-16T06:00:00+00:00",
-    "registered_user_count": 9,
-    "starting_player_count": 9
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-16T07:00:00+00:00",
+    "registered_user_count": 10,
+    "starting_player_count": 10
   },
   {
     "id": 890083,
@@ -16274,7 +16284,7 @@
     "store_id": 24716,
     "name": "Friday Night Lorcana",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T08:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
@@ -16716,8 +16726,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-18T00:00:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 1055609,
@@ -17480,6 +17490,16 @@
     "starting_player_count": 2
   },
   {
+    "id": 1196963,
+    "store_id": 1785,
+    "name": "Game Corner x Hyperia City Prerelease (Sealed) x Tuesday",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-10-20T05:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 928679,
     "store_id": 1785,
     "name": "Game Corner x Lorcana x Weekly Play (Constructed)",
@@ -18126,8 +18146,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-18T00:30:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
+    "registered_user_count": 7,
+    "starting_player_count": 7
   },
   {
     "id": 924621,
@@ -20694,10 +20714,10 @@
     "store_id": 2005,
     "name": "Hyperia City Prerelease @ Games Portal",
     "category": "league",
-    "event_status": "REGISTRATION_CLOSED",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T08:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 13,
+    "starting_player_count": 13
   },
   {
     "id": 153703,
@@ -21350,16 +21370,6 @@
     "starting_player_count": 0
   },
   {
-    "id": 154444,
-    "store_id": 2051,
-    "name": "Hobby League (Fun) 06 Jun 25",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-06-12T06:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 154443,
     "store_id": 2051,
     "name": "Hobby League (Comp) 06 Jun 25",
@@ -21368,6 +21378,16 @@
     "start_datetime": "2025-06-12T06:30:00+00:00",
     "registered_user_count": 8,
     "starting_player_count": 8
+  },
+  {
+    "id": 154444,
+    "store_id": 2051,
+    "name": "Hobby League (Fun) 06 Jun 25",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-06-12T06:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 154979,
@@ -21390,16 +21410,6 @@
     "starting_player_count": 20
   },
   {
-    "id": 158666,
-    "store_id": 2051,
-    "name": "Gaming DNA -Lorcana Casual League",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-06-26T06:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 158667,
     "store_id": 2051,
     "name": "Gaming DNA - Lorcana Competitive League",
@@ -21410,14 +21420,14 @@
     "starting_player_count": 9
   },
   {
-    "id": 161457,
+    "id": 158666,
     "store_id": 2051,
-    "name": "Disney Lorcana - Casual Hobby",
+    "name": "Gaming DNA -Lorcana Casual League",
     "category": "league",
     "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-07-03T06:30:00+00:00",
-    "registered_user_count": 7,
-    "starting_player_count": 7
+    "start_datetime": "2025-06-26T06:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 161458,
@@ -21428,6 +21438,16 @@
     "start_datetime": "2025-07-03T06:30:00+00:00",
     "registered_user_count": 10,
     "starting_player_count": 10
+  },
+  {
+    "id": 161457,
+    "store_id": 2051,
+    "name": "Disney Lorcana - Casual Hobby",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-07-03T06:30:00+00:00",
+    "registered_user_count": 7,
+    "starting_player_count": 7
   },
   {
     "id": 162435,
@@ -21470,16 +21490,6 @@
     "starting_player_count": 30
   },
   {
-    "id": 166864,
-    "store_id": 2051,
-    "name": "Disney Lorcana - Competitive League",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-07-17T06:30:00+00:00",
-    "registered_user_count": 12,
-    "starting_player_count": 12
-  },
-  {
     "id": 166865,
     "store_id": 2051,
     "name": "Disney Lorcana - Casual Event",
@@ -21490,14 +21500,14 @@
     "starting_player_count": 0
   },
   {
-    "id": 169258,
+    "id": 166864,
     "store_id": 2051,
     "name": "Disney Lorcana - Competitive League",
     "category": "league",
     "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-07-24T06:30:00+00:00",
-    "registered_user_count": 14,
-    "starting_player_count": 14
+    "start_datetime": "2025-07-17T06:30:00+00:00",
+    "registered_user_count": 12,
+    "starting_player_count": 12
   },
   {
     "id": 169257,
@@ -21508,6 +21518,16 @@
     "start_datetime": "2025-07-24T06:30:00+00:00",
     "registered_user_count": 1,
     "starting_player_count": 1
+  },
+  {
+    "id": 169258,
+    "store_id": 2051,
+    "name": "Disney Lorcana - Competitive League",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-07-24T06:30:00+00:00",
+    "registered_user_count": 14,
+    "starting_player_count": 14
   },
   {
     "id": 171642,
@@ -21530,16 +21550,6 @@
     "starting_player_count": 10
   },
   {
-    "id": 176869,
-    "store_id": 2051,
-    "name": "Disney Lorcana - Competitive League",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-08-14T06:30:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
-  },
-  {
     "id": 176868,
     "store_id": 2051,
     "name": "Disney Lorcana - Casual league",
@@ -21548,6 +21558,16 @@
     "start_datetime": "2025-08-14T06:30:00+00:00",
     "registered_user_count": 4,
     "starting_player_count": 4
+  },
+  {
+    "id": 176869,
+    "store_id": 2051,
+    "name": "Disney Lorcana - Competitive League",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-08-14T06:30:00+00:00",
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 177444,
@@ -21560,9 +21580,9 @@
     "starting_player_count": 12
   },
   {
-    "id": 179152,
+    "id": 179153,
     "store_id": 2051,
-    "name": "Lorcana Hobby - Competitive",
+    "name": "Lorcana Hobby - Casual",
     "category": "league",
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2025-08-21T06:30:00+00:00",
@@ -21570,9 +21590,9 @@
     "starting_player_count": 6
   },
   {
-    "id": 179153,
+    "id": 179152,
     "store_id": 2051,
-    "name": "Lorcana Hobby - Casual",
+    "name": "Lorcana Hobby - Competitive",
     "category": "league",
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2025-08-21T06:30:00+00:00",
@@ -21600,16 +21620,6 @@
     "starting_player_count": 10
   },
   {
-    "id": 182484,
-    "store_id": 2051,
-    "name": "Fabled Sealed Release",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-08-29T06:00:00+00:00",
-    "registered_user_count": 10,
-    "starting_player_count": 10
-  },
-  {
     "id": 182488,
     "store_id": 2051,
     "name": "Fabled Win-A-Box Release",
@@ -21618,6 +21628,16 @@
     "start_datetime": "2025-08-29T06:00:00+00:00",
     "registered_user_count": 14,
     "starting_player_count": 14
+  },
+  {
+    "id": 182484,
+    "store_id": 2051,
+    "name": "Fabled Sealed Release",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-08-29T06:00:00+00:00",
+    "registered_user_count": 10,
+    "starting_player_count": 10
   },
   {
     "id": 185667,
@@ -21680,16 +21700,6 @@
     "starting_player_count": 13
   },
   {
-    "id": 197859,
-    "store_id": 2051,
-    "name": "Lorcana Hobby - Competitive (Core)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-09-18T06:30:00+00:00",
-    "registered_user_count": 7,
-    "starting_player_count": 7
-  },
-  {
     "id": 197858,
     "store_id": 2051,
     "name": "Lorcana Hobby - Fun (Infinity)",
@@ -21698,6 +21708,16 @@
     "start_datetime": "2025-09-18T06:30:00+00:00",
     "registered_user_count": 13,
     "starting_player_count": 13
+  },
+  {
+    "id": 197859,
+    "store_id": 2051,
+    "name": "Lorcana Hobby - Competitive (Core)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-09-18T06:30:00+00:00",
+    "registered_user_count": 7,
+    "starting_player_count": 7
   },
   {
     "id": 199728,
@@ -21740,16 +21760,6 @@
     "starting_player_count": 10
   },
   {
-    "id": 203184,
-    "store_id": 2051,
-    "name": "Lorcana Hobby League - Competitive (Core)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-10-02T05:30:00+00:00",
-    "registered_user_count": 7,
-    "starting_player_count": 7
-  },
-  {
     "id": 203185,
     "store_id": 2051,
     "name": "Lorcana Hobby League - Fun (Infinity)",
@@ -21758,6 +21768,16 @@
     "start_datetime": "2025-10-02T05:30:00+00:00",
     "registered_user_count": 5,
     "starting_player_count": 5
+  },
+  {
+    "id": 203184,
+    "store_id": 2051,
+    "name": "Lorcana Hobby League - Competitive (Core)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-10-02T05:30:00+00:00",
+    "registered_user_count": 7,
+    "starting_player_count": 7
   },
   {
     "id": 211877,
@@ -21930,16 +21950,6 @@
     "starting_player_count": 8
   },
   {
-    "id": 258630,
-    "store_id": 2051,
-    "name": "Lorcana Hobby League - Fun (Infinity)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-11-20T05:30:00+00:00",
-    "registered_user_count": 8,
-    "starting_player_count": 8
-  },
-  {
     "id": 258634,
     "store_id": 2051,
     "name": "Lorcana Hobby League - Competitive (Core)",
@@ -21948,6 +21958,16 @@
     "start_datetime": "2025-11-20T05:30:00+00:00",
     "registered_user_count": 14,
     "starting_player_count": 14
+  },
+  {
+    "id": 258630,
+    "store_id": 2051,
+    "name": "Lorcana Hobby League - Fun (Infinity)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-11-20T05:30:00+00:00",
+    "registered_user_count": 8,
+    "starting_player_count": 8
   },
   {
     "id": 264671,
@@ -21960,16 +21980,6 @@
     "starting_player_count": 12
   },
   {
-    "id": 258636,
-    "store_id": 2051,
-    "name": "Lorcana Hobby League - Fun (Infinity)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-11-27T05:30:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
-  },
-  {
     "id": 258641,
     "store_id": 2051,
     "name": "Lorcana Hobby League - Competitive (Core)",
@@ -21978,6 +21988,16 @@
     "start_datetime": "2025-11-27T05:30:00+00:00",
     "registered_user_count": 10,
     "starting_player_count": 10
+  },
+  {
+    "id": 258636,
+    "store_id": 2051,
+    "name": "Lorcana Hobby League - Fun (Infinity)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-11-27T05:30:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 294247,
@@ -22010,16 +22030,6 @@
     "starting_player_count": 8
   },
   {
-    "id": 304427,
-    "store_id": 2051,
-    "name": "Disney Lorcana - Competitive Hobby",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-12-11T04:30:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
-  },
-  {
     "id": 304423,
     "store_id": 2051,
     "name": "Disney Lorcana - Casual Hobby",
@@ -22030,9 +22040,19 @@
     "starting_player_count": 9
   },
   {
-    "id": 294255,
+    "id": 304427,
     "store_id": 2051,
-    "name": "Lorcana Hobby League - Competitive (Core)",
+    "name": "Disney Lorcana - Competitive Hobby",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-12-11T04:30:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
+  },
+  {
+    "id": 294253,
+    "store_id": 2051,
+    "name": "Lorcana Hobby League - Fun (Infinity)",
     "category": "league",
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2025-12-11T05:30:00+00:00",
@@ -22040,9 +22060,9 @@
     "starting_player_count": 0
   },
   {
-    "id": 294253,
+    "id": 294255,
     "store_id": 2051,
-    "name": "Lorcana Hobby League - Fun (Infinity)",
+    "name": "Lorcana Hobby League - Competitive (Core)",
     "category": "league",
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2025-12-11T05:30:00+00:00",
@@ -22060,16 +22080,6 @@
     "starting_player_count": 15
   },
   {
-    "id": 294261,
-    "store_id": 2051,
-    "name": "Lorcana Hobby League - Competitive (Core)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-12-18T05:30:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
-  },
-  {
     "id": 294258,
     "store_id": 2051,
     "name": "Lorcana Hobby League - Fun (Infinity)",
@@ -22080,14 +22090,14 @@
     "starting_player_count": 5
   },
   {
-    "id": 321635,
+    "id": 294261,
     "store_id": 2051,
-    "name": "Lorcana Hobby - Fun (Infinity)",
+    "name": "Lorcana Hobby League - Competitive (Core)",
     "category": "league",
     "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-01-01T05:30:00+00:00",
-    "registered_user_count": 5,
-    "starting_player_count": 5
+    "start_datetime": "2025-12-18T05:30:00+00:00",
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 321636,
@@ -22100,14 +22110,14 @@
     "starting_player_count": 11
   },
   {
-    "id": 321639,
+    "id": 321635,
     "store_id": 2051,
     "name": "Lorcana Hobby - Fun (Infinity)",
     "category": "league",
     "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-01-08T05:30:00+00:00",
-    "registered_user_count": 10,
-    "starting_player_count": 10
+    "start_datetime": "2026-01-01T05:30:00+00:00",
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 321642,
@@ -22120,14 +22130,14 @@
     "starting_player_count": 6
   },
   {
-    "id": 321645,
+    "id": 321639,
     "store_id": 2051,
     "name": "Lorcana Hobby - Fun (Infinity)",
     "category": "league",
     "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-01-15T05:30:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
+    "start_datetime": "2026-01-08T05:30:00+00:00",
+    "registered_user_count": 10,
+    "starting_player_count": 10
   },
   {
     "id": 321647,
@@ -22140,14 +22150,14 @@
     "starting_player_count": 10
   },
   {
-    "id": 321650,
+    "id": 321645,
     "store_id": 2051,
-    "name": "Lorcana Hobby - Competitive (Core)",
+    "name": "Lorcana Hobby - Fun (Infinity)",
     "category": "league",
     "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-01-22T05:30:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
+    "start_datetime": "2026-01-15T05:30:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 321649,
@@ -22160,6 +22170,16 @@
     "starting_player_count": 4
   },
   {
+    "id": 321650,
+    "store_id": 2051,
+    "name": "Lorcana Hobby - Competitive (Core)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-01-22T05:30:00+00:00",
+    "registered_user_count": 6,
+    "starting_player_count": 6
+  },
+  {
     "id": 261605,
     "store_id": 2051,
     "name": "Gaming DNA: Whispers in the Well Store Champs",
@@ -22170,16 +22190,6 @@
     "starting_player_count": 24
   },
   {
-    "id": 321653,
-    "store_id": 2051,
-    "name": "Lorcana Hobby - Competitive (Core)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-01-29T05:30:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
-  },
-  {
     "id": 321651,
     "store_id": 2051,
     "name": "Lorcana Hobby - Fun (Infinity)",
@@ -22188,6 +22198,16 @@
     "start_datetime": "2026-01-29T05:30:00+00:00",
     "registered_user_count": 4,
     "starting_player_count": 4
+  },
+  {
+    "id": 321653,
+    "store_id": 2051,
+    "name": "Lorcana Hobby - Competitive (Core)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-01-29T05:30:00+00:00",
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 362744,
@@ -22250,16 +22270,6 @@
     "starting_player_count": 17
   },
   {
-    "id": 404245,
-    "store_id": 2051,
-    "name": "Lorcana Hobby - Competitive (Core)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-02-19T05:30:00+00:00",
-    "registered_user_count": 8,
-    "starting_player_count": 8
-  },
-  {
     "id": 404246,
     "store_id": 2051,
     "name": "Lorcana Hobby - Fun (Infinity)",
@@ -22267,6 +22277,16 @@
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-02-19T05:30:00+00:00",
     "registered_user_count": 6,
+    "starting_player_count": 8
+  },
+  {
+    "id": 404245,
+    "store_id": 2051,
+    "name": "Lorcana Hobby - Competitive (Core)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-02-19T05:30:00+00:00",
+    "registered_user_count": 8,
     "starting_player_count": 8
   },
   {
@@ -22310,16 +22330,6 @@
     "starting_player_count": 12
   },
   {
-    "id": 448146,
-    "store_id": 2051,
-    "name": "Winterspell Hobby - Core",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-03-12T05:30:00+00:00",
-    "registered_user_count": 9,
-    "starting_player_count": 9
-  },
-  {
     "id": 448143,
     "store_id": 2051,
     "name": "Winterspell Hobby - Infinity",
@@ -22330,12 +22340,12 @@
     "starting_player_count": 15
   },
   {
-    "id": 459816,
+    "id": 448146,
     "store_id": 2051,
     "name": "Winterspell Hobby - Core",
     "category": "league",
     "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-03-19T05:30:00+00:00",
+    "start_datetime": "2026-03-12T05:30:00+00:00",
     "registered_user_count": 9,
     "starting_player_count": 9
   },
@@ -22348,6 +22358,16 @@
     "start_datetime": "2026-03-19T05:30:00+00:00",
     "registered_user_count": 6,
     "starting_player_count": 8
+  },
+  {
+    "id": 459816,
+    "store_id": 2051,
+    "name": "Winterspell Hobby - Core",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-03-19T05:30:00+00:00",
+    "registered_user_count": 9,
+    "starting_player_count": 9
   },
   {
     "id": 462983,
@@ -22410,16 +22430,6 @@
     "starting_player_count": 10
   },
   {
-    "id": 490308,
-    "store_id": 2051,
-    "name": "Lorcana Hobby - Competitive (Core)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-04-09T06:30:00+00:00",
-    "registered_user_count": 8,
-    "starting_player_count": 8
-  },
-  {
     "id": 490309,
     "store_id": 2051,
     "name": "Lorcana Hobby - Fun (Infinity)",
@@ -22427,6 +22437,16 @@
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-04-09T06:30:00+00:00",
     "registered_user_count": 7,
+    "starting_player_count": 8
+  },
+  {
+    "id": 490308,
+    "store_id": 2051,
+    "name": "Lorcana Hobby - Competitive (Core)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-04-09T06:30:00+00:00",
+    "registered_user_count": 8,
     "starting_player_count": 8
   },
   {
@@ -22540,16 +22560,6 @@
     "starting_player_count": 14
   },
   {
-    "id": 587339,
-    "store_id": 2051,
-    "name": "Lorcana Hobby - Fun (Infinity)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-05-14T06:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 587340,
     "store_id": 2051,
     "name": "Lorcana Hobby - Competitive (Core)",
@@ -22558,6 +22568,16 @@
     "start_datetime": "2026-05-14T06:30:00+00:00",
     "registered_user_count": 13,
     "starting_player_count": 14
+  },
+  {
+    "id": 587339,
+    "store_id": 2051,
+    "name": "Lorcana Hobby - Fun (Infinity)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-05-14T06:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 595194,
@@ -22610,16 +22630,6 @@
     "starting_player_count": 0
   },
   {
-    "id": 626068,
-    "store_id": 2051,
-    "name": "Lorcana Hobby - Core (Competitive)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-05-28T06:30:00+00:00",
-    "registered_user_count": 13,
-    "starting_player_count": 14
-  },
-  {
     "id": 626071,
     "store_id": 2051,
     "name": "Lorcana Hobby - Fun (Infinity)",
@@ -22628,6 +22638,16 @@
     "start_datetime": "2026-05-28T06:30:00+00:00",
     "registered_user_count": 8,
     "starting_player_count": 8
+  },
+  {
+    "id": 626068,
+    "store_id": 2051,
+    "name": "Lorcana Hobby - Core (Competitive)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-05-28T06:30:00+00:00",
+    "registered_user_count": 13,
+    "starting_player_count": 14
   },
   {
     "id": 640068,
@@ -22640,16 +22660,6 @@
     "starting_player_count": 6
   },
   {
-    "id": 626089,
-    "store_id": 2051,
-    "name": "Lorcana Hobby - Fun (Infinity)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-06-04T06:30:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
-  },
-  {
     "id": 626069,
     "store_id": 2051,
     "name": "Lorcana Hobby - Core (Competitve)",
@@ -22658,6 +22668,16 @@
     "start_datetime": "2026-06-04T06:30:00+00:00",
     "registered_user_count": 7,
     "starting_player_count": 7
+  },
+  {
+    "id": 626089,
+    "store_id": 2051,
+    "name": "Lorcana Hobby - Fun (Infinity)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-06-04T06:30:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 681307,
@@ -22830,16 +22850,6 @@
     "starting_player_count": 10
   },
   {
-    "id": 891379,
-    "store_id": 2051,
-    "name": "Lorcana Hobby - Competitive (Core)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-08-27T06:30:00+00:00",
-    "registered_user_count": 10,
-    "starting_player_count": 12
-  },
-  {
     "id": 891380,
     "store_id": 2051,
     "name": "Lorcana Hobby - Fun (Infinity)",
@@ -22848,6 +22858,16 @@
     "start_datetime": "2026-08-27T06:30:00+00:00",
     "registered_user_count": 4,
     "starting_player_count": 4
+  },
+  {
+    "id": 891379,
+    "store_id": 2051,
+    "name": "Lorcana Hobby - Competitive (Core)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-08-27T06:30:00+00:00",
+    "registered_user_count": 10,
+    "starting_player_count": 12
   },
   {
     "id": 930234,
@@ -22928,6 +22948,16 @@
     "start_datetime": "2026-10-15T05:30:00+00:00",
     "registered_user_count": 5,
     "starting_player_count": 5
+  },
+  {
+    "id": 1188811,
+    "store_id": 2051,
+    "name": "Friday Evening Hyperia City Prerelease (Sealed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-16T05:30:00+00:00",
+    "registered_user_count": 24,
+    "starting_player_count": 26
   },
   {
     "id": 158326,
@@ -24006,8 +24036,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-18T01:30:00+00:00",
-    "registered_user_count": 10,
-    "starting_player_count": 10
+    "registered_user_count": 11,
+    "starting_player_count": 11
   },
   {
     "id": 1015392,
@@ -24836,8 +24866,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-17T01:00:00+00:00",
-    "registered_user_count": 7,
-    "starting_player_count": 7
+    "registered_user_count": 8,
+    "starting_player_count": 8
   },
   {
     "id": 884221,
@@ -25740,12 +25770,12 @@
     "starting_player_count": 15
   },
   {
-    "id": 865645,
+    "id": 877516,
     "store_id": 2227,
-    "name": "[Format Coconut] @Good Games Box Hill",
+    "name": "Lorcana Weekly Constructed @ Good Games Box Hill",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-10-13T07:00:00+00:00",
+    "start_datetime": "2026-10-17T01:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -25756,18 +25786,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-17T01:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
-    "id": 877516,
-    "store_id": 2227,
-    "name": "Lorcana Weekly Constructed @ Good Games Box Hill",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-10-17T01:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 884222,
@@ -26044,10 +26064,10 @@
     "store_id": 2229,
     "name": "Saturday Afternoon Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "REGISTRATION_CLOSED",
     "start_datetime": "2026-10-17T05:00:00+00:00",
-    "registered_user_count": 12,
-    "starting_player_count": 12
+    "registered_user_count": 13,
+    "starting_player_count": 13
   },
   {
     "id": 141425,
@@ -26746,8 +26766,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-20T10:30:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 154317,
@@ -27586,8 +27606,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-21T06:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 188819,
@@ -28018,6 +28038,16 @@
     "start_datetime": "2026-10-09T07:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 1193642,
+    "store_id": 2236,
+    "name": "Lorcana - Sealed - Hyperia City Release Event",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-16T07:00:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 1015470,
@@ -28806,8 +28836,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-21T08:00:00+00:00",
-    "registered_user_count": 13,
-    "starting_player_count": 13
+    "registered_user_count": 14,
+    "starting_player_count": 14
   },
   {
     "id": 1015399,
@@ -29468,16 +29498,6 @@
     "start_datetime": "2026-09-29T09:00:00+00:00",
     "registered_user_count": 7,
     "starting_player_count": 7
-  },
-  {
-    "id": 866142,
-    "store_id": 2243,
-    "name": "The Game Center Narellan Tuesday Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-10-13T08:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
   },
   {
     "id": 884719,
@@ -30846,8 +30866,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-17T03:00:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
+    "registered_user_count": 8,
+    "starting_player_count": 8
   },
   {
     "id": 881757,
@@ -31624,10 +31644,10 @@
     "store_id": 13765,
     "name": "Good Games Top Ryde - Lorcana - Hyperia City Friday night Pre-Release",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T07:30:00+00:00",
-    "registered_user_count": 20,
-    "starting_player_count": 20
+    "registered_user_count": 16,
+    "starting_player_count": 21
   },
   {
     "id": 1016630,
@@ -32414,10 +32434,10 @@
     "store_id": 2247,
     "name": "Constructed at Good Games Town Hall - October 15, 2026",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-15T07:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 7,
+    "starting_player_count": 7
   },
   {
     "id": 890608,
@@ -32876,8 +32896,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-17T23:30:00+00:00",
-    "registered_user_count": 11,
-    "starting_player_count": 11
+    "registered_user_count": 12,
+    "starting_player_count": 12
   },
   {
     "id": 899274,
@@ -33566,8 +33586,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-17T03:30:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
+    "registered_user_count": 3,
+    "starting_player_count": 3
   },
   {
     "id": 141430,
@@ -36370,16 +36390,6 @@
     "starting_player_count": 4
   },
   {
-    "id": 183686,
-    "store_id": 2461,
-    "name": "Sunday Afternoon Weekly Play (Sealed)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-08-31T02:00:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
-  },
-  {
     "id": 183684,
     "store_id": 2461,
     "name": "Sunday Afternoon Weekly Play (Sealed)",
@@ -36388,6 +36398,16 @@
     "start_datetime": "2025-08-31T02:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 183686,
+    "store_id": 2461,
+    "name": "Sunday Afternoon Weekly Play (Sealed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-08-31T02:00:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 188371,
@@ -36410,16 +36430,6 @@
     "starting_player_count": 4
   },
   {
-    "id": 192595,
-    "store_id": 2461,
-    "name": "Sunday Afternoon Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-09-14T02:00:00+00:00",
-    "registered_user_count": 5,
-    "starting_player_count": 5
-  },
-  {
     "id": 190591,
     "store_id": 2461,
     "name": "Sunday Afternoon Weekly Play (Constructed)",
@@ -36428,6 +36438,16 @@
     "start_datetime": "2025-09-14T02:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 192595,
+    "store_id": 2461,
+    "name": "Sunday Afternoon Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-09-14T02:00:00+00:00",
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 190592,
@@ -36844,10 +36864,10 @@
     "store_id": 2461,
     "name": "Hobby Lords Dunedin - Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T05:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 974514,
@@ -37170,6 +37190,16 @@
     "starting_player_count": 0
   },
   {
+    "id": 1196312,
+    "store_id": 54041,
+    "name": "Friday Hobby Lords Constructed",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-11T05:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 946656,
     "store_id": 64390,
     "name": "Saturday Afternoon Attack of the Vine! Set Championship",
@@ -37464,10 +37494,10 @@
     "store_id": 59381,
     "name": "Hyperia City Pre-release",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T05:00:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 5,
+    "starting_player_count": 7
   },
   {
     "id": 957769,
@@ -37606,6 +37636,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-04T06:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1189051,
+    "store_id": 59381,
+    "name": "Weekly Lorcana league",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-11T06:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -38954,10 +38994,10 @@
     "store_id": 2463,
     "name": "Friday Evening Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T05:30:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
+    "registered_user_count": 16,
+    "starting_player_count": 16
   },
   {
     "id": 890928,
@@ -39426,8 +39466,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-17T23:00:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
+    "registered_user_count": 9,
+    "starting_player_count": 9
   },
   {
     "id": 879981,
@@ -40074,10 +40114,10 @@
     "store_id": 36136,
     "name": "Friday Evening Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T05:30:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
+    "registered_user_count": 12,
+    "starting_player_count": 13
   },
   {
     "id": 928799,
@@ -40086,8 +40126,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-17T00:00:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 1116130,
@@ -41734,10 +41774,10 @@
     "store_id": 65538,
     "name": "JGE at BHGC",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T08:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 678667,
@@ -41804,10 +41844,10 @@
     "store_id": 14356,
     "name": "Disney Lorcana Hyperia City Pre-Release Event at Jac's!",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T10:00:00+00:00",
-    "registered_user_count": 10,
-    "starting_player_count": 10
+    "registered_user_count": 13,
+    "starting_player_count": 13
   },
   {
     "id": 1044235,
@@ -41816,8 +41856,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-17T07:00:00+00:00",
-    "registered_user_count": 20,
-    "starting_player_count": 20
+    "registered_user_count": 21,
+    "starting_player_count": 21
   },
   {
     "id": 954622,
@@ -43184,7 +43224,7 @@
     "store_id": 13783,
     "name": "JToys Disney Lorcana: Hyperia City Prerelease",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "REGISTRATION_CLOSED",
     "start_datetime": "2026-10-17T05:30:00+00:00",
     "registered_user_count": 8,
     "starting_player_count": 8
@@ -46570,6 +46610,16 @@
     "starting_player_count": 4
   },
   {
+    "id": 1196906,
+    "store_id": 3292,
+    "name": "Friday Afternoon Hyperia City Prerelease (Pack Rush)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-16T08:30:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
+  },
+  {
     "id": 154348,
     "store_id": 3346,
     "name": "Core Constructed",
@@ -47974,10 +48024,10 @@
     "store_id": 3386,
     "name": "Friday Evening Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T08:35:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
+    "registered_user_count": 8,
+    "starting_player_count": 8
   },
   {
     "id": 156884,
@@ -48804,10 +48854,10 @@
     "store_id": 3611,
     "name": "Friday Evening Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T08:00:00+00:00",
-    "registered_user_count": 12,
-    "starting_player_count": 12
+    "registered_user_count": 10,
+    "starting_player_count": 11
   },
   {
     "id": 155746,
@@ -49586,8 +49636,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-20T10:30:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 164411,
@@ -50166,8 +50216,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-16T21:00:00+00:00",
-    "registered_user_count": 7,
-    "starting_player_count": 7
+    "registered_user_count": 12,
+    "starting_player_count": 12
   },
   {
     "id": 896789,
@@ -50746,8 +50796,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-17T01:00:00+00:00",
-    "registered_user_count": 5,
-    "starting_player_count": 5
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 877627,
@@ -51974,20 +52024,20 @@
     "store_id": 15918,
     "name": "RC Lorcana Prerelease Trade Event",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T06:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 28,
+    "starting_player_count": 28
   },
   {
     "id": 960344,
     "store_id": 15918,
     "name": "RC Lorcana Pre Release S14",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T08:00:00+00:00",
-    "registered_user_count": 25,
-    "starting_player_count": 25
+    "registered_user_count": 21,
+    "starting_player_count": 21
   },
   {
     "id": 1166827,
@@ -52344,10 +52394,10 @@
     "store_id": 4060,
     "name": "Lorcana Hyperia City Pre-Release",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T08:30:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
+    "registered_user_count": 10,
+    "starting_player_count": 10
   },
   {
     "id": 819753,
@@ -53810,24 +53860,14 @@
     "starting_player_count": 7
   },
   {
-    "id": 872755,
-    "store_id": 19546,
-    "name": "Lorcana Thursday Night Weekly Play Constructed",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-10-15T08:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 968740,
     "store_id": 19546,
     "name": "Friday Evening Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_CLOSED",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T07:45:00+00:00",
-    "registered_user_count": 12,
-    "starting_player_count": 12
+    "registered_user_count": 10,
+    "starting_player_count": 11
   },
   {
     "id": 968741,
@@ -53836,8 +53876,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-17T02:00:00+00:00",
-    "registered_user_count": 12,
-    "starting_player_count": 12
+    "registered_user_count": 11,
+    "starting_player_count": 11
   },
   {
     "id": 885100,
@@ -55204,7 +55244,7 @@
     "store_id": 4262,
     "name": "Friday Evening Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T05:30:00+00:00",
     "registered_user_count": 12,
     "starting_player_count": 12
@@ -55460,16 +55500,6 @@
     "starting_player_count": 6
   },
   {
-    "id": 218851,
-    "store_id": 4265,
-    "name": "Shuffled Daw Park Weekly Locals 17/10/25",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-10-17T08:15:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 228412,
     "store_id": 4265,
     "name": "Shuffled Daw Park Lorcana Locals 17/10",
@@ -55478,6 +55508,16 @@
     "start_datetime": "2025-10-17T08:15:00+00:00",
     "registered_user_count": 14,
     "starting_player_count": 14
+  },
+  {
+    "id": 218851,
+    "store_id": 4265,
+    "name": "Shuffled Daw Park Weekly Locals 17/10/25",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-10-17T08:15:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 239990,
@@ -56082,12 +56122,12 @@
   {
     "id": 874583,
     "store_id": 4265,
-    "name": "[Shuffled Daw Park] Weekly Lorcana Locals",
+    "name": "[Shuffled Daw Park] Lorcana Hyperia City Prerelease Friday 6:45pm",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T08:15:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 16,
+    "starting_player_count": 18
   },
   {
     "id": 893094,
@@ -56156,6 +56196,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-04T08:15:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1189480,
+    "store_id": 4265,
+    "name": "[Shuffled Daw Park] Weekly Lorcana Locals",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-11T08:15:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -57680,6 +57730,16 @@
     "starting_player_count": 6
   },
   {
+    "id": 1196911,
+    "store_id": 4357,
+    "name": "Lorcana @ Sovereign Cards",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-16T08:30:00+00:00",
+    "registered_user_count": 13,
+    "starting_player_count": 13
+  },
+  {
     "id": 1093463,
     "store_id": 4357,
     "name": "Lorcana @ Sovereign Cards",
@@ -58344,10 +58404,10 @@
     "store_id": 4381,
     "name": "Friday Evening Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T06:00:00+00:00",
-    "registered_user_count": 9,
-    "starting_player_count": 9
+    "registered_user_count": 11,
+    "starting_player_count": 11
   },
   {
     "id": 201463,
@@ -60780,16 +60840,6 @@
     "starting_player_count": 5
   },
   {
-    "id": 204228,
-    "store_id": 4527,
-    "name": "Friday Evening Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-09-26T09:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 7
-  },
-  {
     "id": 204236,
     "store_id": 4527,
     "name": "Friday Evening Weekly Play (Constructed)",
@@ -60797,6 +60847,16 @@
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2025-09-26T09:30:00+00:00",
     "registered_user_count": 7,
+    "starting_player_count": 7
+  },
+  {
+    "id": 204228,
+    "store_id": 4527,
+    "name": "Friday Evening Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-09-26T09:30:00+00:00",
+    "registered_user_count": 0,
     "starting_player_count": 7
   },
   {
@@ -61204,10 +61264,20 @@
     "store_id": 4527,
     "name": "Friday Morning Hyperia City Prerelease (Pack Rush)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T00:00:00+00:00",
     "registered_user_count": 1,
     "starting_player_count": 1
+  },
+  {
+    "id": 925953,
+    "store_id": 4527,
+    "name": "Friday Evening Hyperia City Prerelease (Sealed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-16T08:00:00+00:00",
+    "registered_user_count": 12,
+    "starting_player_count": 12
   },
   {
     "id": 924893,
@@ -61218,16 +61288,6 @@
     "start_datetime": "2026-10-16T08:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
-  },
-  {
-    "id": 925953,
-    "store_id": 4527,
-    "name": "Friday Evening Hyperia City Prerelease (Sealed)",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-10-16T08:00:00+00:00",
-    "registered_user_count": 10,
-    "starting_player_count": 10
   },
   {
     "id": 924894,
@@ -61296,6 +61356,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-04T08:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1192993,
+    "store_id": 4527,
+    "name": "[PROSPECT] Disney Lorcana - Weekly Core Constructed December 11, 2026",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-11T08:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -61884,10 +61954,10 @@
     "store_id": 4569,
     "name": "Friday Evening Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_CLOSED",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T05:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 14,
+    "starting_player_count": 14
   },
   {
     "id": 163978,
@@ -63300,14 +63370,14 @@
     "starting_player_count": 0
   },
   {
-    "id": 1149422,
+    "id": 1196883,
     "store_id": 14525,
-    "name": "S14 Hyperia City Pre-Release",
+    "name": "S14 Hyperia City Pre-Release (Copy)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T07:00:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
+    "registered_user_count": 8,
+    "starting_player_count": 8
   },
   {
     "id": 1116189,
@@ -65190,16 +65260,6 @@
     "starting_player_count": 12
   },
   {
-    "id": 951043,
-    "store_id": 4778,
-    "name": "Friday Lorcana @ The Games District",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-09-18T09:00:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 8
-  },
-  {
     "id": 891425,
     "store_id": 4778,
     "name": "Friday Format Coconut @ The Games District",
@@ -65208,6 +65268,16 @@
     "start_datetime": "2026-09-18T09:00:00+00:00",
     "registered_user_count": 9,
     "starting_player_count": 9
+  },
+  {
+    "id": 951043,
+    "store_id": 4778,
+    "name": "Friday Lorcana @ The Games District",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-09-18T09:00:00+00:00",
+    "registered_user_count": 6,
+    "starting_player_count": 8
   },
   {
     "id": 973748,
@@ -65290,14 +65360,14 @@
     "starting_player_count": 4
   },
   {
-    "id": 1007070,
+    "id": 1188812,
     "store_id": 4778,
-    "name": "Friday Lorcana @ The Games District",
+    "name": "Friday Evening Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T08:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 37,
+    "starting_player_count": 55
   },
   {
     "id": 1007079,
@@ -66076,8 +66146,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-18T00:00:00+00:00",
-    "registered_user_count": 8,
-    "starting_player_count": 8
+    "registered_user_count": 9,
+    "starting_player_count": 9
   },
   {
     "id": 581554,
@@ -66790,16 +66860,6 @@
     "starting_player_count": 6
   },
   {
-    "id": 155018,
-    "store_id": 5061,
-    "name": "Saturday Afternoon Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-06-14T03:00:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
-  },
-  {
     "id": 154329,
     "store_id": 5061,
     "name": "Week 11 - Total Tabletop",
@@ -66808,6 +66868,16 @@
     "start_datetime": "2025-06-14T03:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 155018,
+    "store_id": 5061,
+    "name": "Saturday Afternoon Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-06-14T03:00:00+00:00",
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 157863,
@@ -67098,16 +67168,6 @@
     "start_datetime": "2026-08-05T08:30:00+00:00",
     "registered_user_count": 6,
     "starting_player_count": 6
-  },
-  {
-    "id": 871357,
-    "store_id": 5061,
-    "name": "Wednesday Evening Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-08-26T08:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
   },
   {
     "id": 877624,
@@ -69114,10 +69174,10 @@
     "store_id": 35245,
     "name": "S14 Hyperia City Prerelease (Sealed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-16T07:30:00+00:00",
-    "registered_user_count": 20,
-    "starting_player_count": 20
+    "registered_user_count": 16,
+    "starting_player_count": 17
   },
   {
     "id": 860099,
@@ -69206,8 +69266,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2027-02-05T07:30:00+00:00",
-    "registered_user_count": 10,
-    "starting_player_count": 10
+    "registered_user_count": 12,
+    "starting_player_count": 12
   },
   {
     "id": 252561,
@@ -72290,16 +72350,6 @@
     "starting_player_count": 0
   },
   {
-    "id": 930249,
-    "store_id": 5252,
-    "name": "Lorcana Hyperia City Prerelease @ Vault Games Clayfield",
-    "category": "league",
-    "event_status": "REGISTRATION_CLOSED",
-    "start_datetime": "2026-10-16T08:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 930873,
     "store_id": 5252,
     "name": "Lorcana Hyperia City Pack Rush @ Vault Games Clayfield",
@@ -72308,6 +72358,16 @@
     "start_datetime": "2026-10-16T08:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 930249,
+    "store_id": 5252,
+    "name": "Lorcana Hyperia City Prerelease @ Vault Games Clayfield",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-16T08:30:00+00:00",
+    "registered_user_count": 14,
+    "starting_player_count": 22
   },
   {
     "id": 930494,
@@ -74666,8 +74726,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-17T04:30:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 13,
+    "starting_player_count": 13
   },
   {
     "id": 1181525,
@@ -74676,8 +74736,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-19T07:30:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 1187849,
