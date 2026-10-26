@@ -23550,7 +23550,7 @@
     "matches_won": 1,
     "matches_lost": 2,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 5
   },
   {
     "event_id": 888182,
@@ -23559,7 +23559,7 @@
     "matches_won": 2,
     "matches_lost": 1,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 2
   },
   {
     "event_id": 888182,
@@ -23568,7 +23568,7 @@
     "matches_won": 1,
     "matches_lost": 2,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 7
   },
   {
     "event_id": 888182,
@@ -23577,7 +23577,7 @@
     "matches_won": 2,
     "matches_lost": 1,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 3
   },
   {
     "event_id": 888182,
@@ -23586,7 +23586,7 @@
     "matches_won": 2,
     "matches_lost": 1,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 4
   },
   {
     "event_id": 888182,
@@ -23595,7 +23595,7 @@
     "matches_won": 3,
     "matches_lost": 0,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 1
   },
   {
     "event_id": 888182,
@@ -23604,7 +23604,7 @@
     "matches_won": 1,
     "matches_lost": 2,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 6
   },
   {
     "event_id": 154470,
@@ -42995,7 +42995,7 @@
   {
     "event_id": 421533,
     "user_id": 7678,
-    "user_name": "scYtheShark",
+    "user_name": "Kuya Pating",
     "matches_won": 7,
     "matches_lost": 1,
     "matches_drawn": 0,
@@ -63560,7 +63560,7 @@
   {
     "event_id": 402587,
     "user_id": 7678,
-    "user_name": "scYtheShark",
+    "user_name": "Kuya Pating",
     "matches_won": 9,
     "matches_lost": 2,
     "matches_drawn": 1,
@@ -71343,6 +71343,24 @@
     "final_place": 3
   },
   {
+    "event_id": 295372,
+    "user_id": 17003,
+    "user_name": "Hei-bei",
+    "matches_won": 0,
+    "matches_lost": 0,
+    "matches_drawn": 0,
+    "final_place": null
+  },
+  {
+    "event_id": 295372,
+    "user_id": 49404,
+    "user_name": "Bjar",
+    "matches_won": 0,
+    "matches_lost": 0,
+    "matches_drawn": 0,
+    "final_place": null
+  },
+  {
     "event_id": 295364,
     "user_id": 8792,
     "user_name": "wishbowl",
@@ -71395,24 +71413,6 @@
     "matches_lost": 2,
     "matches_drawn": 0,
     "final_place": 4
-  },
-  {
-    "event_id": 295372,
-    "user_id": 17003,
-    "user_name": "Hei-bei",
-    "matches_won": 0,
-    "matches_lost": 0,
-    "matches_drawn": 0,
-    "final_place": null
-  },
-  {
-    "event_id": 295372,
-    "user_id": 49404,
-    "user_name": "Bjar",
-    "matches_won": 0,
-    "matches_lost": 0,
-    "matches_drawn": 0,
-    "final_place": null
   },
   {
     "event_id": 300012,
@@ -73620,33 +73620,6 @@
     "final_place": 8
   },
   {
-    "event_id": 419096,
-    "user_id": 20535,
-    "user_name": "Dan G.",
-    "matches_won": 0,
-    "matches_lost": 0,
-    "matches_drawn": 0,
-    "final_place": 2
-  },
-  {
-    "event_id": 419096,
-    "user_id": 7984,
-    "user_name": "JustJakeAU",
-    "matches_won": 0,
-    "matches_lost": 0,
-    "matches_drawn": 0,
-    "final_place": 3
-  },
-  {
-    "event_id": 419096,
-    "user_id": 16797,
-    "user_name": "Proton Lorcana",
-    "matches_won": 0,
-    "matches_lost": 0,
-    "matches_drawn": 0,
-    "final_place": 1
-  },
-  {
     "event_id": 531400,
     "user_id": 318032,
     "user_name": "Ashley K",
@@ -73680,6 +73653,33 @@
     "matches_won": 1,
     "matches_lost": 0,
     "matches_drawn": 2,
+    "final_place": 1
+  },
+  {
+    "event_id": 419096,
+    "user_id": 20535,
+    "user_name": "Dan G.",
+    "matches_won": 0,
+    "matches_lost": 0,
+    "matches_drawn": 0,
+    "final_place": 2
+  },
+  {
+    "event_id": 419096,
+    "user_id": 7984,
+    "user_name": "JustJakeAU",
+    "matches_won": 0,
+    "matches_lost": 0,
+    "matches_drawn": 0,
+    "final_place": 3
+  },
+  {
+    "event_id": 419096,
+    "user_id": 16797,
+    "user_name": "Proton Lorcana",
+    "matches_won": 0,
+    "matches_lost": 0,
+    "matches_drawn": 0,
     "final_place": 1
   },
   {
@@ -77844,154 +77844,154 @@
     "event_id": 1224909,
     "user_id": 306006,
     "user_name": "dinorio",
-    "matches_won": 0,
+    "matches_won": 2,
     "matches_lost": 0,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 8
   },
   {
     "event_id": 1224909,
     "user_id": 8792,
     "user_name": "wishbowl",
-    "matches_won": 0,
-    "matches_lost": 0,
+    "matches_won": 1,
+    "matches_lost": 3,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 9
   },
   {
     "event_id": 1224909,
     "user_id": 49404,
     "user_name": "Bjar",
-    "matches_won": 0,
-    "matches_lost": 0,
+    "matches_won": 1,
+    "matches_lost": 3,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 11
   },
   {
     "event_id": 1224909,
     "user_id": 20535,
     "user_name": "Dan G.",
-    "matches_won": 0,
+    "matches_won": 4,
     "matches_lost": 0,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 2
   },
   {
     "event_id": 1224909,
     "user_id": 532428,
     "user_name": "Gold Mines",
-    "matches_won": 0,
+    "matches_won": 3,
     "matches_lost": 0,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 4
   },
   {
     "event_id": 1224909,
     "user_id": 318037,
     "user_name": "Velquia1556",
-    "matches_won": 0,
-    "matches_lost": 0,
+    "matches_won": 1,
+    "matches_lost": 1,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 12
   },
   {
     "event_id": 1224909,
     "user_id": 61376,
     "user_name": "MissLizzyofBrizzy",
-    "matches_won": 0,
-    "matches_lost": 0,
+    "matches_won": 2,
+    "matches_lost": 2,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 6
   },
   {
     "event_id": 1224909,
     "user_id": 535241,
     "user_name": "Ian W",
     "matches_won": 0,
-    "matches_lost": 0,
+    "matches_lost": 2,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 17
   },
   {
     "event_id": 1224909,
     "user_id": 400190,
     "user_name": "AudioCompass",
-    "matches_won": 0,
-    "matches_lost": 0,
+    "matches_won": 1,
+    "matches_lost": 3,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 10
   },
   {
     "event_id": 1224909,
     "user_id": 518281,
     "user_name": "Kaos O",
     "matches_won": 0,
-    "matches_lost": 0,
+    "matches_lost": 2,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 15
   },
   {
     "event_id": 1224909,
     "user_id": 309095,
     "user_name": "Captain Misplay",
-    "matches_won": 0,
-    "matches_lost": 0,
+    "matches_won": 1,
+    "matches_lost": 2,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 13
   },
   {
     "event_id": 1224909,
     "user_id": 217706,
     "user_name": "LT_1of1",
-    "matches_won": 0,
-    "matches_lost": 0,
+    "matches_won": 3,
+    "matches_lost": 1,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 3
   },
   {
     "event_id": 1224909,
     "user_id": 16797,
     "user_name": "Proton Lorcana",
-    "matches_won": 0,
+    "matches_won": 4,
     "matches_lost": 0,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 1
   },
   {
     "event_id": 1224909,
     "user_id": 400197,
     "user_name": "Rose2092",
     "matches_won": 0,
-    "matches_lost": 0,
+    "matches_lost": 4,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 16
   },
   {
     "event_id": 1224909,
     "user_id": 306003,
     "user_name": "SokDak",
-    "matches_won": 0,
-    "matches_lost": 0,
+    "matches_won": 1,
+    "matches_lost": 1,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 14
   },
   {
     "event_id": 1224909,
     "user_id": 420395,
     "user_name": "Theresaanne398",
-    "matches_won": 0,
-    "matches_lost": 0,
+    "matches_won": 3,
+    "matches_lost": 1,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 5
   },
   {
     "event_id": 1224909,
     "user_id": 102341,
     "user_name": "TAKGamesTB",
-    "matches_won": 0,
-    "matches_lost": 0,
+    "matches_won": 2,
+    "matches_lost": 1,
     "matches_drawn": 0,
-    "final_place": null
+    "final_place": 7
   },
   {
     "event_id": 1085902,
