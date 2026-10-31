@@ -2454,10 +2454,10 @@
     "store_id": 162,
     "name": "Saturday Morning Weekly Play (Constructed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-31T00:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 1167960,
@@ -3194,10 +3194,10 @@
     "store_id": 13895,
     "name": "Area52 Lorcana Constructed Tounament",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-31T07:00:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 928593,
@@ -4956,6 +4956,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-18T23:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1238168,
+    "store_id": 371,
+    "name": "Baydragon Saturday Lorcana",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-25T23:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -7430,6 +7440,16 @@
     "starting_player_count": 0
   },
   {
+    "id": 1237857,
+    "store_id": 438,
+    "name": "Saturday Casual Play @BHG",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-25T23:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 158298,
     "store_id": 441,
     "name": "Sunday Afternoon Reign of Jafar - Set Championship",
@@ -7640,16 +7660,6 @@
     "starting_player_count": 4
   },
   {
-    "id": 353631,
-    "store_id": 441,
-    "name": "Saturday Afternoon Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-01-24T01:00:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
-  },
-  {
     "id": 311549,
     "store_id": 441,
     "name": "Saturday Afternoon Weekly Play (Constructed)",
@@ -7658,6 +7668,16 @@
     "start_datetime": "2026-01-24T01:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 353631,
+    "store_id": 441,
+    "name": "Saturday Afternoon Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-01-24T01:00:00+00:00",
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 367750,
@@ -7900,16 +7920,6 @@
     "starting_player_count": 4
   },
   {
-    "id": 796096,
-    "store_id": 441,
-    "name": "Saturday Afternoon Attack of the Vine! Set Championship",
-    "category": "championship",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-09-05T02:00:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 16
-  },
-  {
     "id": 763041,
     "store_id": 441,
     "name": "Saturday Weekly Lorcana Constructed",
@@ -7918,6 +7928,16 @@
     "start_datetime": "2026-09-05T02:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 796096,
+    "store_id": 441,
+    "name": "Saturday Afternoon Attack of the Vine! Set Championship",
+    "category": "championship",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-09-05T02:00:00+00:00",
+    "registered_user_count": 1,
+    "starting_player_count": 16
   },
   {
     "id": 780198,
@@ -7964,10 +7984,10 @@
     "store_id": 441,
     "name": "Saturday Weekly Lorcana Constructed",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-31T01:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 938004,
@@ -8036,6 +8056,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-19T01:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1238478,
+    "store_id": 441,
+    "name": "Saturday Weekly Lorcana Constructed",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T01:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -8646,6 +8676,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-19T18:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1238021,
+    "store_id": 49113,
+    "name": "Saturday Locals Card Den",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T18:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -10250,16 +10290,6 @@
     "starting_player_count": 4
   },
   {
-    "id": 896292,
-    "store_id": 688,
-    "name": "CMD Weekly Saturday Lorcana",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-10-24T01:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 917113,
     "store_id": 688,
     "name": "CMD Weekly Saturday Lorcana",
@@ -10336,6 +10366,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-19T01:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1238023,
+    "store_id": 688,
+    "name": "CMD Weekly Saturday Lorcana",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T01:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -13450,16 +13490,6 @@
     "starting_player_count": 13
   },
   {
-    "id": 679935,
-    "store_id": 16835,
-    "name": "Card Merchant Westcity - Toy Story School Holiday Pack Rush",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-07-08T23:00:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
-  },
-  {
     "id": 679938,
     "store_id": 16835,
     "name": "Card Merchant Westcity - Toy Story School Holiday Learn to Play",
@@ -13468,6 +13498,16 @@
     "start_datetime": "2026-07-08T23:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 679935,
+    "store_id": 16835,
+    "name": "Card Merchant Westcity - Toy Story School Holiday Pack Rush",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-07-08T23:00:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 679939,
@@ -13590,16 +13630,6 @@
     "starting_player_count": 23
   },
   {
-    "id": 1225593,
-    "store_id": 16835,
-    "name": "Saturday Collection Quest - Azurite Sea (Auckland Spring Armageddon)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-10-23T21:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 1225599,
     "store_id": 16835,
     "name": "Saturday Collection Quest - Hyperia City (Auckland Spring Armageddon)",
@@ -13618,6 +13648,16 @@
     "start_datetime": "2026-10-23T21:30:00+00:00",
     "registered_user_count": 7,
     "starting_player_count": 7
+  },
+  {
+    "id": 1225593,
+    "store_id": 16835,
+    "name": "Saturday Collection Quest - Azurite Sea (Auckland Spring Armageddon)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-23T21:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 1225608,
@@ -13678,6 +13718,16 @@
     "start_datetime": "2026-10-25T21:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 1237716,
+    "store_id": 16835,
+    "name": "Saturday Afternoon Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-31T03:00:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 928849,
@@ -13916,6 +13966,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-21T05:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1238395,
+    "store_id": 63969,
+    "name": "Weekly Play (Constructed) @ CARD PIECE",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T02:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -14806,8 +14866,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-11-02T08:00:00+00:00",
-    "registered_user_count": 3,
-    "starting_player_count": 3
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 152985,
@@ -15400,9 +15460,9 @@
     "starting_player_count": 4
   },
   {
-    "id": 408621,
+    "id": 408618,
     "store_id": 1038,
-    "name": "CTC Weekly Lorcana Play",
+    "name": "CTC Weekly Play (Constructed)",
     "category": "league",
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-02-27T09:00:00+00:00",
@@ -15410,9 +15470,9 @@
     "starting_player_count": 4
   },
   {
-    "id": 408618,
+    "id": 408621,
     "store_id": 1038,
-    "name": "CTC Weekly Play (Constructed)",
+    "name": "CTC Weekly Lorcana Play",
     "category": "league",
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-02-27T09:00:00+00:00",
@@ -15756,6 +15816,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-19T03:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1237745,
+    "store_id": 1038,
+    "name": "CTC Lorcana Saturday Casual Play",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T03:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -20750,6 +20820,16 @@
     "starting_player_count": 0
   },
   {
+    "id": 1238370,
+    "store_id": 22375,
+    "name": "Wednesday Evening Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T02:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 1015421,
     "store_id": 22375,
     "name": "Saturday Morning Into the Inkdark Prerelease (Sealed)",
@@ -25405,9 +25485,9 @@
     "name": "GGA Hyperia Set Championship",
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2027-01-17T01:30:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "start_datetime": "2027-01-17T00:00:00+00:00",
+    "registered_user_count": 3,
+    "starting_player_count": 3
   },
   {
     "id": 188395,
@@ -27200,16 +27280,6 @@
     "starting_player_count": 8
   },
   {
-    "id": 896518,
-    "store_id": 2227,
-    "name": "Lorcana Weekly Constructed @ Good Games Box Hill",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-10-24T01:00:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
-  },
-  {
     "id": 904372,
     "store_id": 2227,
     "name": "[Format Coconut] @Good Games Box Hill",
@@ -27224,10 +27294,10 @@
     "store_id": 2227,
     "name": "Lorcana Weekly Constructed @ Good Games Box Hill",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-31T01:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 924918,
@@ -27376,6 +27446,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-22T07:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1238399,
+    "store_id": 2227,
+    "name": "Lorcana Weekly Constructed @ Good Games Box Hill",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T01:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -31700,6 +31780,16 @@
     "starting_player_count": 0
   },
   {
+    "id": 1237722,
+    "store_id": 2244,
+    "name": "Saturday Afternoon Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-31T03:30:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
+  },
+  {
     "id": 888182,
     "store_id": 18424,
     "name": "Wednesday Evening Weekly Play (Constructed)",
@@ -34546,8 +34636,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-31T23:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 927266,
@@ -37244,10 +37334,10 @@
     "store_id": 2424,
     "name": "Weekly Core Constructed at Hero Stash",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-31T00:30:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
+    "registered_user_count": 11,
+    "starting_player_count": 11
   },
   {
     "id": 1230027,
@@ -38974,10 +39064,20 @@
     "store_id": 64390,
     "name": "Hobby Lords Hastings - Disney Lorcana League",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-31T00:00:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 2,
+    "starting_player_count": 2
+  },
+  {
+    "id": 1237651,
+    "store_id": 64390,
+    "name": "Saturday Afternoon Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-31T02:00:00+00:00",
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 936738,
@@ -39046,6 +39146,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-19T00:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1238022,
+    "store_id": 64390,
+    "name": "Hobby Lords Hastings - Disney Lorcana League",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T00:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -42024,10 +42134,10 @@
     "store_id": 36136,
     "name": "Saturday Lorcana League Template",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-31T04:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 925302,
@@ -42186,6 +42296,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-22T05:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1238336,
+    "store_id": 36136,
+    "name": "Saturday Lorcana League Template",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T04:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -45184,10 +45304,10 @@
     "store_id": 13783,
     "name": "JToys Lorcana Weekly Play",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-31T05:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 937719,
@@ -45256,6 +45376,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-19T05:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1238453,
+    "store_id": 13783,
+    "name": "JToys Lorcana Weekly Play",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T05:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -45530,16 +45660,6 @@
     "starting_player_count": 11
   },
   {
-    "id": 197910,
-    "store_id": 2716,
-    "name": "Thursday Evening Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-09-18T08:30:00+00:00",
-    "registered_user_count": 8,
-    "starting_player_count": 8
-  },
-  {
     "id": 197900,
     "store_id": 2716,
     "name": "Thursday Evening Weekly Play (Constructed)",
@@ -45548,6 +45668,16 @@
     "start_datetime": "2025-09-18T08:30:00+00:00",
     "registered_user_count": 5,
     "starting_player_count": 5
+  },
+  {
+    "id": 197910,
+    "store_id": 2716,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-09-18T08:30:00+00:00",
+    "registered_user_count": 8,
+    "starting_player_count": 8
   },
   {
     "id": 199835,
@@ -46370,16 +46500,6 @@
     "starting_player_count": 0
   },
   {
-    "id": 1033909,
-    "store_id": 2716,
-    "name": "Just Card Stuff Saturday Night Hyperia City Prerelease (Sealed)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-10-17T08:30:00+00:00",
-    "registered_user_count": 32,
-    "starting_player_count": 32
-  },
-  {
     "id": 878070,
     "store_id": 2716,
     "name": "Just Card Stuff Saturday Night Core Constructed",
@@ -46388,6 +46508,16 @@
     "start_datetime": "2026-10-17T08:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 1033909,
+    "store_id": 2716,
+    "name": "Just Card Stuff Saturday Night Hyperia City Prerelease (Sealed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-17T08:30:00+00:00",
+    "registered_user_count": 32,
+    "starting_player_count": 32
   },
   {
     "id": 897123,
@@ -46414,17 +46544,17 @@
     "store_id": 2716,
     "name": "Just Card Stuff Saturday Night Core Constructed",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-31T08:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 10,
+    "starting_player_count": 10
   },
   {
     "id": 920625,
     "store_id": 2716,
     "name": "Just Card Stuff Sunday Morning Themed Infinity",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-11-01T01:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
@@ -46566,6 +46696,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-20T01:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1237917,
+    "store_id": 2716,
+    "name": "Just Card Stuff Saturday Night Core Constructed",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T08:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -47228,16 +47368,6 @@
     "start_datetime": "2026-10-17T00:00:00+00:00",
     "registered_user_count": 15,
     "starting_player_count": 15
-  },
-  {
-    "id": 893037,
-    "store_id": 3081,
-    "name": "Mackay Disney Lorcana League - Coconut Event",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-10-31T00:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
   },
   {
     "id": 893041,
@@ -49384,10 +49514,10 @@
     "store_id": 3346,
     "name": "Lorcana Core Constructed - Mega Games",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-31T06:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 7,
+    "starting_player_count": 7
   },
   {
     "id": 937054,
@@ -52394,10 +52524,10 @@
     "store_id": 3642,
     "name": "Disney Lorcana League",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-30T21:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 937345,
@@ -52466,6 +52596,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-18T21:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1238324,
+    "store_id": 3642,
+    "name": "Disney Lorcana League",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-25T21:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -52980,16 +53120,6 @@
     "starting_player_count": 8
   },
   {
-    "id": 896651,
-    "store_id": 3751,
-    "name": "Saturday Lorcana Locals at Ozzie's!",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-10-24T01:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 917443,
     "store_id": 3751,
     "name": "Saturday Lorcana Locals at Ozzie's!",
@@ -53076,6 +53206,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-19T01:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1237954,
+    "store_id": 3751,
+    "name": "Saturday Lorcana Locals at Ozzie's!",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T01:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -54700,16 +54840,6 @@
     "starting_player_count": 5
   },
   {
-    "id": 898958,
-    "store_id": 18934,
-    "name": "Lorcana Weekly",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-08-30T03:00:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
-  },
-  {
     "id": 897620,
     "store_id": 18934,
     "name": "Sunday Afternoon Weekly Play @ Reefside Games",
@@ -54718,6 +54848,16 @@
     "start_datetime": "2026-08-30T03:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 898958,
+    "store_id": 18934,
+    "name": "Lorcana Weekly",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-08-30T03:00:00+00:00",
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 897621,
@@ -54770,16 +54910,6 @@
     "starting_player_count": 0
   },
   {
-    "id": 897625,
-    "store_id": 18934,
-    "name": "Sunday Afternoon Weekly Play @ Reefside Games",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-10-04T03:00:00+00:00",
-    "registered_user_count": 5,
-    "starting_player_count": 5
-  },
-  {
     "id": 900148,
     "store_id": 18934,
     "name": "Sunday Afternoon The Great Hunny Rescue Celebration",
@@ -54788,6 +54918,16 @@
     "start_datetime": "2026-10-04T03:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 897625,
+    "store_id": 18934,
+    "name": "Sunday Afternoon Weekly Play @ Reefside Games",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-04T03:00:00+00:00",
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 897626,
@@ -54816,16 +54956,6 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-18T03:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
-    "id": 896521,
-    "store_id": 18934,
-    "name": "October 24, 2026, Reefside Games, Core Constructed, Saturday",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-10-24T03:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -54996,6 +55126,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-20T03:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1238400,
+    "store_id": 18934,
+    "name": "December 26, 2026, Reefside Games, Core Constructed, Saturday",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T03:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -56800,16 +56940,6 @@
     "starting_player_count": 6
   },
   {
-    "id": 569047,
-    "store_id": 4210,
-    "name": "Saturday Morning Wilds Unknown Prerelease (Pack Rush)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-05-09T00:30:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
-  },
-  {
     "id": 569060,
     "store_id": 4210,
     "name": "Saturday Morning Wilds Unknown Prerelease (Sealed)",
@@ -56818,6 +56948,16 @@
     "start_datetime": "2026-05-09T00:30:00+00:00",
     "registered_user_count": 9,
     "starting_player_count": 10
+  },
+  {
+    "id": 569047,
+    "store_id": 4210,
+    "name": "Saturday Morning Wilds Unknown Prerelease (Pack Rush)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-05-09T00:30:00+00:00",
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 473104,
@@ -57094,10 +57234,10 @@
     "store_id": 4210,
     "name": "Saturday Morning Lorcana",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-30T23:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 7,
+    "starting_player_count": 7
   },
   {
     "id": 1187841,
@@ -57246,6 +57386,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-24T08:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1238089,
+    "store_id": 4210,
+    "name": "Saturday Morning Lorcana",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-25T23:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -57686,8 +57836,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-31T22:00:00+00:00",
-    "registered_user_count": 13,
-    "starting_player_count": 13
+    "registered_user_count": 14,
+    "starting_player_count": 14
   },
   {
     "id": 1231314,
@@ -59706,8 +59856,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2027-01-03T01:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 294899,
@@ -61928,6 +62078,16 @@
     "start_datetime": "2026-10-24T01:00:00+00:00",
     "registered_user_count": 10,
     "starting_player_count": 10
+  },
+  {
+    "id": 1237610,
+    "store_id": 4425,
+    "name": "Saturday Morning Unstructured / Player List Only",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-31T00:00:00+00:00",
+    "registered_user_count": 11,
+    "starting_player_count": 11
   },
   {
     "id": 155350,
@@ -68950,6 +69110,16 @@
     "starting_player_count": 0
   },
   {
+    "id": 1238018,
+    "store_id": 42606,
+    "name": "Lorcana Weekly",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T00:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 154463,
     "store_id": 5042,
     "name": "Disney Lorcana Tuesday Evening Weekly Tournament 17/06/2025 (Constructed)",
@@ -69434,10 +69604,10 @@
     "store_id": 39739,
     "name": "Lorcana Weekly",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-31T04:00:00+00:00",
-    "registered_user_count": 3,
-    "starting_player_count": 3
+    "registered_user_count": 9,
+    "starting_player_count": 9
   },
   {
     "id": 937488,
@@ -69506,6 +69676,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-19T04:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1237810,
+    "store_id": 39739,
+    "name": "Lorcana Weekly",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T04:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -69840,16 +70020,6 @@
     "starting_player_count": 6
   },
   {
-    "id": 896648,
-    "store_id": 5061,
-    "name": "October 24, 2026, Total Tabletop, Core Constructed, Saturday",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-10-24T01:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 1233055,
     "store_id": 5061,
     "name": "Wednesday Evening Weekly Play (Constructed)",
@@ -69936,6 +70106,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-19T01:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1238313,
+    "store_id": 5061,
+    "name": "December 26, 2026, Total Tabletop, Core Constructed, Saturday",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T01:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -73260,6 +73440,16 @@
     "starting_player_count": 0
   },
   {
+    "id": 1237518,
+    "store_id": 5239,
+    "name": "Lorcana Collectors Quest",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-31T01:30:00+00:00",
+    "registered_user_count": 6,
+    "starting_player_count": 6
+  },
+  {
     "id": 155730,
     "store_id": 5251,
     "name": "Lorcana Draft @ BNE 19/6",
@@ -75844,10 +76034,10 @@
     "store_id": 18965,
     "name": "Lorcana Saturdays",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-10-31T00:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 1104496,
@@ -75916,6 +76106,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-19T00:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1238495,
+    "store_id": 18965,
+    "name": "Lorcana Saturdays",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-26T00:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -77626,8 +77826,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-11-02T07:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 930432,
