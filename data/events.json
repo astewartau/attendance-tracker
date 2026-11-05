@@ -542,12 +542,12 @@
   {
     "id": 931535,
     "store_id": 17966,
-    "name": "Thursday Night Lorcana",
+    "name": "Lorcana League @2S Week 2",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-11-05T22:00:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "event_status": "EVENT_IN_PROGRESS",
+    "start_datetime": "2026-11-05T23:00:00+00:00",
+    "registered_user_count": 11,
+    "starting_player_count": 11
   },
   {
     "id": 950593,
@@ -626,6 +626,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-24T22:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245204,
+    "store_id": 17966,
+    "name": "Thursday Night Lorcana",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-31T22:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -1836,8 +1846,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2027-01-09T02:00:00+00:00",
-    "registered_user_count": 9,
-    "starting_player_count": 9
+    "registered_user_count": 11,
+    "starting_player_count": 11
   },
   {
     "id": 154428,
@@ -6694,10 +6704,10 @@
     "store_id": 416,
     "name": "Lorcana Thursdays Bigboss",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-11-05T08:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 950682,
@@ -6766,6 +6776,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-24T08:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245172,
+    "store_id": 416,
+    "name": "Lorcana Thursdays Bigboss",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-31T08:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -9070,16 +9090,6 @@
     "starting_player_count": 4
   },
   {
-    "id": 203192,
-    "store_id": 687,
-    "name": "Thursday Hobby",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-09-25T06:30:00+00:00",
-    "registered_user_count": 6,
-    "starting_player_count": 6
-  },
-  {
     "id": 203206,
     "store_id": 687,
     "name": "Thursday Night Hobby",
@@ -9088,6 +9098,16 @@
     "start_datetime": "2025-09-25T06:30:00+00:00",
     "registered_user_count": 12,
     "starting_player_count": 12
+  },
+  {
+    "id": 203192,
+    "store_id": 687,
+    "name": "Thursday Hobby",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-09-25T06:30:00+00:00",
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 204860,
@@ -9888,6 +9908,16 @@
     "start_datetime": "2026-10-29T05:30:00+00:00",
     "registered_user_count": 11,
     "starting_player_count": 12
+  },
+  {
+    "id": 1244954,
+    "store_id": 687,
+    "name": "Thursday Night Hobby",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-11-05T05:30:00+00:00",
+    "registered_user_count": 10,
+    "starting_player_count": 10
   },
   {
     "id": 187640,
@@ -12480,16 +12510,6 @@
     "starting_player_count": 13
   },
   {
-    "id": 197887,
-    "store_id": 691,
-    "name": "Thursday Evening Weekly Play (Constructed)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-09-18T07:00:00+00:00",
-    "registered_user_count": 12,
-    "starting_player_count": 12
-  },
-  {
     "id": 197888,
     "store_id": 691,
     "name": "Thursday Evening Weekly Play (Constructed)",
@@ -12498,6 +12518,16 @@
     "start_datetime": "2025-09-18T07:00:00+00:00",
     "registered_user_count": 13,
     "starting_player_count": 13
+  },
+  {
+    "id": 197887,
+    "store_id": 691,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-09-18T07:00:00+00:00",
+    "registered_user_count": 12,
+    "starting_player_count": 12
   },
   {
     "id": 203218,
@@ -13004,10 +13034,10 @@
     "store_id": 691,
     "name": "Card Merchant Ponsonby Thursday Weekly Play (Constructed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-11-05T05:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 10,
+    "starting_player_count": 10
   },
   {
     "id": 949511,
@@ -13076,6 +13106,26 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-24T05:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245385,
+    "store_id": 691,
+    "name": "Card Merchant Ponsonby Thursday Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-31T05:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1244785,
+    "store_id": 691,
+    "name": "Monday Evening Into the Inkdark Prerelease (Sealed)",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2027-02-08T05:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -13156,16 +13206,6 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-20T05:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
-    "id": 904105,
-    "store_id": 64204,
-    "name": "Tuesday recurring",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-10-27T05:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -14424,10 +14464,10 @@
     "store_id": 836,
     "name": "Weekly Casual Play",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-11-05T06:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 11,
+    "starting_player_count": 11
   },
   {
     "id": 950842,
@@ -14496,6 +14536,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-24T06:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245066,
+    "store_id": 836,
+    "name": "Weekly Casual Play",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-31T06:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -15026,6 +15076,16 @@
     "category": "league",
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-11-02T08:00:00+00:00",
+    "registered_user_count": 10,
+    "starting_player_count": 10
+  },
+  {
+    "id": 1245803,
+    "store_id": 66469,
+    "name": "PRE CCQ WIN A BOX",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-11-09T09:00:00+00:00",
     "registered_user_count": 10,
     "starting_player_count": 10
   },
@@ -16430,9 +16490,9 @@
     "starting_player_count": 0
   },
   {
-    "id": 788929,
+    "id": 788918,
     "store_id": 46467,
-    "name": "Lorcana Organised Play",
+    "name": "Thursday Organised Play",
     "category": "league",
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-23T07:30:00+00:00",
@@ -16440,9 +16500,9 @@
     "starting_player_count": 0
   },
   {
-    "id": 788918,
+    "id": 788929,
     "store_id": 46467,
-    "name": "Thursday Organised Play",
+    "name": "Lorcana Organised Play",
     "category": "league",
     "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-07-23T07:30:00+00:00",
@@ -16584,10 +16644,10 @@
     "store_id": 46467,
     "name": "Lorcana Organised Play",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-11-05T06:30:00+00:00",
-    "registered_user_count": 5,
-    "starting_player_count": 5
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-11-05T08:00:00+00:00",
+    "registered_user_count": 7,
+    "starting_player_count": 7
   },
   {
     "id": 949435,
@@ -16596,8 +16656,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-11-12T06:30:00+00:00",
-    "registered_user_count": 5,
-    "starting_player_count": 5
+    "registered_user_count": 6,
+    "starting_player_count": 6
   },
   {
     "id": 975189,
@@ -16606,8 +16666,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-11-19T06:30:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 1026263,
@@ -16616,8 +16676,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-11-26T06:30:00+00:00",
-    "registered_user_count": 3,
-    "starting_player_count": 3
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 1105242,
@@ -16626,8 +16686,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-03T06:30:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 1178330,
@@ -16636,8 +16696,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-10T06:30:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 1224408,
@@ -16646,8 +16706,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-17T06:30:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 1234882,
@@ -16656,8 +16716,18 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-24T06:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 3,
+    "starting_player_count": 3
+  },
+  {
+    "id": 1245191,
+    "store_id": 46467,
+    "name": "Lorcana Organised Play",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-31T06:30:00+00:00",
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 171604,
@@ -24544,20 +24614,20 @@
     "store_id": 2051,
     "name": "Lorcana Hobby - Competitive (Core)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-11-05T05:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 9,
+    "starting_player_count": 9
   },
   {
     "id": 1239184,
     "store_id": 2051,
     "name": "Lorcana Hobby - Fun (Infinity)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-11-05T05:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 1239188,
@@ -27180,6 +27250,16 @@
     "starting_player_count": 0
   },
   {
+    "id": 1245119,
+    "store_id": 2226,
+    "name": "Good Games Bondi Lorcana Weeklies",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-31T06:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 157457,
     "store_id": 2227,
     "name": "Reign of Jafar - Set Championship @Good Games Box Hill",
@@ -27528,16 +27608,6 @@
     "start_datetime": "2026-10-17T01:00:00+00:00",
     "registered_user_count": 8,
     "starting_player_count": 8
-  },
-  {
-    "id": 904372,
-    "store_id": 2227,
-    "name": "[Format Coconut] @Good Games Box Hill",
-    "category": "league",
-    "event_status": "REGISTRATION_OPEN",
-    "start_datetime": "2026-10-27T07:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
   },
   {
     "id": 917325,
@@ -29456,8 +29526,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2027-01-15T23:30:00+00:00",
-    "registered_user_count": 3,
-    "starting_player_count": 3
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 1220685,
@@ -34550,6 +34620,16 @@
     "starting_player_count": 0
   },
   {
+    "id": 1244961,
+    "store_id": 2247,
+    "name": "Constructed at Good Games Town Hall - December 31, 2026",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-31T07:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 210106,
     "store_id": 19269,
     "name": "Sunday Weekly Casual Play",
@@ -36904,7 +36984,7 @@
     "store_id": 2400,
     "name": "Sunday Afternoon Weekly Play (Constructed)",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-09-27T05:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
@@ -37636,8 +37716,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-11-07T00:30:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
+    "registered_user_count": 5,
+    "starting_player_count": 5
   },
   {
     "id": 1230028,
@@ -39380,6 +39460,36 @@
     "starting_player_count": 5
   },
   {
+    "id": 1244956,
+    "store_id": 64390,
+    "name": "Thursday Evening Weekly Play (Constructed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-11-05T05:30:00+00:00",
+    "registered_user_count": 5,
+    "starting_player_count": 5
+  },
+  {
+    "id": 1244955,
+    "store_id": 64390,
+    "name": "Thursday Evening Unstructured / Player List Only",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-11-05T05:30:00+00:00",
+    "registered_user_count": 5,
+    "starting_player_count": 5
+  },
+  {
+    "id": 1244949,
+    "store_id": 64390,
+    "name": "Thursday League - Hobby Lords Hastings",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-11-05T08:30:00+00:00",
+    "registered_user_count": 4,
+    "starting_player_count": 4
+  },
+  {
     "id": 936738,
     "store_id": 64390,
     "name": "Hobby Lords Hastings - Disney Lorcana League",
@@ -39694,10 +39804,10 @@
     "store_id": 59381,
     "name": "Weekly Lorcana league",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-11-05T06:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 957772,
@@ -40770,16 +40880,6 @@
     "starting_player_count": 6
   },
   {
-    "id": 256461,
-    "store_id": 2463,
-    "name": "Friday Night League",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-12-12T05:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 267906,
     "store_id": 2463,
     "name": "Friday Evening Infinity Weekend Constructed Event",
@@ -40788,6 +40888,16 @@
     "start_datetime": "2025-12-12T05:30:00+00:00",
     "registered_user_count": 9,
     "starting_player_count": 9
+  },
+  {
+    "id": 256461,
+    "store_id": 2463,
+    "name": "Friday Night League",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-12-12T05:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 307509,
@@ -41246,6 +41356,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-24T17:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245365,
+    "store_id": 2463,
+    "name": "Friday Night - Lorcana League",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-31T17:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -44220,6 +44340,16 @@
     "starting_player_count": 5
   },
   {
+    "id": 1244893,
+    "store_id": 65538,
+    "name": "Thursday Evening Format Coconut",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-11-05T08:00:00+00:00",
+    "registered_user_count": 3,
+    "starting_player_count": 3
+  },
+  {
     "id": 678667,
     "store_id": 14356,
     "name": "Jac's Cave of Wonders - Wild's Unknown Store Championships",
@@ -44308,6 +44438,16 @@
     "start_datetime": "2026-10-24T04:00:00+00:00",
     "registered_user_count": 21,
     "starting_player_count": 21
+  },
+  {
+    "id": 1244947,
+    "store_id": 14356,
+    "name": "Lorcana Pin Trading at Jac's",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-11-07T04:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 155354,
@@ -48180,16 +48320,6 @@
     "starting_player_count": 5
   },
   {
-    "id": 774834,
-    "store_id": 16575,
-    "name": "Lorcana",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-07-16T09:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 773516,
     "store_id": 16575,
     "name": "Thursday Evening Weekly Play (Constructed)",
@@ -48198,6 +48328,16 @@
     "start_datetime": "2026-07-16T09:00:00+00:00",
     "registered_user_count": 8,
     "starting_player_count": 8
+  },
+  {
+    "id": 774834,
+    "store_id": 16575,
+    "name": "Lorcana",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-07-16T09:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 716910,
@@ -48374,10 +48514,10 @@
     "store_id": 16575,
     "name": "Lorcana",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-11-05T08:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 4,
+    "starting_player_count": 8
   },
   {
     "id": 949522,
@@ -48446,6 +48586,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-24T08:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245498,
+    "store_id": 16575,
+    "name": "Lorcana",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-31T08:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -50606,8 +50756,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-11-06T08:35:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 156884,
@@ -56860,6 +57010,16 @@
     "starting_player_count": 0
   },
   {
+    "id": 1245561,
+    "store_id": 19546,
+    "name": "Lorcana Thursday Night Weekly Play Constructed",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-31T08:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 144349,
     "store_id": 4210,
     "name": "Weekly Lorcana",
@@ -57290,16 +57450,6 @@
     "starting_player_count": 6
   },
   {
-    "id": 569060,
-    "store_id": 4210,
-    "name": "Saturday Morning Wilds Unknown Prerelease (Sealed)",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-05-09T00:30:00+00:00",
-    "registered_user_count": 9,
-    "starting_player_count": 10
-  },
-  {
     "id": 569047,
     "store_id": 4210,
     "name": "Saturday Morning Wilds Unknown Prerelease (Pack Rush)",
@@ -57308,6 +57458,16 @@
     "start_datetime": "2026-05-09T00:30:00+00:00",
     "registered_user_count": 6,
     "starting_player_count": 6
+  },
+  {
+    "id": 569060,
+    "store_id": 4210,
+    "name": "Saturday Morning Wilds Unknown Prerelease (Sealed)",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-05-09T00:30:00+00:00",
+    "registered_user_count": 9,
+    "starting_player_count": 10
   },
   {
     "id": 473104,
@@ -57746,6 +57906,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-25T23:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245275,
+    "store_id": 4210,
+    "name": "Thursday Night Lorcana",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-31T08:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -58196,8 +58366,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-11-07T22:00:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
+    "registered_user_count": 13,
+    "starting_player_count": 13
   },
   {
     "id": 154616,
@@ -62460,6 +62630,16 @@
     "starting_player_count": 11
   },
   {
+    "id": 1245821,
+    "store_id": 4425,
+    "name": "League session.",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-11-06T23:30:00+00:00",
+    "registered_user_count": 1,
+    "starting_player_count": 1
+  },
+  {
     "id": 155350,
     "store_id": 4525,
     "name": "TTW Adelaide Weekly Constructed",
@@ -62804,10 +62984,10 @@
     "store_id": 4525,
     "name": "[ADELAIDE] Lorcana - Weekly Core Constructed",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-11-05T08:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 4,
+    "starting_player_count": 4
   },
   {
     "id": 950204,
@@ -62876,6 +63056,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-24T08:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245239,
+    "store_id": 4525,
+    "name": "[ADELAIDE] Lorcana - Weekly Core Constructed",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-31T08:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -66750,6 +66940,16 @@
     "starting_player_count": 8
   },
   {
+    "id": 1245780,
+    "store_id": 17683,
+    "name": "Disney Lorcana Weekly League",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-11-12T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 154448,
     "store_id": 4776,
     "name": "Lorcana Win a Box SUN 15Th June at The Games Cube",
@@ -68586,8 +68786,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-11-06T08:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 1007082,
@@ -70086,8 +70286,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-11-07T04:00:00+00:00",
-    "registered_user_count": 1,
-    "starting_player_count": 1
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 955751,
@@ -70096,8 +70296,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-11-14T04:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 989890,
@@ -70106,8 +70306,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-11-21T04:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 1050045,
@@ -70116,8 +70316,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-11-28T04:00:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 1,
+    "starting_player_count": 1
   },
   {
     "id": 1132558,
@@ -71330,9 +71530,9 @@
     "starting_player_count": 6
   },
   {
-    "id": 1117085,
+    "id": 1117084,
     "store_id": 5162,
-    "name": "Pack Rush",
+    "name": "Starter Deck Chaos",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-09T06:00:00+00:00",
@@ -71340,9 +71540,9 @@
     "starting_player_count": 0
   },
   {
-    "id": 1117084,
+    "id": 1117085,
     "store_id": 5162,
-    "name": "Starter Deck Chaos",
+    "name": "Pack Rush",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-10-09T06:00:00+00:00",
@@ -71410,14 +71610,24 @@
     "starting_player_count": 10
   },
   {
+    "id": 1244871,
+    "store_id": 5162,
+    "name": "Hyperia City - Coconut format fun at Turn Order Games",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-11-05T06:00:00+00:00",
+    "registered_user_count": 12,
+    "starting_player_count": 12
+  },
+  {
     "id": 931158,
     "store_id": 5162,
     "name": "Lorcana Weekly League at Turn Order Games",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-11-05T08:00:00+00:00",
-    "registered_user_count": 4,
-    "starting_player_count": 4
+    "registered_user_count": 12,
+    "starting_player_count": 12
   },
   {
     "id": 950246,
@@ -71460,6 +71670,16 @@
     "starting_player_count": 0
   },
   {
+    "id": 1244875,
+    "store_id": 5162,
+    "name": "Lorcana World Championship Celebration at Turn Order Games: Infinity format",
+    "category": "championship",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-05T01:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 1186133,
     "store_id": 5162,
     "name": "Lorcana Weekly League at Turn Order Games",
@@ -71486,6 +71706,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-24T08:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245248,
+    "store_id": 5162,
+    "name": "Lorcana Weekly League at Turn Order Games",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-31T08:00:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -72120,6 +72350,26 @@
     "starting_player_count": 6
   },
   {
+    "id": 1244701,
+    "store_id": 5165,
+    "name": "Lorcana Casual",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-11-06T23:15:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1244702,
+    "store_id": 5165,
+    "name": "Lorcana Casual",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-11-13T23:15:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
     "id": 376973,
     "store_id": 35245,
     "name": "Lorcana Casual Play and Exchange",
@@ -72676,8 +72926,8 @@
     "category": "championship",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2027-01-16T01:00:00+00:00",
-    "registered_user_count": 15,
-    "starting_player_count": 15
+    "registered_user_count": 16,
+    "starting_player_count": 16
   },
   {
     "id": 1240470,
@@ -72706,8 +72956,8 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2027-02-05T07:30:00+00:00",
-    "registered_user_count": 15,
-    "starting_player_count": 15
+    "registered_user_count": 20,
+    "starting_player_count": 20
   },
   {
     "id": 252561,
@@ -74420,16 +74670,6 @@
     "starting_player_count": 5
   },
   {
-    "id": 295372,
-    "store_id": 5251,
-    "name": "Lorcana Constructed @ BNE - 04/12/2025",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2025-12-04T08:30:00+00:00",
-    "registered_user_count": 2,
-    "starting_player_count": 2
-  },
-  {
     "id": 295364,
     "store_id": 5251,
     "name": "Mid-Season Trove @ BNE - 4/12/2025",
@@ -74438,6 +74678,16 @@
     "start_datetime": "2025-12-04T08:30:00+00:00",
     "registered_user_count": 6,
     "starting_player_count": 6
+  },
+  {
+    "id": 295372,
+    "store_id": 5251,
+    "name": "Lorcana Constructed @ BNE - 04/12/2025",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2025-12-04T08:30:00+00:00",
+    "registered_user_count": 2,
+    "starting_player_count": 2
   },
   {
     "id": 300012,
@@ -75160,12 +75410,132 @@
     "starting_player_count": 4
   },
   {
+    "id": 1244935,
+    "store_id": 5251,
+    "name": "Lorcana Core Constructed @ Vault Games Brisbane City - November 5th, 2026",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-11-05T08:00:00+00:00",
+    "registered_user_count": 6,
+    "starting_player_count": 7
+  },
+  {
     "id": 1085906,
     "store_id": 5251,
     "name": "CCQ Practice @ Vault Games Brisbane City - 08/11/2026",
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-11-08T00:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245762,
+    "store_id": 5251,
+    "name": "Lorcana Core Constructed @ Vault Games Brisbane City - November 12, 2026",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-11-12T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245763,
+    "store_id": 5251,
+    "name": "Lorcana Format Coconut @ Vault Games Brisbane City, November 19, 2026",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-11-19T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245764,
+    "store_id": 5251,
+    "name": "Lorcana Core Constructed @ Vault Games Brisbane City - November 26, 2026",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-11-26T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245765,
+    "store_id": 5251,
+    "name": "Lorcana Core Constructed @ Vault Games Brisbane City - December 03, 2026",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-03T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245766,
+    "store_id": 5251,
+    "name": "Lorcana Format Coconut @ Vault Games Brisbane City, December 10, 2026",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-10T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245767,
+    "store_id": 5251,
+    "name": "Lorcana Infinity Constructed @ Vault Games Brisbane City - December 17, 2026",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-17T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245768,
+    "store_id": 5251,
+    "name": "Lorcana Core Constructed @ Vault Games Brisbane City - January 07, 2027",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2027-01-07T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245772,
+    "store_id": 5251,
+    "name": "Lorcana Hyperia City Set Championship @ Vault Games Brisbane City - January 9 2026",
+    "category": "championship",
+    "event_status": "REGISTRATION_CLOSED",
+    "start_datetime": "2027-01-09T00:00:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245769,
+    "store_id": 5251,
+    "name": "Lorcana Core Constructed @ Vault Games Brisbane City - January 14, 2027",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2027-01-14T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245770,
+    "store_id": 5251,
+    "name": "Lorcana Core Constructed @ Vault Games Brisbane City - January 21, 2027",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2027-01-21T08:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245771,
+    "store_id": 5251,
+    "name": "Lorcana Infinity Constructed @ Vault Games Brisbane City - January 28, 2026",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2027-01-28T08:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
@@ -76010,9 +76380,9 @@
     "starting_player_count": 0
   },
   {
-    "id": 1008405,
+    "id": 1008395,
     "store_id": 5252,
-    "name": "Lorcana Into the Inkdark Pack Rush @ Vault Games Clayfield",
+    "name": "Lorcana Into the Inkdark Prerelease @ Vault Games Clayfield",
     "category": "league",
     "event_status": "REGISTRATION_CLOSED",
     "start_datetime": "2027-02-05T08:30:00+00:00",
@@ -76020,9 +76390,9 @@
     "starting_player_count": 0
   },
   {
-    "id": 1008395,
+    "id": 1008405,
     "store_id": 5252,
-    "name": "Lorcana Into the Inkdark Prerelease @ Vault Games Clayfield",
+    "name": "Lorcana Into the Inkdark Pack Rush @ Vault Games Clayfield",
     "category": "league",
     "event_status": "REGISTRATION_CLOSED",
     "start_datetime": "2027-02-05T08:30:00+00:00",
@@ -77970,16 +78340,6 @@
     "starting_player_count": 21
   },
   {
-    "id": 667960,
-    "store_id": 17154,
-    "name": "Lorcana Toy Story Pack Rush @ Zen",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-06-29T08:30:00+00:00",
-    "registered_user_count": 20,
-    "starting_player_count": 40
-  },
-  {
     "id": 512994,
     "store_id": 17154,
     "name": "Lorcana Locals @ Zen (Franchise Infinity)",
@@ -77988,6 +78348,16 @@
     "start_datetime": "2026-06-29T08:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
+  },
+  {
+    "id": 667960,
+    "store_id": 17154,
+    "name": "Lorcana Toy Story Pack Rush @ Zen",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-06-29T08:30:00+00:00",
+    "registered_user_count": 20,
+    "starting_player_count": 40
   },
   {
     "id": 729415,
@@ -78020,16 +78390,6 @@
     "starting_player_count": 24
   },
   {
-    "id": 513003,
-    "store_id": 17154,
-    "name": "Lorcana Locals @ Zen",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-07-27T08:30:00+00:00",
-    "registered_user_count": 11,
-    "starting_player_count": 11
-  },
-  {
     "id": 801696,
     "store_id": 17154,
     "name": "Lorcana Locals @ Zen",
@@ -78038,6 +78398,16 @@
     "start_datetime": "2026-07-27T08:30:00+00:00",
     "registered_user_count": 10,
     "starting_player_count": 12
+  },
+  {
+    "id": 513003,
+    "store_id": 17154,
+    "name": "Lorcana Locals @ Zen",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-07-27T08:30:00+00:00",
+    "registered_user_count": 11,
+    "starting_player_count": 11
   },
   {
     "id": 801697,
@@ -78100,16 +78470,6 @@
     "starting_player_count": 8
   },
   {
-    "id": 904267,
-    "store_id": 17154,
-    "name": "Lorcana: Casual Play @ Zen",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-09-03T07:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 830055,
     "store_id": 17154,
     "name": "Lorcana: Casual Play @ Zen",
@@ -78118,6 +78478,16 @@
     "start_datetime": "2026-09-03T07:30:00+00:00",
     "registered_user_count": 9,
     "starting_player_count": 9
+  },
+  {
+    "id": 904267,
+    "store_id": 17154,
+    "name": "Lorcana: Casual Play @ Zen",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-09-03T07:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 801702,
@@ -78130,16 +78500,6 @@
     "starting_player_count": 8
   },
   {
-    "id": 904268,
-    "store_id": 17154,
-    "name": "Lorcana: Casual Play @ Zen",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-09-10T07:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 849079,
     "store_id": 17154,
     "name": "Casual Play @ Zen (Coconut)",
@@ -78148,6 +78508,16 @@
     "start_datetime": "2026-09-10T07:30:00+00:00",
     "registered_user_count": 5,
     "starting_player_count": 5
+  },
+  {
+    "id": 904268,
+    "store_id": 17154,
+    "name": "Lorcana: Casual Play @ Zen",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-09-10T07:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 801703,
@@ -78280,16 +78650,6 @@
     "starting_player_count": 18
   },
   {
-    "id": 1187849,
-    "store_id": 17154,
-    "name": "Lorcana Locals @ Zen",
-    "category": "league",
-    "event_status": "EVENT_FINISHED",
-    "start_datetime": "2026-10-19T07:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
-  },
-  {
     "id": 1181525,
     "store_id": 17154,
     "name": "Hyperia City Prerelease (Sealed) @ ZEN",
@@ -78298,6 +78658,16 @@
     "start_datetime": "2026-10-19T07:30:00+00:00",
     "registered_user_count": 9,
     "starting_player_count": 10
+  },
+  {
+    "id": 1187849,
+    "store_id": 17154,
+    "name": "Lorcana Locals @ Zen",
+    "category": "league",
+    "event_status": "EVENT_FINISHED",
+    "start_datetime": "2026-10-19T07:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
   },
   {
     "id": 890199,
@@ -78354,10 +78724,10 @@
     "store_id": 17154,
     "name": "Lorcana: Casual Play @ Zen",
     "category": "league",
-    "event_status": "REGISTRATION_OPEN",
+    "event_status": "EVENT_FINISHED",
     "start_datetime": "2026-11-05T06:30:00+00:00",
-    "registered_user_count": 0,
-    "starting_player_count": 0
+    "registered_user_count": 8,
+    "starting_player_count": 8
   },
   {
     "id": 1187852,
@@ -78506,6 +78876,16 @@
     "category": "league",
     "event_status": "REGISTRATION_OPEN",
     "start_datetime": "2026-12-28T07:30:00+00:00",
+    "registered_user_count": 0,
+    "starting_player_count": 0
+  },
+  {
+    "id": 1245695,
+    "store_id": 17154,
+    "name": "Lorcana: Casual Play @ Zen",
+    "category": "league",
+    "event_status": "REGISTRATION_OPEN",
+    "start_datetime": "2026-12-31T06:30:00+00:00",
     "registered_user_count": 0,
     "starting_player_count": 0
   },
