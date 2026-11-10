@@ -405,7 +405,7 @@
     "longitude": 173.9566787
   },
   {
-    "id": 16574,
+    "id": 687,
     "name": "Card Merchant Christchurch",
     "country": "NZ",
     "state": "NZ",
@@ -414,7 +414,7 @@
     "longitude": 172.6121556
   },
   {
-    "id": 687,
+    "id": 16574,
     "name": "Card Merchant Christchurch",
     "country": "NZ",
     "state": "NZ",
@@ -1057,9 +1057,9 @@
     "name": "Gamer's Resort",
     "country": "AU",
     "state": "VIC",
-    "full_address": "20 Edward St, Shepparton VIC 3630, Australia",
-    "latitude": -36.3786291,
-    "longitude": 145.40336159999998
+    "full_address": "135 Maude Street, Shepparton, VIC, 3630, AU",
+    "latitude": -36.377842,
+    "longitude": 145.4018734
   },
   {
     "id": 16736,
@@ -1107,20 +1107,20 @@
     "longitude": 151.0053476
   },
   {
-    "id": 57160,
-    "name": "Games Lab",
-    "country": "NZ",
-    "state": "NZ",
-    "full_address": "223B Green Lane West, Epsom, Auckland, Epsom, Auckland, 1051, NZ",
-    "latitude": -36.8928485,
-    "longitude": 174.7789631
-  },
-  {
     "id": 1990,
     "name": "Games Lab",
     "country": "NZ",
     "state": "NZ",
     "full_address": "223B Green Lane West, Auckland, Auckland, 1051, NZ",
+    "latitude": -36.8928485,
+    "longitude": 174.7789631
+  },
+  {
+    "id": 57160,
+    "name": "Games Lab",
+    "country": "NZ",
+    "state": "NZ",
+    "full_address": "223B Green Lane West, Epsom, Auckland, Epsom, Auckland, 1051, NZ",
     "latitude": -36.8928485,
     "longitude": 174.7789631
   },
@@ -1296,20 +1296,20 @@
     "longitude": 144.217894
   },
   {
-    "id": 16505,
-    "name": "Good Games Adelaide",
-    "country": "AU",
-    "state": "SA",
-    "full_address": "88 Grenfell Street, Adelaide, SA, 5000, AU",
-    "latitude": -34.92403,
-    "longitude": 138.6030835
-  },
-  {
     "id": 2222,
     "name": "Good Games Adelaide",
     "country": "AU",
     "state": "SA",
     "full_address": "88 Grenfell Street, ADELAIDE, SA, 5000, AU",
+    "latitude": -34.92403,
+    "longitude": 138.6030835
+  },
+  {
+    "id": 16505,
+    "name": "Good Games Adelaide",
+    "country": "AU",
+    "state": "SA",
+    "full_address": "88 Grenfell Street, Adelaide, SA, 5000, AU",
     "latitude": -34.92403,
     "longitude": 138.6030835
   },
@@ -1894,9 +1894,9 @@
     "name": "Hobby Lords Wellington",
     "country": "NZ",
     "state": "NZ",
-    "full_address": "174 High Street, Lower Hutt, Wellington, 5010, NZ",
-    "latitude": -41.2095849,
-    "longitude": 174.9027793
+    "full_address": "191 High Street, Hutt Central, 6035, NZ",
+    "latitude": -41.2090851,
+    "longitude": 174.902965
   },
   {
     "id": 2465,
@@ -1971,15 +1971,6 @@
     "longitude": 172.5996917
   },
   {
-    "id": 36982,
-    "name": "Irresistible Force",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "2 Grevillea Street, SHOP 17, Tanah Merah, QLD, 4128, AU",
-    "latitude": -27.6626982,
-    "longitude": 153.1703521
-  },
-  {
     "id": 16338,
     "name": "Irresistible Force",
     "country": "AU",
@@ -1987,6 +1978,15 @@
     "full_address": "2 Grevillea Street, SHOP 17, Tanah Merah, QLD, 4128, AU",
     "latitude": -27.66274959999999,
     "longitude": 153.1703824
+  },
+  {
+    "id": 36982,
+    "name": "Irresistible Force",
+    "country": "AU",
+    "state": "QLD",
+    "full_address": "2 Grevillea Street, SHOP 17, Tanah Merah, QLD, 4128, AU",
+    "latitude": -27.6626982,
+    "longitude": 153.1703521
   },
   {
     "id": 65538,
@@ -2160,15 +2160,6 @@
     "longitude": 151.2037718
   },
   {
-    "id": 24546,
-    "name": "Lion's Den Collectibles Bonnyrigg",
-    "country": "AU",
-    "state": "NSW",
-    "full_address": "100 Bonnyrigg Ave, shop 11b, Bonnyrigg, NSW, 2177, AU",
-    "latitude": -33.8876529,
-    "longitude": 150.8868969
-  },
-  {
     "id": 54020,
     "name": "Lion's Den Collectibles Bonnyrigg",
     "country": "AU",
@@ -2176,6 +2167,15 @@
     "full_address": "100 Bonnyrigg Ave, Bonnyrigg NSW 2177, Australia",
     "latitude": -33.8864267,
     "longitude": 150.8886943
+  },
+  {
+    "id": 24546,
+    "name": "Lion's Den Collectibles Bonnyrigg",
+    "country": "AU",
+    "state": "NSW",
+    "full_address": "100 Bonnyrigg Ave, shop 11b, Bonnyrigg, NSW, 2177, AU",
+    "latitude": -33.8876529,
+    "longitude": 150.8868969
   },
   {
     "id": 24548,
@@ -2430,15 +2430,6 @@
     "longitude": 153.03731299999998
   },
   {
-    "id": 24192,
-    "name": "Mr Tofu Card Store",
-    "country": "NZ",
-    "state": "NZ",
-    "full_address": "30/90A Hobsonville Road, Auckland, 0618, NZ",
-    "latitude": -36.8107131,
-    "longitude": 174.6323212
-  },
-  {
     "id": 24605,
     "name": "Mr Tofu Card Store",
     "country": "NZ",
@@ -2446,6 +2437,15 @@
     "full_address": "90 Hobsonville Rd, Hobsonville, Auckland, 0618, West Harbour, Auckland, 0618, NZ",
     "latitude": -36.8128906,
     "longitude": 174.6324972
+  },
+  {
+    "id": 24192,
+    "name": "Mr Tofu Card Store",
+    "country": "NZ",
+    "state": "NZ",
+    "full_address": "30/90A Hobsonville Road, Auckland, 0618, NZ",
+    "latitude": -36.8107131,
+    "longitude": 174.6323212
   },
   {
     "id": 29734,
@@ -2785,9 +2785,9 @@
     "name": "Realms of Magic and Miniatures",
     "country": "AU",
     "state": "QLD",
-    "full_address": "7 Castlemaine Street, KIRWAN, Townsville, QLD, 4817, AU",
-    "latitude": -19.300358,
-    "longitude": 146.7350218
+    "full_address": "3 Tavern Street, Townsville, QLD, 4817, AU",
+    "latitude": -19.3020353,
+    "longitude": 146.7346863
   },
   {
     "id": 18934,
@@ -2803,9 +2803,9 @@
     "name": "Relic Games",
     "country": "AU",
     "state": "NSW",
-    "full_address": "54 Cobra St, Dubbo, NSW, 2830, AU",
-    "latitude": -32.2533828,
-    "longitude": 148.6048544
+    "full_address": "34B Victoria Street, Dubbo, NSW, 2830, AU",
+    "latitude": -32.253542583050105,
+    "longitude": 148.6048364523441
   },
   {
     "id": 17017,
