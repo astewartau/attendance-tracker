@@ -27,15 +27,6 @@
     "longitude": 138.5605797
   },
   {
-    "id": 105,
-    "name": "AJs Place",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "49 Guy Street, Shop 2, Warwick, QLD, 4370, AU",
-    "latitude": -28.2155527,
-    "longitude": 152.0299928
-  },
-  {
     "id": 108,
     "name": "AKIKAMBARA",
     "country": "AU",
@@ -171,15 +162,6 @@
     "longitude": 174.9024569
   },
   {
-    "id": 56510,
-    "name": "Bazinga Cards, Collectibles & Arcade",
-    "country": "AU",
-    "state": "SA",
-    "full_address": "1 Murray St, shop 22, Nuriootpa, SA, 5355, AU",
-    "latitude": -34.4740878,
-    "longitude": 138.9949901
-  },
-  {
     "id": 56511,
     "name": "Bazinga Cards, Collectibles & Arcade Munno Para",
     "country": "AU",
@@ -187,6 +169,15 @@
     "full_address": "10 Unity Way, Munno Para SA 5115, Munno Para, SA, 5115, AU",
     "latitude": -34.6716152,
     "longitude": 138.6817183
+  },
+  {
+    "id": 56510,
+    "name": "Bazinga Cards, Collectibles & Arcade Munno Para & Barossa",
+    "country": "AU",
+    "state": "SA",
+    "full_address": "1 Murray St, shop 22, Nuriootpa, SA, 5355, AU",
+    "latitude": -34.4740878,
+    "longitude": 138.9949901
   },
   {
     "id": 24138,
@@ -333,15 +324,6 @@
     "longitude": 175.0059416
   },
   {
-    "id": 56339,
-    "name": "Canberra Lorcana Community",
-    "country": "AU",
-    "state": "ACT",
-    "full_address": "Corinna St, Phillip, ACT, 2606, AU",
-    "latitude": -35.3447184,
-    "longitude": 149.08424119999998
-  },
-  {
     "id": 49113,
     "name": "Card Den",
     "country": "AU",
@@ -405,7 +387,7 @@
     "longitude": 173.9566787
   },
   {
-    "id": 687,
+    "id": 16574,
     "name": "Card Merchant Christchurch",
     "country": "NZ",
     "state": "NZ",
@@ -414,7 +396,7 @@
     "longitude": 172.6121556
   },
   {
-    "id": 16574,
+    "id": 687,
     "name": "Card Merchant Christchurch",
     "country": "NZ",
     "state": "NZ",
@@ -702,15 +684,6 @@
     "longitude": 153.3653868
   },
   {
-    "id": 1008,
-    "name": "Craiola's",
-    "country": "AU",
-    "state": "SA",
-    "full_address": "129 Commercial St W, Mount Gambier, SA, 5290, AU",
-    "latitude": -37.8268668,
-    "longitude": 140.7752594
-  },
-  {
     "id": 23629,
     "name": "Critical Hit Gaming",
     "country": "AU",
@@ -747,15 +720,6 @@
     "longitude": 152.9396391
   },
   {
-    "id": 1049,
-    "name": "CW TabletopGames",
-    "country": "AU",
-    "state": "VIC",
-    "full_address": "501 Raglan Parade, Warrnambool, VIC, 3280, AU",
-    "latitude": -38.3824246,
-    "longitude": 142.4887806
-  },
-  {
     "id": 1078,
     "name": "DAN SOLO COMICS & COLLECTABLES",
     "country": "AU",
@@ -763,15 +727,6 @@
     "full_address": "57 Hopkins Street, MOONAH, TAS, 7009, AU",
     "latitude": -42.8462405,
     "longitude": 147.2952909
-  },
-  {
-    "id": 1089,
-    "name": "Dark Magician Pop Culture Superstore pty ltd",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "203 Brisbane Street, Shop1, IPSWICH, QLD, 4305, AU",
-    "latitude": -27.6139111,
-    "longitude": 152.7571674
   },
   {
     "id": 48181,
@@ -1296,20 +1251,20 @@
     "longitude": 144.217894
   },
   {
-    "id": 16505,
-    "name": "Good Games Adelaide",
-    "country": "AU",
-    "state": "SA",
-    "full_address": "88 Grenfell Street, Adelaide, SA, 5000, AU",
-    "latitude": -34.92403,
-    "longitude": 138.6030835
-  },
-  {
     "id": 2222,
     "name": "Good Games Adelaide",
     "country": "AU",
     "state": "SA",
     "full_address": "88 Grenfell Street, ADELAIDE, SA, 5000, AU",
+    "latitude": -34.92403,
+    "longitude": 138.6030835
+  },
+  {
+    "id": 16505,
+    "name": "Good Games Adelaide",
+    "country": "AU",
+    "state": "SA",
+    "full_address": "88 Grenfell Street, Adelaide, SA, 5000, AU",
     "latitude": -34.92403,
     "longitude": 138.6030835
   },
@@ -1827,15 +1782,6 @@
     "longitude": 174.06738834069213
   },
   {
-    "id": 57358,
-    "name": "Hobby Lords New Plymouth Limited",
-    "country": "NZ",
-    "state": "NZ",
-    "full_address": "15, Devon St W, New Plymouth, Taranaki Region, 4310, NZ",
-    "latitude": -39.0580569,
-    "longitude": 174.0738471
-  },
-  {
     "id": 2463,
     "name": "Hobby Lords Palmerston North",
     "country": "NZ",
@@ -1894,9 +1840,9 @@
     "name": "Hobby Lords Wellington",
     "country": "NZ",
     "state": "NZ",
-    "full_address": "174 High Street, Lower Hutt, Wellington, 5010, NZ",
-    "latitude": -41.2095849,
-    "longitude": 174.9027793
+    "full_address": "191 High Street, Hutt Central, 6035, NZ",
+    "latitude": -41.2090851,
+    "longitude": 174.902965
   },
   {
     "id": 2465,
@@ -1971,15 +1917,6 @@
     "longitude": 172.5996917
   },
   {
-    "id": 16338,
-    "name": "Irresistible Force",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "2 Grevillea Street, SHOP 17, Tanah Merah, QLD, 4128, AU",
-    "latitude": -27.66274959999999,
-    "longitude": 153.1703824
-  },
-  {
     "id": 36982,
     "name": "Irresistible Force",
     "country": "AU",
@@ -1987,6 +1924,15 @@
     "full_address": "2 Grevillea Street, SHOP 17, Tanah Merah, QLD, 4128, AU",
     "latitude": -27.6626982,
     "longitude": 153.1703521
+  },
+  {
+    "id": 16338,
+    "name": "Irresistible Force",
+    "country": "AU",
+    "state": "QLD",
+    "full_address": "2 Grevillea Street, SHOP 17, Tanah Merah, QLD, 4128, AU",
+    "latitude": -27.66274959999999,
+    "longitude": 153.1703824
   },
   {
     "id": 65538,
@@ -2394,15 +2340,6 @@
     "longitude": 150.5151563
   },
   {
-    "id": 14569,
-    "name": "Mind Games Burnie",
-    "country": "AU",
-    "state": "TAS",
-    "full_address": "2, 35-39, Wilmot St, Burnie, TAS, 7320, AU",
-    "latitude": -41.0509648,
-    "longitude": 145.9055964
-  },
-  {
     "id": 3417,
     "name": "Mint Collectables",
     "country": "AU",
@@ -2547,15 +2484,6 @@
     "longitude": 145.2882659
   },
   {
-    "id": 14827,
-    "name": "Odyssey TCG",
-    "country": "AU",
-    "state": "Unknown",
-    "full_address": "Shed 3, 12 Leda Boulevard, Morayfeild, Q, 4506, AU",
-    "latitude": -27.1020698,
-    "longitude": 152.9496512
-  },
-  {
     "id": 5399,
     "name": "Omega Games",
     "country": "AU",
@@ -2601,15 +2529,6 @@
     "longitude": 144.9634297
   },
   {
-    "id": 40707,
-    "name": "Organised Ink",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "179, Alfred St, Fortitude Valley, QLD, 4006, AU",
-    "latitude": -27.4569641,
-    "longitude": 153.0318541
-  },
-  {
     "id": 16901,
     "name": "Otakumart",
     "country": "NZ",
@@ -2633,15 +2552,6 @@
     "country": "AU",
     "state": "SA",
     "full_address": "11 Graves St, Kadina SA 5554, Australia",
-    "latitude": -33.963788,
-    "longitude": 137.712241
-  },
-  {
-    "id": 57936,
-    "name": "Paper or Plastic",
-    "country": "AU",
-    "state": "SA",
-    "full_address": "11, Graves St, Kadina, SA, 5554, AU",
     "latitude": -33.963788,
     "longitude": 137.712241
   },
@@ -2689,24 +2599,6 @@
     "full_address": "39 Essex St, Pascoe Vale, VIC, 3044, AU",
     "latitude": -37.7275053,
     "longitude": 144.9475464
-  },
-  {
-    "id": 17164,
-    "name": "Pop Culture Essentials",
-    "country": "AU",
-    "state": "NSW",
-    "full_address": "7, 915, Old Northern Rd, Dural, NSW, 2158, AU",
-    "latitude": -33.6833306,
-    "longitude": 151.02866
-  },
-  {
-    "id": 24852,
-    "name": "Pop Culture Larrikin",
-    "country": "AU",
-    "state": "VIC",
-    "full_address": "6, Church St, Bayswater, VIC, 3153, AU",
-    "latitude": -37.840838999999995,
-    "longitude": 145.263497
   },
   {
     "id": 41845,
@@ -2758,9 +2650,9 @@
     "name": "Raptor Games",
     "country": "AU",
     "state": "QLD",
-    "full_address": "74 Florence Street, Wynnum, QLD, 4178, AU",
-    "latitude": -27.4438985,
-    "longitude": 153.1737398
+    "full_address": "2/105 Bay Terrace, Wynnum QLD 4178, Australia",
+    "latitude": -27.444031799999998,
+    "longitude": 153.1736587
   },
   {
     "id": 18260,
@@ -2785,9 +2677,9 @@
     "name": "Realms of Magic and Miniatures",
     "country": "AU",
     "state": "QLD",
-    "full_address": "7 Castlemaine Street, KIRWAN, Townsville, QLD, 4817, AU",
-    "latitude": -19.300358,
-    "longitude": 146.7350218
+    "full_address": "3 Tavern Street, Townsville, QLD, 4817, AU",
+    "latitude": -19.3020353,
+    "longitude": 146.7346863
   },
   {
     "id": 18934,
@@ -2959,15 +2851,6 @@
     "full_address": "170-172, Patton St, Broken Hill, NSW, 2880, AU",
     "latitude": -31.979054800000004,
     "longitude": 141.4616719
-  },
-  {
-    "id": 4305,
-    "name": "Small Worlds FLGS",
-    "country": "AU",
-    "state": "ACT",
-    "full_address": "33 Gartside Street, 6, Wanniassa, ACT, 2903, AU",
-    "latitude": -35.4053781,
-    "longitude": 149.100095
   },
   {
     "id": 37960,
@@ -3240,15 +3123,6 @@
     "longitude": 138.5324675
   },
   {
-    "id": 59497,
-    "name": "The Cardhub Glen Innes",
-    "country": "AU",
-    "state": "NSW",
-    "full_address": "208 Grey St, Glen Innes NSW 2370, Australia",
-    "latitude": -29.736436999999995,
-    "longitude": 151.736331
-  },
-  {
     "id": 16913,
     "name": "The Cardhub Greenacre",
     "country": "AU",
@@ -3283,6 +3157,15 @@
     "full_address": "16 Hearne Street, Shop 4, Mortdale, NSW, 2223, AU",
     "latitude": -33.9650021,
     "longitude": 151.0662431
+  },
+  {
+    "id": 24106,
+    "name": "The Deck Box",
+    "country": "AU",
+    "state": "NT",
+    "full_address": "u4/83 Coonawarra Rd, Winnellie NT 0820, Australia",
+    "latitude": -12.4301038,
+    "longitude": 130.8817244
   },
   {
     "id": 24569,
@@ -3325,9 +3208,9 @@
     "name": "The Games District",
     "country": "AU",
     "state": "VIC",
-    "full_address": "unit 4/7-11 Lindon Ct, Tullamarine VIC 3043, Australia",
-    "latitude": -37.7108023,
-    "longitude": 144.8509798
+    "full_address": "55 Parer Road, Unit 2, Airport West, VIC, 3042, AU",
+    "latitude": -37.7202801,
+    "longitude": 144.8860288
   },
   {
     "id": 24923,
@@ -3375,15 +3258,6 @@
     "longitude": -2.0
   },
   {
-    "id": 58519,
-    "name": "The Training Room - Bundaberg",
-    "country": "AU",
-    "state": "QLD",
-    "full_address": "1 Mary St, Shop 11, Bundaberg East, QLD, 4670, AU",
-    "latitude": 1.0,
-    "longitude": -2.0
-  },
-  {
     "id": 19528,
     "name": "The Wicked Goblin",
     "country": "AU",
@@ -3391,15 +3265,6 @@
     "full_address": "58 Lake St, Cairns City QLD 4870, Australia",
     "latitude": -16.922744899999998,
     "longitude": 145.7771636
-  },
-  {
-    "id": 16907,
-    "name": "T One Australia (Keon Park Station Store)",
-    "country": "AU",
-    "state": "VIC",
-    "full_address": "23 Johnson St, Reservoir VIC 3073, Australia",
-    "latitude": -37.696729399999995,
-    "longitude": 145.01233009999999
   },
   {
     "id": 17854,
@@ -3411,13 +3276,13 @@
     "longitude": 145.0123301
   },
   {
-    "id": 5042,
-    "name": "Top Deck Games",
+    "id": 16907,
+    "name": "T One Australia (Keon Park Station Store)",
     "country": "AU",
     "state": "VIC",
-    "full_address": "1 Hillary St, 2, Braybrook, VIC, 3019, AU",
-    "latitude": -37.80069943835861,
-    "longitude": 144.89535415037562
+    "full_address": "23 Johnson St, Reservoir VIC 3073, Australia",
+    "latitude": -37.696729399999995,
+    "longitude": 145.01233009999999
   },
   {
     "id": 39739,
@@ -3504,8 +3369,8 @@
     "id": 19270,
     "name": "Underground Games",
     "country": "AU",
-    "state": "Unknown",
-    "full_address": "Shop 12 Exchange Arcade , Broken Hill, NS, 2880, AU",
+    "state": "NSW",
+    "full_address": "48 Darling St, Wentworth NSW 2648, Australia",
     "latitude": -34.107372999999995,
     "longitude": 141.91892909999999
   },
