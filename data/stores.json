@@ -1251,20 +1251,20 @@
     "longitude": 144.217894
   },
   {
-    "id": 2222,
-    "name": "Good Games Adelaide",
-    "country": "AU",
-    "state": "SA",
-    "full_address": "88 Grenfell Street, ADELAIDE, SA, 5000, AU",
-    "latitude": -34.92403,
-    "longitude": 138.6030835
-  },
-  {
     "id": 16505,
     "name": "Good Games Adelaide",
     "country": "AU",
     "state": "SA",
     "full_address": "88 Grenfell Street, Adelaide, SA, 5000, AU",
+    "latitude": -34.92403,
+    "longitude": 138.6030835
+  },
+  {
+    "id": 2222,
+    "name": "Good Games Adelaide",
+    "country": "AU",
+    "state": "SA",
+    "full_address": "88 Grenfell Street, ADELAIDE, SA, 5000, AU",
     "latitude": -34.92403,
     "longitude": 138.6030835
   },
@@ -1840,9 +1840,9 @@
     "name": "Hobby Lords Wellington",
     "country": "NZ",
     "state": "NZ",
-    "full_address": "191 High Street, Hutt Central, 6035, NZ",
-    "latitude": -41.2090851,
-    "longitude": 174.902965
+    "full_address": "174 High Street, Lower Hutt, Wellington, 5010, NZ",
+    "latitude": -41.2095849,
+    "longitude": 174.9027793
   },
   {
     "id": 2465,
@@ -2677,9 +2677,9 @@
     "name": "Realms of Magic and Miniatures",
     "country": "AU",
     "state": "QLD",
-    "full_address": "3 Tavern Street, Townsville, QLD, 4817, AU",
-    "latitude": -19.3020353,
-    "longitude": 146.7346863
+    "full_address": "7 Castlemaine Street, KIRWAN, Townsville, QLD, 4817, AU",
+    "latitude": -19.300358,
+    "longitude": 146.7350218
   },
   {
     "id": 18934,
@@ -3267,15 +3267,6 @@
     "longitude": 145.7771636
   },
   {
-    "id": 16907,
-    "name": "T One Australia (Keon Park Station Store)",
-    "country": "AU",
-    "state": "VIC",
-    "full_address": "23 Johnson St, Reservoir VIC 3073, Australia",
-    "latitude": -37.696729399999995,
-    "longitude": 145.01233009999999
-  },
-  {
     "id": 17854,
     "name": "T One Australia (Keon Park Station Store)",
     "country": "AU",
@@ -3283,6 +3274,15 @@
     "full_address": "U57/7 Dalton Rd, Thomastown, VIC, 3074, AU",
     "latitude": -37.6967294,
     "longitude": 145.0123301
+  },
+  {
+    "id": 16907,
+    "name": "T One Australia (Keon Park Station Store)",
+    "country": "AU",
+    "state": "VIC",
+    "full_address": "23 Johnson St, Reservoir VIC 3073, Australia",
+    "latitude": -37.696729399999995,
+    "longitude": 145.01233009999999
   },
   {
     "id": 39739,
